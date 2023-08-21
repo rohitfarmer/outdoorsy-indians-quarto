@@ -16,7 +16,7 @@ website:
       - icon: reddit
         href: https://www.reddit.com/r/OutdoorsyIndians/
       - icon: rss
-        href: blog.xml
+        href: posts.xml
   page-footer: 
     left: "<b><a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>Copyright CC BY-NC-SA 4.0</a></b>"
     right: ""
