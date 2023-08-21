@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  favicon: favicon.ico
+  title: "Outdoorsy Indians"
+  site-url: https://www.outdoorsyindians.com
+  image: "logo-nobg.png"
+  description: "Outdoorsy Indians - a ommunity of Indians who love to be outdoors."
+  navbar:
+    right:
+      - about.qmd
+      - posts.qmd
+      - icon: instagram
+        href: https://www.instagram.com/outdoorsyindians/
+      - icon: reddit
+        href: https://www.reddit.com/r/OutdoorsyIndians/
+      - icon: rss
+        href: blog.xml
+  page-footer: 
+    left: "<b><a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>Copyright CC BY-NC-SA 4.0</a></b>"
+    right: ""
+    center: ""
+    border: true
+    background: dark
+  cookie-consent:
+    type: implied 
+    style: simple
+    palette: dark
+  google-analytics:
+    tracking-id: "G-WWW1CKKRMD "
+    anonymize-ip: true
+  twitter-card: true
+  open-graph: true
+ 
+format:
+  html:
+    theme: 
+      light: Zephyr
+editor: visual
+
+
+
