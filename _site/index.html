@@ -67,7 +67,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-recentPosts .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-recentPosts'] = new List('listing-recentPosts', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -124,9 +124,11 @@ cookieconsent.run({
 
 <link rel="stylesheet" href="css/styles.css">
 <meta property="og:title" content="">
+<meta property="og:image" content="https://www.outdoorsyindians.com/images/reddit.svg">
 <meta property="og:site-name" content="Outdoorsy Indians">
 <meta name="twitter:title" content="">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://www.outdoorsyindians.com/images/reddit.svg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -155,11 +157,6 @@ cookieconsent.run({
  <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.instagram.com/outdoorsyindians/" rel="" target=""><i class="bi bi-instagram" role="img">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
     <a class="nav-link" href="https://www.reddit.com/r/OutdoorsyIndians/" rel="" target=""><i class="bi bi-reddit" role="img">
 </i> 
  <span class="menu-text"></span></a>
@@ -171,6 +168,11 @@ cookieconsent.run({
   </li>  
 </ul>
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
 </div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -200,15 +202,9 @@ body {
     <p>Check out our blog posts for tutorials, tips, and gadget recommendations.</p>
   </div>
 </div>
-<section id="recent-posts" class="level2">
-<h2 class="anchored" data-anchor-id="recent-posts">Recent posts</h2>
-<script src="js/carousel.js"></script>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<section id="recent-posts" class="level2" style="text-align:center;">
+<h2 style="text-align:center;" class="anchored" data-anchor-id="recent-posts">Recent Posts</h2>
+<div id="listing-recentPosts" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-categories="Survival,Cutting,Combustion,Cover,Container,Cordage,Communication,Navigation,Insect Repellent" data-listing-date-sort="1692849600000" data-listing-file-modified-sort="1692924678172" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11">
 <a href="./posts/001-00-essentials-for-outdoor-survival/index.html" class="quarto-grid-link">
@@ -237,7 +233,22 @@ Aug 24, 2023
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+<p><br></p>
+</section>
+<section id="ask-questions-or-participate-in-discussions" class="level2" style="text-align: center;">
+<h2 style="text-align: center;" class="anchored" data-anchor-id="ask-questions-or-participate-in-discussions">Ask Questions or Participate in Discussions</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.reddit.com/r/OutdoorsyIndians/"><img src="images/reddit.svg" class="img-fluid figure-img" alt="Reddit logo hyperlinked to Outdoorsy Indians subreddit" width="100"></a></p>
+</figure>
+</div>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -474,10 +485,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left"><b><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Copyright CC BY-NC-SA 4.0</a></b></div>   
-    <div class="nav-footer-center">
-      &nbsp;
-    <div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-left"><b>Contact us: outdoorsyindians@gmail.com</b></div>   
+    <div class="nav-footer-center"><b><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Copyright CC BY-NC-SA 4.0</a></b><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

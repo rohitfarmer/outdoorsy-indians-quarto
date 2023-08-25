@@ -3,6 +3,13 @@ page-layout: full
 format:
   html:
     css: "css/styles.css"
+listing:
+  - id: recentPosts
+    type: grid
+    sort: "date desc"
+    max-items: 6
+    contents:
+      - "posts/*/*.qmd"
 ---
 
 ```{=html}
@@ -21,17 +28,13 @@ body {
   </div>
 </div>
 ```
-## Recent posts
+## Recent Posts {style="text-align:center;"}
 
----
-listing:
-  type: grid
-  sort: "date desc"
-  max-items: 6
-  contents:
-    - "posts/*/*.qmd"
----
+::: {#recentPosts}
+:::
 
-```{=html}
-<script src="js/carousel.js"></script>
-```
+<br>
+
+## Ask Questions or Participate in Discussions {style="text-align: center;"}
+
+[![](images/reddit.svg){fig-alt="Reddit logo hyperlinked to Outdoorsy Indians subreddit" fig-align="center" width="100"}](https://www.reddit.com/r/OutdoorsyIndians/)

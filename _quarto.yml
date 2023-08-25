@@ -5,22 +5,20 @@ website:
   favicon: favicon.ico
   title: "Outdoorsy Indians"
   site-url: https://www.outdoorsyindians.com
-  image: "logo-nobg.png"
   description: "Outdoorsy Indians - a ommunity of Indians who love to be outdoors."
+  reader-mode: true
   navbar:
     right:
       - about.qmd
       - posts.qmd
-      - icon: instagram
-        href: https://www.instagram.com/outdoorsyindians/
       - icon: reddit
         href: https://www.reddit.com/r/OutdoorsyIndians/
       - icon: rss
         href: posts.xml
   page-footer: 
-    left: "<b><a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>Copyright CC BY-NC-SA 4.0</a></b>"
+    center: "<b><a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>Copyright CC BY-NC-SA 4.0</a></b>"
+    left: "<b>Contact us: outdoorsyindians@gmail.com</b>"
     right: ""
-    center: ""
     border: true
     background: dark
   cookie-consent:
