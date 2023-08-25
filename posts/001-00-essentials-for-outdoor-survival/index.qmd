@@ -1,7 +1,7 @@
 ---
 title: "Essentials for Outdoor Survival"
 description: "Yet another guide to tools and skills required for outdoor survival"
-categories: [Survival, Cutting, Combustion, Cover, Container, Cordage, Communication, Navigation, Insect Repellent]
+categories: [Survival, First Aid, Cutting, Combustion, Cover, Container, Cordage, Communication, Navigation, Insect Repellent]
 author: 
   - name: "Rohit Farmer"
 date: "2023-08-24"
@@ -33,6 +33,15 @@ Panic clouds judgment and impedes decision-making.
 Instead, take a deep breath and embrace the stillness within.
 Calmness allows you to assess your situation, consider your options, and formulate a rational plan.
 A calm mind can save your life even in the face of danger.
+
+## First aid kit: treat while you wait
+
+A well-equipped first aid kit can be a lifesaver in any outdoor adventure.
+Accidents and injuries can happen unexpectedly, and being prepared with a first aid kit can make a significant difference in managing medical situations effectively.
+What a first aid kit should include depends on the nature of the activity and the people involved.
+Carrying a well-stocked first aid kit is a proactive step towards ensuring safety during outdoor expeditions.
+However, at a minimum, a good kit should include essential items like adhesive bandages, gauze pads, antiseptic wipes/creams, pain relievers, and any personal medications.
+Additionally, items such as a CAT tourniquet, splint materials, blister treatment, and compact emergency blankets are invaluable for addressing a variety of potential injuries. 
 
 ## Cutting: tools for crafting and survival
 
@@ -173,4 +182,10 @@ It is not to scare you or get paranoid about every little detail.
 For most outdoor activities, we are not far from help; therefore, don't get too carried away thinking about survival and miss the beauty and enjoyment of the great outdoors.
 Otherwise, that would be self-defeating.
 
-Now get on, and I might meet you on the trail!
+**Now get on, and I might meet you on the trail!**
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Update history
+
+2023-08-25 First aid kit section added
+:::
