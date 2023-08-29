@@ -12,6 +12,7 @@ listing:
       - "posts/*/*.qmd"
 ---
 
+:::{.column-screen}
 ```{=html}
 <style>
 body {
@@ -28,13 +29,15 @@ body {
   </div>
 </div>
 ```
+:::
+
+:::{.column-screen-inset}
 ## Recent Posts {style="text-align:center;"}
 
 ::: {#recentPosts}
 :::
 
-<br>
-
 ## Ask Questions or Participate in Discussions {style="text-align: center;"}
 
 [![](images/reddit.svg){fig-alt="Reddit logo hyperlinked to Outdoorsy Indians subreddit" fig-align="center" width="100"}](https://www.reddit.com/r/OutdoorsyIndians/)
+:::

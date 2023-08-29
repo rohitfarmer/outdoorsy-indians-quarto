@@ -33,10 +33,10 @@ However, without knowing a thing about propelling watercraft, you may be hesitan
 Therefore, I recommend taking classes on kayaking in a group setting first.
 That is how I got into kayaking and stand-up paddle boarding.
 Group classes are fun and have a low entry bar.
-Everyone is in the same boat (pun) and motivates each other.
+Everyone is in the same boat (dad joke) and motivates each other.
 Various outdoorsy organizations, such as REI, conduct classes frequently throughout the year or as weather permits.
 
-I started [kayaking](https://www.rei.com/events/5668/learn-to-kayak-class) and [stand-up paddle boarding](https://www.rei.com/events/9390/learn-to-stand-up-paddleboard-class) by participating in classes organized by REI.
+I started [kayaking](https://www.rei.com/events/5668/learn-to-kayak-class) and [stand-up paddle boarding (SUP)](https://www.rei.com/events/9390/learn-to-stand-up-paddleboard-class) by participating in classes organized by REI.
 The classes were conveniently located near my home, the instructors were terrific, and the REI provided all the necessary equipment, including a kayak, personal floatation device (PFD; life jacket), and accessories like dry bags for phones, car keys, etc.
 Lessons were long enough to get some practice time on the water but not overwhelming or physically straining.
 I did two classes, one for kayaking and the second for SUP, and my group comprised people from a wide age and fitness range.
@@ -72,6 +72,8 @@ I like the flotation feature because a typical waterproof case can protect your 
 
 There are several different types of kayaks, each designed for specific purposes and environments.
 Here are some of the most common types:
+
+[**Tracking** in kayaking refers to the kayak's ability to maintain a straight course through the water without excessive veering or wandering off course. A kayak with good tracking capabilities will travel in a straight line when paddled, requiring less corrective effort from the paddler to keep it on course.]{.aside}
 
 1.  **Recreational Kayaks:** These kayaks are ideal for beginners and casual paddlers. They are stable, easy to maneuver, and typically have a larger cockpit for easy entry and exit. Recreational kayaks are great for calm waters like lakes, slow rivers, and calm coastal areas.
 2.  **Touring Kayaks:** Touring kayaks are designed for longer journeys and offer better tracking and efficiency in the water. They have more storage space for gear and are suitable for exploring larger bodies of water like lakes, bays, and coastal areas.
