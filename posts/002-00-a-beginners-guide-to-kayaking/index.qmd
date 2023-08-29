@@ -1,0 +1,118 @@
+---
+title: "A Beginner’s Guide to Kayaking"
+description: "A guide on how to pick up kayaking as a hobby"
+categories: [Kayaking, Water Sports, Water Activities, Beginner]
+author: 
+  - name: "Rohit Farmer"
+date: "2023-08-29"
+format:
+  html:
+    include-after-body: ../../comments.html
+---
+
+![That's me in my first learn to kayak class by REI at the Seneca Creek State Park](https://i.imgur.com/2YACDdt.jpeg){.preview-image}
+
+I come from Allahabad (now Prayagraj), UP, India, the home to two of India's most prominent rivers, the Ganges and Yamuna.
+However, besides doing a couple of paid boating trips on the rivers, I never got any opportunity for water sports - it was just not there.
+No boat houses for boat rentals no lessons on kayaking or canoeing.
+I would argue that it's the same in most places in India.
+We can participate in water activities as tourists in certain places, but I do not know anyone who does that as a hobby or sport.
+
+I naturally get attracted to water, and my long-time desire was to get involved in water sports - any type.
+Fortunately, I moved to Maryland in 2019, opening doors for me to take up water activities as a hobby.
+In this article, I will talk about my experience starting as a complete beginner, having no paddling/rowing experience.
+
+# Where to begin and how to gain access to a kayak?
+
+When you start, you may not want to buy a kayak.
+Kayaks are of multiple types, can be expensive, need storage space, and make arrangements to transport them to water.
+All these take some planning and investment.
+You also do not know if you would like it or want to continue it as a long-term hobby.
+If you are in Maryland or most states in the USA, you can rent a vessel during the boating season, usually from Memorial Day to Labor Day.
+However, without knowing a thing about propelling watercraft, you may be hesitant or uncomfortable if not in danger.
+Therefore, I recommend taking classes on kayaking in a group setting first.
+That is how I got into kayaking and stand-up paddle boarding.
+Group classes are fun and have a low entry bar.
+Everyone is in the same boat (pun) and motivates each other.
+Various outdoorsy organizations, such as REI, conduct classes frequently throughout the year or as weather permits.
+
+I started [kayaking](https://www.rei.com/events/5668/learn-to-kayak-class) and [stand-up paddle boarding](https://www.rei.com/events/9390/learn-to-stand-up-paddleboard-class) by participating in classes organized by REI.
+The classes were conveniently located near my home, the instructors were terrific, and the REI provided all the necessary equipment, including a kayak, personal floatation device (PFD; life jacket), and accessories like dry bags for phones, car keys, etc.
+Lessons were long enough to get some practice time on the water but not overwhelming or physically straining.
+I did two classes, one for kayaking and the second for SUP, and my group comprised people from a wide age and fitness range.
+
+Besides beginner classes, REI also conducts tours of varying lengths and fitness requirements of popular attractions in nearby areas.
+For example, popular tours in Maryland are the [Wye Island Kayak Tour](https://www.rei.com/events/57261/wye-island-kayak-tour), [DC Monuments Kayak Tour](https://www.rei.com/events/51817/dc-monuments-kayak-tour), and [Ghosts of the Potomac: Mallows Bay Kayak Tour](https://www.rei.com/events/51859/ghosts-of-the-potomac-mallows-bay-kayak-tour).
+After doing a beginner class, a couple of such tours are an excellent way to practice while still being in a group and with experts who help you learn and rescue if needed.
+I highly recommend REI classes, tours, and other courses led by a professional organization in your area.
+
+::: {.callout-note}
+These courses and tours will cost you some money, and I know for us Indians, especially those living in a foreign country, one of our primary goals is to save money.
+However, I encourage you to fork out a little money and gain these experiences while you still can, and trust me, it will be worth it.
+Do not wait for a friend who might give you a free lesson on a rental one day; those opportunities are hard to come by and are nothing compared to REI or similar classes.
+:::
+
+# Still not ready to buy a kayak, but you want to continue
+
+Even after doing learn to kayak courses and going on a couple of guided tours, if you are still unsure if you should buy your kayak for financial, storage, or any other reasons - similar to me - but you still want to continue.
+Invest in water shoes, a life jacket, and clothing for water activities.
+In 2023, I was planning to buy an inflatable stand-up paddle board and kayak hybrid that I could easily store and haul in my Honda Civic, but for several reasons, I could not.
+So I decided to buy a [life jacket](https://www.rei.com/product/187431/astral-e-ronny-pfd-mens) that fit me well and had more features than the ones you get when you rent a boat.
+Those rental ones are basic and soaked in other people's sweat, which I find gross, even for a few hours.
+In addition to my life jacket, I also own a pair of [water shoes](https://www.rei.com/product/881347/nrs-kicker-remix-wetshoe-water-shoes-mens?redirect-pup=false), [boater's gloves](https://www.rei.com/product/188926/nrs-boaters-glove-mens?redirect-pup=false), a [long-sleeved hooded shirt](https://www.rei.com/product/185196/rei-co-op-sahara-shade-hoodie-mens?redirect-pup=false), a bucket hat, and a pair of [convertible pants](https://www.rei.com/product/202030/rei-co-op-sahara-convertible-pants-mens) for my water activities.
+
+Clean gear that fits you well makes the activity more efficient and comfortable.
+You could spend more time thinking about and practicing your paddling skills than the gross rental life jacket, water shoes, etc.
+It also makes you feel more invested in your hobby and will help you to sustain it longer.
+
+Some other accessories that I find helpful are a [dry bag](https://a.co/d/gyEXzZ6) to keep my car keys, wallet, snack, bandana, and a [phone cover with floatation](https://a.co/d/6A3BW0A) to carry my phone around my neck to take photos.
+I like the flotation feature because a typical waterproof case can protect your phone from water, but it will sink if you drop it in the lake.
+
+# So, you want to take the plunge and buy a kayak
+
+There are several different types of kayaks, each designed for specific purposes and environments.
+Here are some of the most common types:
+
+1.  **Recreational Kayaks:** These kayaks are ideal for beginners and casual paddlers. They are stable, easy to maneuver, and typically have a larger cockpit for easy entry and exit. Recreational kayaks are great for calm waters like lakes, slow rivers, and calm coastal areas.
+2.  **Touring Kayaks:** Touring kayaks are designed for longer journeys and offer better tracking and efficiency in the water. They have more storage space for gear and are suitable for exploring larger bodies of water like lakes, bays, and coastal areas.
+3.  **Sea Kayaks:** Similar to touring kayaks, sea kayaks are designed for open waters, including oceans and rougher conditions. They have a longer hull and are often equipped with features like rudders or skegs to improve tracking and stability.
+4.  **Sit-on-Top Kayaks:** These kayaks have an open design where the paddler sits on top rather than inside a cockpit. They're popular for recreational use, warm climates, and activities like fishing and snorkeling. They're easy to get on and off and self-draining.
+5.  **Inflatable Kayaks:** Inflatable kayaks are portable and convenient, as they can be deflated and packed for easy transport. They are versatile and suitable for calm waters, making them a good option for those with limited storage space.
+6.  **Whitewater Kayaks:** Designed for navigating swift rivers and whitewater rapids, whitewater kayaks are shorter and more maneuverable. They often have a lower volume and specialized features to handle the challenges of fast-moving water.
+7.  **Playboats:** Playboats are a type of whitewater kayak designed for performing tricks and maneuvers in waves and rapids. They are shorter and highly maneuverable, allowing kayakers to engage in freestyle moves.
+8.  **Crossover Kayaks:** These kayaks aim to combine features from different types, making them versatile for various conditions. They might have the stability of a recreational kayak and the efficiency of a touring kayak, for example.
+9.  **Folding Kayaks:** Folding kayaks are made from materials like fabric and metal frames, allowing them to be folded up and stored compactly. They're great for adventurers who want to explore remote areas and have limited transportation options.
+10. **Surf Skis:** Surf skis are long, narrow kayaks designed for speed and efficiency in open water. They are often used in competitive paddling and are suitable for experienced kayakers.
+
+Before choosing a kayak, consider your skill level, intended activities, and the type of waters you'll be exploring.
+Each kayak type has its advantages and limitations, so it's important to pick one that suits your preferences and needs.
+
+## Features of a typical kayak
+
+A typical kayak has several key features contributing to its performance, stability, and functionality.
+Here are the main components you'll find on most kayaks:
+
+1.  **Hull:** The hull is the bottom of the kayak that comes into contact with the water. It can be categorized into two main types: flat and rounded. Flat hulls offer more stability, while rounded hulls provide better maneuverability.
+2.  **Cockpit:** The cockpit is the opening where the kayaker sits. It can vary in size and shape depending on the type of kayak. Sit-on-top kayaks have an open cockpit, while traditional kayaks have a closed cockpit with a cover.
+3.  **Deck:** The deck is the top surface of the kayak. It often features rigging, bungee cords, or straps to secure gear and accessories. On closed-cockpit kayaks, the deck also includes a hatch for storage.
+4.  **Seat:** The seat provides comfort for the paddler during long journeys. Some kayaks have adjustable seats to accommodate different body sizes and paddling styles.
+5.  **Footrests or Foot Pegs:** These adjustable footrests or pegs provide support for your feet and help you apply leverage for powerful paddle strokes.
+6.  **Paddle:** The paddle is the key tool for propelling the kayak through the water. Paddle length and blade shape can vary based on the paddler's height and intended use.
+7.  **Bulkheads:** Bulkheads are partitions inside the kayak that create separate storage compartments, typically in sea kayaks. They provide buoyancy and keep water out of the compartments.
+8.  **Hatch Covers:** Found on sea kayaks and touring kayaks, hatch covers to seal the storage compartments to keep gear dry and prevent water from entering.
+9.  **Deck Rigging:** Bungee cords or straps on the deck are used to secure items like dry bags, water bottles, and other accessories.
+10. **Rudder or Skeg:** These are features on some kayaks, particularly sea kayaks. A rudder is an adjustable fin at the stern that helps with steering in wind and currents, while a skeg is a fixed fin that aids tracking.
+11. **Grab Handles:** Handles located on the bow, stern, and sides of the kayak make it easier to transport the kayak to and from the water.
+12. **Thigh Braces:** Thigh braces are padded areas inside the cockpit that provide contact points for your thighs, helping with control and stability.
+13. **Spray Skirt:** A spray skirt is used with closed cockpit kayaks to seal off the cockpit and prevent water from entering. It's especially useful in rough conditions.
+14. **Paddle Leash:** A paddle leash secures your paddle to the kayak to prevent it from floating away if you accidentally drop it.
+15. **Safety Lines**: These lines run along the perimeter of the kayak and provide a handhold for assisted rescues and self-rescue techniques.
+
+These features can vary based on the type of kayak and its intended use.
+Choosing a kayak with the right features for your skill level, preferred activities, and the water conditions you plan to encounter is important.
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Update history
+
+2023-08-29 First draft
+:::

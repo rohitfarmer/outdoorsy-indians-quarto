@@ -1,13 +1,15 @@
 [
   {
-    "listing": "/posts.html",
+    "listing": "/index.html",
     "items": [
+      "/posts/002-00-a-beginners-guide-to-kayaking/index.html",
       "/posts/001-00-essentials-for-outdoor-survival/index.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/posts.html",
     "items": [
+      "/posts/002-00-a-beginners-guide-to-kayaking/index.html",
       "/posts/001-00-essentials-for-outdoor-survival/index.html"
     ]
   }
