@@ -19,8 +19,8 @@ website:
       - icon: rss
         href: posts.xml
   page-footer: 
-    center: "<b><a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>Copyright CC BY-NC-SA 4.0</a></b>"
-    left: "<b>Contact us: outdoorsyindians@gmail.com</b>"
+    center: "<b>Contact us: outdoorsyindians@gmail.com</b> <br> <b><a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>Copyright CC BY-NC-SA 4.0</a></b>"
+    left: ""
     right: ""
     border: true
     background: dark

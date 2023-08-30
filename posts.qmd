@@ -1,5 +1,6 @@
 ---
 title: Posts
+description: Check out our blog posts for tutorials, tips, and gadget recommendations.
 listing:
   contents: posts
   sort: "date desc"
@@ -8,6 +9,5 @@ listing:
   filter-ui: true
   feed: true
 page-layout: full
-title-block-banner: false
+title-block-banner: true
 ---
-

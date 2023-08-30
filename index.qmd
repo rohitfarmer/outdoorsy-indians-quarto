@@ -1,4 +1,5 @@
 ---
+description: "Outdoorsy Indians - a community of Indians who love to be outdoors."
 page-layout: full
 format:
   html:
@@ -12,7 +13,7 @@ listing:
       - "posts/*/*.qmd"
 ---
 
-:::{.column-screen}
+::: column-screen
 ```{=html}
 <style>
 body {
@@ -25,19 +26,21 @@ body {
 <div class="container">
   <div class="centered-content">
     <h1>Welcome to Outdoorsy Indians - Your Gateway to Adventure!</h1>
-    <p>Check out our blog posts for tutorials, tips, and gadget recommendations.</p>
   </div>
 </div>
 ```
 :::
 
-:::{.column-screen-inset}
-# Recent Posts {style="text-align:center;"}
+::: column-page
+
+## Recent Posts {style="text-align:center;"}
 
 ::: {#recentPosts}
 :::
 
-# Ask Questions or Participate in Discussions {style="text-align: center;"}
+
+## Ask Questions or Participate in Discussions {style="text-align: center;"}
+
 
 [![](images/reddit.svg){fig-alt="Reddit logo hyperlinked to Outdoorsy Indians subreddit" fig-align="center" width="100"}](https://www.reddit.com/r/OutdoorsyIndians/)
 :::

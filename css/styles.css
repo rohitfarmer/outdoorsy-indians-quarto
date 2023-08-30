@@ -1,29 +1,3 @@
-/*
-.banner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px;
-}
-
-.bannerText {
-  flex: 1;
-  padding-right: 20px;
-}
-
-.carousel-container {
-  overflow: hidden;
-  width: 400px;
-  max-width: 800px; 
-  margin: 0 auto;
-}
-
-.carousel {
-  display: flex;
-  transition: transform 1s ease-in-out;
-}
-*/
-
 .container {
   display: flex;
   justify-content: center;
@@ -50,30 +24,3 @@
   padding-bottom: 20px;
 }
 
-.carousel-container {
-  overflow: hidden;
-  width: 400px;
-  max-width: 800px; /* Adjust this to your desired carousel width */
-}
-
-.carousel {
-  display: flex;
-  transition: transform 0.5s ease-in-out;
-}
-
-@media (min-width: 768px) {
-  .banner {
-    flex-direction: row;
-    align-items: flex-start;
-  }
-
-  .bannerText {
-    width: 50%;
-    padding-right: 20px;
-    padding-bottom: 0;
-  }
-
-  .carousel-container {
-    width: 400px;
-  }
-}

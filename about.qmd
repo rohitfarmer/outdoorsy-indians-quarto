@@ -1,27 +1,41 @@
 ---
-title: About Us
+title: About
+description: Join us and be a part of a community that celebrates the spirit of adventure and the beauty of nature.
 page-layout: full
-title-block-banner: false
+title-block-banner: true
 ---
 
-Welcome to Outdoorsy Indians - Your Gateway to Adventure!
+**Welcome to Outdoorsy Indians - Your Gateway to Adventure!**
 
 Are you ready to embrace the thrill of the great outdoors? At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures, regardless of where you are in the world. Our platform is designed to inspire, educate, and connect fellow Indians, both within the subcontinent and those settled abroad, who share a love for hiking, camping, kayaking, stand-up paddleboarding, surfing, biking, and more.
 
+
 ## Our Mission
-Our mission is to create a vibrant and supportive community of outdoor enthusiasts who are eager to explore the beauty of nature. We believe that the joy of outdoor activities transcends borders, cultures, and backgrounds. By providing comprehensive tutorials, insightful tips, and trustworthy gadget recommendations, we aim to empower every individual, from beginners to experienced adventurers, to embrace outdoor pursuits confidently.
+
+Our mission is to create a vibrant and supportive community of outdoor enthusiasts who are eager to explore the beauty of nature. We believe that the joy of outdoor activities transcends borders, cultures, and backgrounds. By providing comprehensive tutorials, insightful tips, and trustworthy gadget recommendations, we aim to empower every individual, regardless of their experience, to embrace outdoor pursuits confidently.
+
 
 ## What We Offer
+
+
+
 * **Tutorials:** Our step-by-step tutorials cater to all skill levels, from those taking their first step into the wild to seasoned explorers seeking advanced techniques. Whether setting up a campsite, mastering paddleboarding techniques, or understanding navigation essentials, our tutorials offer clear guidance and visuals to make your outdoor ventures successful.
-
 * **Tips and Insights:** Our team of passionate adventurers curates a wealth of tips and insights to enhance your outdoor experiences. From packing guides that ensure you're always prepared to safety precautions that prioritize your well-being, we cover it all. Our articles delve into the intricacies of various outdoor activities, making learning a joyous journey.
+* **Gadget Recommendations:** Finding the right gear can make a difference in outdoor pursuits. We understand the challenges of choosing the right equipment, so we provide honest and unbiased gadget recommendations. Whether you're searching for the perfect hiking boots, a reliable tent, or a versatile kayak, our expert suggestions will steer you in the right direction.
 
-* **Gadget Recommendations:** Finding the right gear can make a world of difference in your outdoor pursuits. We understand the challenges of choosing the right equipment, and that's why we provide honest and unbiased gadget recommendations. Whether you're in search of the perfect hiking boots, a reliable tent, or a versatile kayak, our expert suggestions will steer you in the right direction.
 
 ## Our Community
-Outdoorsy Indians is more than just a website; it's a community of like-minded individuals united by their passion for adventure. Our forums and discussion boards offer a platform for you to connect with fellow adventurers, share your experiences, seek advice, and forge lasting friendships. Whether you're swapping stories around a campfire or discussing the latest outdoor gear trends, you'll find a welcoming space here.
+
+Outdoorsy Indians is more than just a website; it's a community of like-minded individuals united by their passion for adventure. Our subreddit [r/OutdoorsyIndians](https://www.reddit.com/r/OutdoorsyIndians/) offers a platform to connect with fellow adventurers, share your experiences, seek advice, and forge lasting friendships. Whether you're swapping stories around a campfire or discussing the latest outdoor gear trends, you'll find a welcoming space here.
+
 
 ## Embrace the Outdoors with Outdoorsy Indians
-No matter where you're located or what your background is, the call of the wild is universal. Outdoorsy Indians are here to guide, inspire, and accompany you on your outdoor journey. Whether you're seeking solitude in the mountains, the thrill of conquering waves, or the tranquility of a starlit night in the wilderness, our resources are designed to empower you every step of the way.
-Join us today and be a part of a community that celebrates the spirit of adventure and the beauty of nature. Let's embark on unforgettable experiences, explore new horizons, and create memories that will last a lifetime. Outdoorsy Indians - Where Adventure Knows No Boundaries!
 
+No matter where you're located or what your background is, the call of the wild is universal. Outdoorsy Indians are here to guide, inspire, and accompany you on your outdoor journey. Whether you're seeking solitude in the mountains, the thrill of conquering waves, or the tranquility of a starlit night in the wilderness, our resources are designed to empower you every step.
+
+[Join us today and be a part of a community](https://www.reddit.com/r/OutdoorsyIndians/) that celebrates the spirit of adventure and the beauty of nature. Let's embark on unforgettable experiences, explore new horizons, and create memories that will last a lifetime. Outdoorsy Indians - Where Adventure Knows No Boundaries!
+
+
+## Contact
+
+Email: [outdoorsyindians@gmail.com](mailto:outdoorsyindians@gmail.com) 
