@@ -8,7 +8,7 @@
 <title>Outdoorsy Indians</title>
 <link>https://www.outdoorsyindians.com/posts.html</link>
 <atom:link href="https://www.outdoorsyindians.com/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Outdoorsy Indians - a ommunity of Indians who love to be outdoors.</description>
+<description>Outdoorsy Indians - a community of Indians who love to be outdoors.</description>
 <generator>quarto-1.3.433</generator>
 <lastBuildDate>Tue, 29 Aug 2023 04:00:00 GMT</lastBuildDate>
 <item>
@@ -115,7 +115,7 @@ Update history
 
 </section>
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>Kayaking</category>
   <category>Water Sports</category>
   <category>Water Activities</category>
@@ -252,7 +252,7 @@ Update history
 
 </section>
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>Survival</category>
   <category>First Aid</category>
   <category>Cutting</category>

@@ -5,9 +5,12 @@ website:
   favicon: favicon.ico
   title: "Outdoorsy Indians"
   site-url: https://www.outdoorsyindians.com
-  description: "Outdoorsy Indians - a ommunity of Indians who love to be outdoors."
+  description: "Outdoorsy Indians - a community of Indians who love to be outdoors."
   reader-mode: true
+  back-to-top-navigation: true
   navbar:
+    background: primary
+    logo: images/logo.jpg
     right:
       - about.qmd
       - posts.qmd
@@ -34,7 +37,7 @@ website:
 format:
   html:
     theme: 
-      light: litera
+      light: lumen
 editor: visual
 
 
