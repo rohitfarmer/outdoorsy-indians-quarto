@@ -1,6 +1,7 @@
 ---
 title: Posts
-description: Check out our blog posts for tutorials, tips, and gadget recommendations.
+description: "Our blog posts contain easy-to-follow guides, friendly gear reviews, and inspiring tales from everyday adventurers on hiking, camping, kayaking, and more."
+keywords: easy-to-follow guides, outdoor gear reviews, outdoorsy stories
 listing:
   contents: posts
   sort: "date desc"

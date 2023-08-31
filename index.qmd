@@ -1,6 +1,6 @@
 ---
-description: "Step into the world of outdoor wonders through our platform, tailored for Indian nature lovers. Get easy-to-follow guides, friendly gear reviews, and inspiring tales from everyday adventurers on hiking, camping, kayaking, and more."
-keywords: Backpacking, Birdwatching, Bushcraft, Campfire Cooking, Camping, Camping Gear, Canoeing, Fishing, Gadget Recommendations, Gear, Geocaching, Hiking, India, Indians, Indians Abroad, Kayaking, Mountain Biking, Mountaineering, National Parks, Nature Exploration, Navigation, Orienteering, Outdoor Adventure, Outdoor Cooking, Outdoor Education, Outdoor Fitness, Outdoor Gear, Outdoor Photography, Outdoors, Outdoorsy Indians, Paddleboarding (SUP), Rock Climbing, Step by Step Guide, Survival Skills, Trail Running, Trekking, Tutorials, Wilderness Skills, Wildlife Watching 
+description: "At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures in or outside India."
+keywords: outdoor activities, things to do outside, family camping activity, outdoor family activities, for Indians, gear recommendations 
 open-graph:
   title: "Outdoorsy Indians"
   image: images/logo.jpg
@@ -52,6 +52,9 @@ body {
 ::: column-page
 
 ## Recent Posts {style="text-align:center;"}
+#### Check out our blog posts for tutorials, tips, and gadget recommendations. {style="text-align:center;"}
+
+<br>
 
 ::: {#recentPosts}
 :::
