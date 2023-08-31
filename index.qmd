@@ -1,5 +1,12 @@
 ---
-description: "Outdoorsy Indians - a community of Indians who love to be outdoors."
+description: "Step into the world of outdoor wonders through our platform, tailored for Indian nature lovers. Get easy-to-follow guides, friendly gear reviews, and inspiring tales from everyday adventurers on hiking, camping, kayaking, and more."
+keywords: Backpacking, Birdwatching, Bushcraft, Campfire Cooking, Camping, Camping Gear, Canoeing, Fishing, Gadget Recommendations, Gear, Geocaching, Hiking, India, Indians, Indians Abroad, Kayaking, Mountain Biking, Mountaineering, National Parks, Nature Exploration, Navigation, Orienteering, Outdoor Adventure, Outdoor Cooking, Outdoor Education, Outdoor Fitness, Outdoor Gear, Outdoor Photography, Outdoors, Outdoorsy Indians, Paddleboarding (SUP), Rock Climbing, Step by Step Guide, Survival Skills, Trail Running, Trekking, Tutorials, Wilderness Skills, Wildlife Watching 
+open-graph:
+  title: "Outdoorsy Indians"
+  image: images/logo.jpg
+twitter-card:
+  title: "Outdoorsy Indians"
+  image: images/logo.jpg
 page-layout: full
 format:
   html:
@@ -11,7 +18,18 @@ listing:
     max-items: 6
     contents:
       - "posts/*/*.qmd"
+eval: false
 ---
+
+```{r}
+#| echo: false
+read_tsv(file.path("data", "site-keywords.tsv"), show_col_types = FALSE) %>% 
+  dplyr::pull(index_page) %>% unique() %>% 
+  na.omit() %>%
+  paste0(., collapse = ", ")
+```
+
+
 
 ::: column-screen
 ```{=html}

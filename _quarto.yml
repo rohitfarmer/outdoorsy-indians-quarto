@@ -2,10 +2,10 @@ project:
   type: website
 
 website:
-  favicon: favicon.ico
+  favicon: images/logo.jpg
   title: "Outdoorsy Indians"
   site-url: https://www.outdoorsyindians.com
-  description: "Outdoorsy Indians - a community of Indians who love to be outdoors."
+  description: "Step into the world of outdoor wonders through our platform, tailored for Indian nature lovers. Get easy-to-follow guides, friendly gear reviews, and inspiring tales from everyday adventurers on hiking, camping, kayaking, and more."
   reader-mode: true
   back-to-top-navigation: true
   navbar:

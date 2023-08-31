@@ -1,9 +1,19 @@
 ---
 title: About
 description: Join us and be a part of a community that celebrates the spirit of adventure and the beauty of nature.
+keywords: the beauty of nature, outdoorsy indians, beauty of nature, tips and insights, gadget recommendations, outdoor activities, outdoor pursuits, outdoor, indians, outdoorsy, adventure, community, tutorials, embrace, tips, gadget, recommendations, experiences, right, thrill, outdoors, passionate, embark, platform, designed, inspire, connect, fellow, share, hiking, paddleboarding, mission, create, explore, beauty, nature, activities, empower, pursuits, offer, step, wild, seeking, techniques, insights, adventurers, journey, gear, welcome, gateway, ready, great, helping, exhilarating, adventures, world, educate, subcontinent, settled, abroad, love, camping, kayaking, stand up paddle boarding, surfing, biking, vibrant, supportive, enthusiasts, eager, joy, transcends, borders, cultures, backgrounds, providing, comprehensive, insightful, trustworthy, aim, individual, experience, confidently, step by step, cater, skill, levels, seasoned, explorers, advanced, setting, campsite, mastering, understanding, navigation, essentials, clear, guidance, visuals, ventures, successful, team, curates, wealth, enhance, packing, guides, ensure, prepared, safety, precautions, prioritize, well being, cover, articles, delve, intricacies, learning, joyous, difference, understand, challenges, choosing, equipment, provide, honest, unbiased, searching, perfect, boots, reliable, tent, versatile, kayak, expert, suggestions, steer, direction, just, website, like inded, individuals, united, passion, subreddit, r/outdoorsyindians, offers, advice, forge, lasting, friendships, swapping, stories, campfire, discussing, trends, welcoming, space, matter, located, background, universal, guide, accompany, solitude, mountains, conquering, waves, tranquility, starlit, night, wilderness, resources, join, celebrates, spirit, unforgettable, horizons, memories, lifetime, boundaries
 page-layout: full
 title-block-banner: true
+eval: false
 ---
+
+```{r}
+#| echo: false
+read_tsv(file.path("data", "site-keywords.tsv"), show_col_types = FALSE) %>% 
+  dplyr::pull(about) %>% unique() %>% 
+  na.omit() %>%
+  paste0(., collapse = ", ")
+```
 
 **Welcome to Outdoorsy Indians - Your Gateway to Adventure!**
 
