@@ -11,6 +11,7 @@ website:
   navbar:
     background: primary
     logo: images/logo.jpg
+    logo-alt: "Outdoorsy Indians website logo: a glowing hurrican lantern."
     right:
       - about.qmd
       - posts.qmd

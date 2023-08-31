@@ -1,6 +1,7 @@
 ---
 title: "A Beginner’s Guide to Kayaking"
 description: "A guide on how to pick up kayaking as a hobby"
+keywords: Kayaking, Water Sports, Water Activities, Beginner
 categories: [Kayaking, Water Sports, Water Activities, Beginner]
 author: 
   - name: "Rohit Farmer"
@@ -10,7 +11,7 @@ format:
     include-after-body: ../../comments.html
 ---
 
-![That's me in my first learn to kayak class by REI at the Seneca Creek State Park](https://i.imgur.com/2YACDdt.jpeg){.preview-image}
+![That's me in my first learn to kayak class by REI at the Seneca Creek State Park, Gaithersburg, MD, USA](https://i.imgur.com/2YACDdt.jpeg){fig-alt="Rohit Farmer on a kayak during his first learn to kayak class by REI at the Seneca Creek State Park, Gaithersburg, MD, USA" .preview-image}
 
 I come from Allahabad (now Prayagraj), UP, India, the home to two of India's most prominent rivers, the Ganges and Yamuna.
 However, besides doing a couple of paid boating trips on the rivers, I never got any opportunity for water sports - it was just not there.
@@ -22,7 +23,7 @@ I naturally get attracted to water, and my long-time desire was to get involved 
 Fortunately, I moved to Maryland in 2019, opening doors for me to take up water activities as a hobby.
 In this article, I will talk about my experience starting as a complete beginner, having no paddling/rowing experience.
 
-# Where to begin and how to gain access to a kayak?
+## Where to begin and how to gain access to a kayak?
 
 When you start, you may not want to buy a kayak.
 Kayaks are of multiple types, can be expensive, need storage space, and make arrangements to transport them to water.
@@ -46,13 +47,13 @@ For example, popular tours in Maryland are the [Wye Island Kayak Tour](https://w
 After doing a beginner class, a couple of such tours are an excellent way to practice while still being in a group and with experts who help you learn and rescue if needed.
 I highly recommend REI classes, tours, and other courses led by a professional organization in your area.
 
-::: {.callout-note}
+::: callout-note
 These courses and tours will cost you some money, and I know for us Indians, especially those living in a foreign country, one of our primary goals is to save money.
 However, I encourage you to fork out a little money and gain these experiences while you still can, and trust me, it will be worth it.
 Do not wait for a friend who might give you a free lesson on a rental one day; those opportunities are hard to come by and are nothing compared to REI or similar classes.
 :::
 
-# Still not ready to buy a kayak, but you want to continue
+## Still not ready to buy a kayak, but you want to continue
 
 Even after doing learn to kayak courses and going on a couple of guided tours, if you are still unsure if you should buy your kayak for financial, storage, or any other reasons - similar to me - but you still want to continue.
 Invest in water shoes, a life jacket, and clothing for water activities.
@@ -68,7 +69,7 @@ It also makes you feel more invested in your hobby and will help you to sustain 
 Some other accessories that I find helpful are a [dry bag](https://a.co/d/gyEXzZ6) to keep my car keys, wallet, snack, bandana, and a [phone cover with floatation](https://a.co/d/6A3BW0A) to carry my phone around my neck to take photos.
 I like the flotation feature because a typical waterproof case can protect your phone from water, but it will sink if you drop it in the lake.
 
-# So, you want to take the plunge and buy a kayak
+## So, you want to take the plunge and buy a kayak
 
 There are several different types of kayaks, each designed for specific purposes and environments.
 Here are some of the most common types:
@@ -89,7 +90,7 @@ Here are some of the most common types:
 Before choosing a kayak, consider your skill level, intended activities, and the type of waters you'll be exploring.
 Each kayak type has its advantages and limitations, so it's important to pick one that suits your preferences and needs.
 
-## Features of a typical kayak
+### Features of a typical kayak
 
 A typical kayak has several key features contributing to its performance, stability, and functionality.
 Here are the main components you'll find on most kayaks:
@@ -113,8 +114,12 @@ Here are the main components you'll find on most kayaks:
 These features can vary based on the type of kayak and its intended use.
 Choosing a kayak with the right features for your skill level, preferred activities, and the water conditions you plan to encounter is important.
 
-# Conclusion
-Embarking on your kayaking journey can be an incredibly rewarding experience. Whether you're seeking adrenaline-pumping adventures or serene moments of tranquility, kayaking has something to offer for everyone. By selecting the right equipment, learning essential techniques, prioritizing safety, and respecting the environment, you'll be well on your way to enjoying the wonders of this exciting water sport. So grab your paddle, embrace the water, and let the kayaking adventures begin!
+## Conclusion
+
+Embarking on your kayaking journey can be an incredibly rewarding experience.
+Whether you're seeking adrenaline-pumping adventures or serene moments of tranquility, kayaking has something to offer for everyone.
+By selecting the right equipment, learning essential techniques, prioritizing safety, and respecting the environment, you'll be well on your way to enjoying the wonders of this exciting water sport.
+So grab your paddle, embrace the water, and let the kayaking adventures begin!
 
 ::: {.callout-note appearance="minimal" collapse="true"}
 ## Update history
