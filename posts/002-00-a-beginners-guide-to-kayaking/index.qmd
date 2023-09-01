@@ -1,8 +1,8 @@
 ---
 title: "A Beginner’s Guide to Kayaking"
 description: "A guide on how to pick up kayaking as a hobby"
-keywords: Kayaking, Water Sports, Water Activities, Beginner
-categories: [Kayaking, Water Sports, Water Activities, Beginner]
+keywords: Kayaking, Paddling, Water Sports, Water Activities, Beginner
+categories: [Kayaking, Paddling, Water Sports, Water Activities, Beginner]
 author: 
   - name: "Rohit Farmer"
 date: "2023-08-29"
