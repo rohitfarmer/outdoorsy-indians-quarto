@@ -11,6 +11,9 @@ page-layout: full
 format:
   html:
     css: "css/styles.css"
+    include-in-header: 
+      - text: |
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Special+Elite">
 listing:
   - id: recentPosts
     type: grid
@@ -20,14 +23,6 @@ listing:
       - "posts/*/*.qmd"
 eval: false
 ---
-
-```{r}
-#| echo: false
-read_tsv(file.path("data", "site-keywords.tsv"), show_col_types = FALSE) %>% 
-  dplyr::pull(index_page) %>% unique() %>% 
-  na.omit() %>%
-  paste0(., collapse = ", ")
-```
 
 ::: column-screen
 ```{=html}
@@ -41,7 +36,8 @@ body {
 
 <div class="container">
   <div class="centered-content">
-    <h1>Welcome to Outdoorsy Indians - Your Gateway to Adventure!</h1>
+    <h1 style="font-family:'Special Elite'; font-size:2.5em;">Welcome to Outdoorsy Indians</h1>
+    <h3>Your Gateway to Adventure!</h3>
   </div>
 </div>
 ```
@@ -50,7 +46,7 @@ body {
 ::: column-page
 ## Recent Posts {style="text-align:center;"}
 
-#### Check out our blog posts for tutorials, tips, and gadget recommendations. {style="text-align:center;"}
+#### Check out our blog posts for tutorials, tips, and gadget recommendations {style="text-align:center;"}
 
 <br>
 
@@ -58,7 +54,7 @@ body {
 :::
 
 ## Get Involved {style="text-align: center;"}
-#### Ask Questions or Participate in Discussions {style="text-align: center;"}
+#### Ask questions or participate in discussions {style="text-align: center;"}
 
 <br>
 

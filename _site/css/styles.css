@@ -13,14 +13,4 @@
   padding: 20px;
 }
 
-.banner {
-  display: flex;
-  flex-direction: column;
-  padding: 20px;
-  justify-content: space-between;
-}
-
-.bannerText {
-  padding-bottom: 20px;
-}
 
