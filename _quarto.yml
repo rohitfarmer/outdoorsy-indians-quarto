@@ -15,6 +15,8 @@ website:
     right:
       - about.qmd
       - posts.qmd
+      - icon: instagram
+        href: https://www.instagram.com/outdoorsyindians/
       - icon: reddit
         href: https://www.reddit.com/r/OutdoorsyIndians/
       - icon: rss

@@ -60,4 +60,15 @@ body {
 <br>
 
 [![](images/reddit.svg){fig-alt="Reddit logo hyperlinked to Outdoorsy Indians subreddit" fig-align="center" width="100"}](https://www.reddit.com/r/OutdoorsyIndians/)
+
+#### Do you like to write? Let's get in touch {style="text-align: center;"}
+
+<br>
+
+[E-mail: outdoorsyindians@gmail.com](mailto:outdoorsyindians@gmail.com)
+
+<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;">Follow</h2>
+
+<script type="text/javascript" src="https://www.juicer.io/embed/outdoorsyindians/embed-code.js" async defer></script>
+
 :::
