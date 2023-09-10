@@ -1,0 +1,14 @@
+---
+title: Camping Destinations
+description: "Our blog posts contain comprehensive information on popular camping desitnations."
+keywords: camping destinations, campgrounds, campsites
+listing:
+  contents: camping
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: false
+page-layout: full
+title-block-banner: true
+---

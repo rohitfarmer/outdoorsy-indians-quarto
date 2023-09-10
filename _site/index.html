@@ -94,6 +94,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-campingDestination .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-campingDestination'] = new List('listing-campingDestination', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-WWW1CKKRMD "></script>
 
@@ -160,10 +188,21 @@ cookieconsent.run({
     <a class="nav-link" href="./about.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./posts.html" rel="" target="">
- <span class="menu-text">Posts</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-posts" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Posts</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-posts">    
+        <li>
+    <a class="dropdown-item" href="./posts.html" rel="" target="">
+ <span class="dropdown-text">General Articles</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./camping.html" rel="" target="">
+ <span class="dropdown-text">Camping Destinations</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.instagram.com/outdoorsyindians/" rel="" target=""><i class="bi bi-instagram" role="img">
 </i> 
@@ -221,12 +260,11 @@ body {
 <h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored">
 Recent Posts
 </h2>
-<section id="check-out-our-blog-posts-for-tutorials-tips-and-gadget-recommendations" class="level4" style="text-align:center;">
-<h4 style="text-align:center;" class="anchored">Check out our blog posts for tutorials, tips, and gadget recommendations</h4>
-<p><br></p>
+<section id="blog-posts-on-tutorials-tips-and-gadget-recommendations" class="level3" style="text-align:center;">
+<h3 style="text-align:center;" class="anchored" data-anchor-id="blog-posts-on-tutorials-tips-and-gadget-recommendations">Blog posts on tutorials, tips, and gadget recommendations</h3>
 <div id="listing-recentPosts" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Camping,Types of Camping,Car Tent Camping,Beginner" data-listing-date-sort="1693972800000" data-listing-file-modified-sort="1694037496359" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<div class="g-col-1" data-index="0" data-categories="Camping,Types of Camping,Car Tent Camping,Beginner" data-listing-date-sort="1693972800000" data-listing-file-modified-sort="1694222000035" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
 <a href="./posts/004-00-a-beginners-guide-to-camping/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="https://images.unsplash.com/photo-1487730116645-74489c95b41b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80" alt="A night time scene of a campsite with multiple tents." style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -323,10 +361,89 @@ Aug 24, 2023
 No matching items
 </div>
 </div>
-<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored" data-anchor-id="check-out-our-blog-posts-for-tutorials-tips-and-gadget-recommendations">
+<hr>
+</section>
+<section id="blog-posts-on-camping-destinations" class="level3" style="text-align:center;">
+<h3 style="text-align:center;" class="anchored">Blog posts on camping destinations</h3>
+<div id="listing-campingDestination" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="USA, Maryland" data-listing-date-sort="1694318400000" data-listing-file-modified-sort="1694388312388" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<a href="./camping/usa/maryland/assateague-state-park.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="https://images.unsplash.com/photo-1627414878948-9c76dc53b342?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Assateague State Park Campground, Maryland, USA
+</h5>
+<div class="card-text listing-description">
+A guide to camping at the Assateague State Park, Maryland, USA.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 10, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="USA, Maryland" data-listing-date-sort="1694232000000" data-listing-file-modified-sort="1694387395866" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<a href="./camping/usa/maryland/cedarville-state-forest.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="https://dnr.maryland.gov/publiclands/PublishingImages/Cedarville_SpringReflections_TerryThomas.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cedarville State Forest Campground, Maryland, USA
+</h5>
+<div class="card-text listing-description">
+A guide to camping at Cedarville State Forest, Maryland, USA.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 9, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="USA, Maryland" data-listing-date-sort="1694145600000" data-listing-file-modified-sort="1694386867178" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<a href="./camping/usa/maryland/rocky-gap-state-park.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="https://marylandroadtrips.com/wp-content/uploads/2021/06/MRT-Lake-Habeeb.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Rocky Gap State Park Campground, Maryland, USA
+</h5>
+<div class="card-text listing-description">
+A guide to camping at the Rocky Gap State Park, Maryland, USA.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 8, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored" data-anchor-id="blog-posts-on-camping-destinations">
 Get Involved
 </h2>
-</section>
 <section id="ask-questions-or-participate-in-discussions" class="level4" style="text-align: center;">
 <h4 style="text-align: center;" class="anchored" data-anchor-id="ask-questions-or-participate-in-discussions">Ask questions or participate in discussions</h4>
 <div class="quarto-figure quarto-figure-center">
@@ -337,11 +454,12 @@ Get Involved
 </section>
 <section id="do-you-like-to-write-lets-get-in-touch" class="level4" style="text-align: center;">
 <h4 style="text-align: center;" class="anchored">Do you like to write? Let’s get in touch</h4>
-<p><strong><a href="mailto:outdoorsyindians@gmail.com">E-mail: outdoorsyindians@gmail.com</a></strong></p>
+<p><a href="mailto:outdoorsyindians@gmail.com"><strong>E-mail: outdoorsyindians@gmail.com</strong></a></p>
 <h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored" data-anchor-id="do-you-like-to-write-lets-get-in-touch">
 Follow
 </h2>
 <script type="text/javascript" src="https://www.juicer.io/embed/outdoorsyindians/embed-code.js?per=9" async="" defer=""></script>
+</section>
 </section>
 </div>
 

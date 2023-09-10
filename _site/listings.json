@@ -1,11 +1,10 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/camping.html",
     "items": [
-      "/posts/004-00-a-beginners-guide-to-camping/index.html",
-      "/posts/003-00-a-beginners-guide-to-standup-paddleboarding/index.html",
-      "/posts/002-00-a-beginners-guide-to-kayaking/index.html",
-      "/posts/001-00-essentials-for-outdoor-survival/index.html"
+      "/camping/usa/maryland/assateague-state-park.html",
+      "/camping/usa/maryland/cedarville-state-forest.html",
+      "/camping/usa/maryland/rocky-gap-state-park.html"
     ]
   },
   {
@@ -15,6 +14,18 @@
       "/posts/003-00-a-beginners-guide-to-standup-paddleboarding/index.html",
       "/posts/002-00-a-beginners-guide-to-kayaking/index.html",
       "/posts/001-00-essentials-for-outdoor-survival/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/004-00-a-beginners-guide-to-camping/index.html",
+      "/posts/003-00-a-beginners-guide-to-standup-paddleboarding/index.html",
+      "/posts/002-00-a-beginners-guide-to-kayaking/index.html",
+      "/posts/001-00-essentials-for-outdoor-survival/index.html",
+      "/camping/usa/maryland/assateague-state-park.html",
+      "/camping/usa/maryland/cedarville-state-forest.html",
+      "/camping/usa/maryland/rocky-gap-state-park.html"
     ]
   }
 ]

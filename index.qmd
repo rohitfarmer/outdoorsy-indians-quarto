@@ -21,6 +21,12 @@ listing:
     max-items: 6
     contents:
       - "posts/*/*.qmd"
+  - id: campingDestination
+    type: grid
+    sort: "date desc"
+    max-items: 6
+    contents:
+      - camping
 eval: false
 ---
 
@@ -44,29 +50,34 @@ body {
 :::
 
 ::: column-page
-<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;">Recent Posts</h2>
+<h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Recent Posts</h2>
 
-#### Check out our blog posts for tutorials, tips, and gadget recommendations {style="text-align:center;"}
-
-<br>
+### Blog posts on tutorials, tips, and gadget recommendations {style="text-align:center;"}
 
 ::: {#recentPosts}
 :::
 
-<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;">Get Involved</h2>
+----
+
+### Blog posts on camping destinations {style="text-align:center;"}
+
+::: {#campingDestination}
+:::
+
+
+<h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Get Involved</h2>
 
 #### Ask questions or participate in discussions {style="text-align: center;"}
 
-
 [![](images/reddit.svg){fig-alt="Reddit logo hyperlinked to Outdoorsy Indians subreddit" fig-align="center" width="100"}](https://www.reddit.com/r/OutdoorsyIndians/)
-
 
 #### Do you like to write? Let's get in touch {style="text-align: center;"}
 
-**[E-mail: outdoorsyindians@gmail.com](mailto:outdoorsyindians@gmail.com)**
+[**E-mail: outdoorsyindians\@gmail.com**](mailto:outdoorsyindians@gmail.com)
 
-<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;">Follow</h2>
+<h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Follow</h2>
 
+```{=html}
 <script type="text/javascript" src="https://www.juicer.io/embed/outdoorsyindians/embed-code.js?per=9" async defer></script>
-
+```
 :::
