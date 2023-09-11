@@ -22,7 +22,7 @@ These beautiful creatures can often be spotted wandering the shores and marshes,
 
 **Website:** [Assateague State Park's official site](https://dnr.maryland.gov/publiclands/Pages/eastern/assateague.aspx)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3133.1576105346007!2d-75.16397612484178!3d38.25265047186887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b92583f66fb6b5%3A0x72adfe8928d04344!2s7307%20Stephen%20Decatur%20Hwy%2C%20Berlin%2C%20MD%2021811!5e0!3m2!1sen!2sus!4v1694388214140!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3133.1576105346007!2d-75.16397612484178!3d38.25265047186887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b92583f66fb6b5%3A0x72adfe8928d04344!2s7307%20Stephen%20Decatur%20Hwy%2C%20Berlin%2C%20MD%2021811!5e0!3m2!1sen!2sus!4v1694388214140!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 
 </iframe>
 

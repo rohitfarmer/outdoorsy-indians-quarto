@@ -44,7 +44,7 @@ format:
   html:
     theme: 
       light: lumen
-editor: visual
+editor: source
 
 
 

@@ -20,7 +20,7 @@ listing:
     sort: "date desc"
     max-items: 6
     contents:
-      - "posts/*/*.qmd"
+      - posts
   - id: campingDestination
     type: grid
     sort: "date desc"

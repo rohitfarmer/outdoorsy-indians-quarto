@@ -2,6 +2,23 @@
 
 Website code for https://outdoorsyindians.com
 
+## General Posts Template
+
+```{yaml}
+---
+title: "A Beginner's Guide to Camping"
+description: "An easy-to-follow guide to types of camping with details on the beginner’s friendly car tent camping."
+keywords: Camping, Car Tent Camping, Types of Camping, Beginner
+categories: [Camping, Types of Camping,  Car Tent Camping, Beginner]
+author: 
+  - name: "Rohit Farmer"
+date: "2023-09-06"
+format:
+  html:
+    include-after-body: ../comments.html
+---
+```
+
 ## Camping Destination Template
 
 ```{yaml}
