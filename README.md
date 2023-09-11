@@ -17,6 +17,9 @@ format:
   html:
     include-after-body: ../comments.html
 ---
+
+![<a href="https://marylandroadtrips.com/design-your-perfect-escape-at-rocky-gap-state-park/">Photo Credit: Colleen Mulvihill </a>](https://marylandroadtrips.com/wp-content/uploads/2021/06/MRT-Lake-Habeeb.jpg){.preview-image}
+
 ```
 
 ## Camping Destination Template

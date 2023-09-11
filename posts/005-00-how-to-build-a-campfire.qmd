@@ -11,98 +11,84 @@ format:
     include-after-body: ../comments.html
 ---
 
-![Photo by <a href="https://unsplash.com/@bekmanis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elvis Bekmanis</a> on <a href="https://unsplash.com/photos/7m9RIpJdcxg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://images.unsplash.com/photo-1542653752-ca4607a605a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80){fig-alt="A photo of a campfire in the woods with an axe next to it." .preview-image}
+![Photo by <a href="https://unsplash.com/@bekmanis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elvis Bekmanis</a> on <a href="https://unsplash.com/photos/7m9RIpJdcxg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://images.unsplash.com/photo-1542653752-ca4607a605a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80){.preview-image fig-alt="A photo of a campfire in the woods with an axe next to it."}
 
-Building a campfire can be both a skill and an art. Whether camping in the wilderness or just wanting a cozy fire in your backyard, understanding the basics is essential for safety and efficiency. Here's a step-by-step guide to help you build the perfect campfire.
+Building a campfire can be both a skill and an art.
+Whether camping in the wilderness or just wanting a cozy fire in your backyard, understanding the basics is essential for safety and efficiency.
+Here's a step-by-step guide to help you build the perfect campfire.
 
+## 1. Choose a Safe Location
 
-## 1. Choose a Safe Location 
-
-
-* Ensure the spot is away from tents, trees, and shrubs.
-* Check for overhead branches that could catch fire.
-* If there's an existing fire pit, use it. If not, clear a 10-foot diameter area down to the soil.
-
+-   Ensure the spot is away from tents, trees, and shrubs.
+-   Check for overhead branches that could catch fire.
+-   If there's an existing fire pit, use it. If not, clear a 10-foot diameter area down to the soil.
 
 ## 2. Prepare the Ground
 
 ![A metal or stone fire ring. Photo credit: REI](https://www.rei.com/dam/van_dragt_041117_0003_fire_ring.jpg){fig-alt="A metal or stone fire ring"}
 
-* Dig a shallow pit about a foot deep in the center of your cleared area. This will contain the fire and keep it from spreading.
-* Surround the pit with a circle of rocks. This serves as a wind barrier and a boundary for your fire.
-
-
+-   Dig a shallow pit about a foot deep in the center of your cleared area. This will contain the fire and keep it from spreading.
+-   Surround the pit with a circle of rocks. This serves as a wind barrier and a boundary for your fire.
 
 ## 3. Gather Materials
 
 ![Tinder, kindling, and firewood. Photo credit: REI](https://www.rei.com/dam/van_dragt_041117_0008_fuel.jpg){fig-alt="A photo of tinder, kindling, and firewood for building a campfire."}
 
-There are three main types of materials you need for a fire: 
+There are three main types of materials you need for a fire:
 
-
-1. **Tinder:** Small, dry materials that ignite easily. Examples are dry grass, leaves, paper, or cotton balls. 
-2. **Kindling: **Small sticks and twigs, usually less than a finger's width. They catch fire easily from the tinder. 
-3. **Firewood: **Larger logs and branches. Once the fire is going strong, these will be your primary fuel source.
-
+1.  **Tinder:** Small, dry materials that ignite easily. Examples are dry grass, leaves, paper, or cotton balls.
+2.  **Kindling:** Small sticks and twigs, usually less than a finger's width. They catch fire easily from the tinder.
+3.  **Firewood:** Larger logs and branches. Once the fire is going strong, these will be your primary fuel source.
 
 ## 4. Constructing the Fire
 
-There are various methods to build a fire, but two of the most popular ones are the "teepee" and the "log cabin." 
-
+There are various methods to build a fire, but two of the most popular ones are the "teepee" and the "log cabin."
 
 ### Teepee Method
 
 ![Teepee campfire configuration. Photo credit: REI](https://www.rei.com/blog/wp-content/uploads/sites/4/2015/06/P3120269.jpg){fig-alt="A teepee campfire configuration"}
 
-1. Place a small pile of tinder in the center of your pit.
-2. Arrange your kindling in a teepee shape over the tinder.
-3. Add a larger layer of kindling around the first, followed by your smallest pieces of firewood. 
-
+1.  Place a small pile of tinder in the center of your pit.
+2.  Arrange your kindling in a teepee shape over the tinder.
+3.  Add a larger layer of kindling around the first, followed by your smallest pieces of firewood.
 
 ### Log Cabin Method
 
 ![Log cabin campfire configuration. Photo credit: REI](https://www.rei.com/blog/wp-content/uploads/sites/4/2015/06/P3120251.jpg)
 
-1. Start with a small pile of tinder in the center.
-2. Place two pieces of kindling parallel to each other on opposite sides of the tinder.
-3. Add two more pieces on top, perpendicular to the first two.
-4. Continue in this manner, building up like a log cabin, with the larger firewood forming the outer layers.
-
+1.  Start with a small pile of tinder in the center.
+2.  Place two pieces of kindling parallel to each other on opposite sides of the tinder.
+3.  Add two more pieces on top, perpendicular to the first two.
+4.  Continue in this manner, building up like a log cabin, with the larger firewood forming the outer layers.
 
 ## 5. Lighting the Fire
 
 ![Lighting the fire using a ferro rod. Photo credit: REI](https://www.rei.com/dam/van_dragt_041117_0199_igniting_a_campfire.jpg){fig-alt="Lighting the fire using a ferro rod."}
 
-* Light the tinder using a match or lighter. If you're using the teepee method, the flames will rise, igniting the kindling and then the firewood.
-* If you're using the log cabin method, you may need to add some additional tinder and kindling as the fire grows to ensure it spreads to the logs.
-
+-   Light the tinder using a match or lighter. If you're using the teepee method, the flames will rise, igniting the kindling and then the firewood.
+-   If you're using the log cabin method, you may need to add some additional tinder and kindling as the fire grows to ensure it spreads to the logs.
 
 ## 6. Maintaining the Fire
 
-
-
-* Add firewood as needed. Always place, don’t throw, to avoid scattering embers.
-* Rearrange logs occasionally using a stick or poker to ensure good airflow.
-
+-   Add firewood as needed. Always place, don't throw, to avoid scattering embers.
+-   Rearrange logs occasionally using a stick or poker to ensure good airflow.
 
 ## 7. Putting Out the Fire
 
 ![Put out the fire with water. Photo credit: REI](https://www.rei.com/dam/van_dragt_041117_0216_extinguishing.jpg){fig-alt="A woman putting out the campfire with a bucket of water."}
 
-* Let the fire burn down well before you intend to put it out.
-* Pour water slowly over the fire to douse the flames. Be prepared for steam.
-* Stir the ashes with a stick to ensure all embers are wet.
-* Feel with your hand above the wet ashes to ensure there’s no heat left. (Never touch directly.)
-
+-   Let the fire burn down well before you intend to put it out.
+-   Pour water slowly over the fire to douse the flames. Be prepared for steam.
+-   Stir the ashes with a stick to ensure all embers are wet.
+-   Feel with your hand above the wet ashes to ensure there's no heat left. (Never touch directly.)
 
 ## 8. Safety Tips
 
+-   Always keep a water source or fire extinguisher nearby.
+-   Never leave a campfire unattended.
+-   Avoid building fires on windy days.
+-   Ensure your fire is completely out before leaving the site or going to sleep.
 
-
-* Always keep a water source or fire extinguisher nearby.
-* Never leave a campfire unattended.
-* Avoid building fires on windy days.
-* Ensure your fire is completely out before leaving the site or going to sleep.
-
-With practice, building a campfire becomes second nature. Whether for warmth, cooking, or just ambiance, a well-made campfire can enhance any outdoor experience. Always prioritize safety and “Leave No Trace” principles to protect yourself and the environment.
-
+With practice, building a campfire becomes second nature.
+Whether for warmth, cooking, or just ambiance, a well-made campfire can enhance any outdoor experience.
+Always prioritize safety and "Leave No Trace" principles to protect yourself and the environment.
