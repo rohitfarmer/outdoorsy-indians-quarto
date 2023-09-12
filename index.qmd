@@ -21,18 +21,21 @@ listing:
     max-items: 6
     contents:
       - posts
+    fields: [title, description, date, author, reading-time, image]
   - id: campingDestination
     type: grid
     sort: "date desc"
     max-items: 6
     contents:
       - camping
+    fields: [title, description, date, author, reading-time, image]
   - id: thingsToDo
     type: grid
     sort: "date desc"
     max-items: 6
     contents:
       - things-to-do
+    fields: [title, description, date, author, reading-time, image]
 eval: false
 ---
 
