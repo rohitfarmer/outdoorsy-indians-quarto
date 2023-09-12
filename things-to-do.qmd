@@ -1,0 +1,14 @@
+---
+title: Things To Do
+description: "Check out our blog posts on outdoorsy things-to-do around the world."
+keywords: outdoors, outdoorsy things to do
+listing:
+  contents: things-to-do
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: false
+page-layout: full
+title-block-banner: true
+---

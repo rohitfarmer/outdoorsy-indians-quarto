@@ -18,6 +18,7 @@ website:
         menu:
           - posts.qmd
           - camping.qmd
+          - things-to-do.qmd
       - icon: instagram
         href: https://www.instagram.com/outdoorsyindians/
       - icon: reddit

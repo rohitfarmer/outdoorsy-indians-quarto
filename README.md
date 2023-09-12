@@ -45,3 +45,23 @@ format:
 The content provided in these blog posts is for general informational purposes only. For the latest and most accurate information, we strongly recommend visiting the official website or contacting campground officials directly. Reliance on any information from this blog is solely at your own discretion.
 :::
 ```
+
+## Things o Do Template
+
+```{yaml}
+---
+title: "Outdoorsy Things to Do in Andhra Pradesh, India"
+description: "A list of outdoorsy things to do in Andhra Pradesh, India."
+keywords: Outdoors, Things to do, Andhra Pradesh, India
+categories: India
+date: "2023-09-08"
+format:
+  html:
+    include-after-body: ../../../comments.html
+---
+
+::: callout-tip
+## Are we Missing Something?
+Help us build the ultimate outdoor bucket list! If there's a destination you swear by that didn't make our list, please enlighten our community in the comments.
+:::
+```

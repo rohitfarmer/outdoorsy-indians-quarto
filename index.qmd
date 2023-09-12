@@ -27,6 +27,12 @@ listing:
     max-items: 6
     contents:
       - camping
+  - id: thingsToDo
+    type: grid
+    sort: "date desc"
+    max-items: 6
+    contents:
+      - things-to-do
 eval: false
 ---
 
@@ -62,6 +68,13 @@ body {
 ### Blog posts on camping destinations {style="text-align:center;"}
 
 ::: {#campingDestination}
+:::
+
+----
+
+### Blog posts on outdoorsy things-to-do {style="text-align:center;"}
+
+::: {#thingsToDo}
 :::
 
 
