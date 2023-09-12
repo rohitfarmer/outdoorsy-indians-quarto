@@ -5,7 +5,7 @@ keywords: easy-to-follow guides, outdoor gear reviews, outdoorsy stories
 listing:
   contents: posts
   sort: "date desc"
-  categories: true
+  categories: cloud
   sort-ui: true
   filter-ui: true
   feed: true
