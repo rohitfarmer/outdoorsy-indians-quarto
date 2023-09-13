@@ -16,6 +16,9 @@ date: "2023-09-06"
 format:
   html:
     include-after-body: ../comments.html
+filters: 
+  - lightbox
+lightbox: auto
 ---
 
 ![<a href="https://marylandroadtrips.com/design-your-perfect-escape-at-rocky-gap-state-park/">Photo Credit: Colleen Mulvihill </a>](https://marylandroadtrips.com/wp-content/uploads/2021/06/MRT-Lake-Habeeb.jpg){.preview-image}
@@ -34,6 +37,9 @@ date: "2023-09-08"
 format:
   html:
     include-after-body: ../../../comments.html
+filters: 
+  - lightbox
+lightbox: auto
 ---
 ![<a href="https://marylandroadtrips.com/design-your-perfect-escape-at-rocky-gap-state-park/">Photo Credit: Colleen Mulvihill </a>](https://marylandroadtrips.com/wp-content/uploads/2021/06/MRT-Lake-Habeeb.jpg){.preview-image}
 
@@ -58,6 +64,9 @@ date: "2023-09-08"
 format:
   html:
     include-after-body: ../../comments.html
+filters: 
+  - lightbox
+lightbox: auto
 ---
 
 ::: callout-tip
