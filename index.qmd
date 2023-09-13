@@ -3,10 +3,10 @@ description: "At Outdoorsy Indians, we are passionate about helping you embark o
 keywords: outdoor activities, things to do outside, family camping activity, outdoor family activities, for Indians, gear recommendations 
 open-graph:
   title: "Outdoorsy Indians"
-  image: images/logo.jpg
+  image: images/web-logo-no-bg.png
 twitter-card:
   title: "Outdoorsy Indians"
-  image: images/logo.jpg
+  image: images/web-logo-no-bg.png
 page-layout: full
 format:
   html:
