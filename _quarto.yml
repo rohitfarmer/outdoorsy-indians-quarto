@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  favicon: images/logo.jpg
+  favicon: images/web-logo-no-bg.png
   title: "Outdoorsy Indians"
   site-url: https://www.outdoorsyindians.com
   description: "At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures in or outside India."
@@ -10,7 +10,7 @@ website:
   back-to-top-navigation: true
   navbar:
     background: primary
-    logo: images/logo.jpg
+    logo: images/web-logo-no-bg.png
     logo-alt: "Outdoorsy Indians website logo: a glowing hurrican lantern."
     right:
       - about.qmd
