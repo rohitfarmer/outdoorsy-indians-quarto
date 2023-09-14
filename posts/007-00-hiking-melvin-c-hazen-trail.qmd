@@ -8,9 +8,6 @@ author:
 date: "2023-09-13"
 format:
   html:
-    include-in-header: 
-      - text: |
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2310816379007310"     crossorigin="anonymous"></script>
     include-after-body: ../comments.html
 filters: 
   - lightbox
