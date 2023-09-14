@@ -1,0 +1,55 @@
+---
+title: "Outdoorsy Things to Do in Haryana, India"
+description: "A list of outdoorsy things to do in Haryana, India."
+keywords: Outdoors, Things to do near me, Haryana, India
+categories: India
+date: "2023-09-14"
+format:
+  html:
+    include-after-body: ../../comments.html
+filters: 
+  - lightbox
+lightbox: auto
+---
+![Photo by <a href="https://unsplash.com/@swiftlysingh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pushpinder Pal Singh</a> on <a href="https://unsplash.com/photos/HzTJq4fdYtk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://images.unsplash.com/photo-1683094005695-4bc75663bbc5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2839&q=80){fig-alt="An ariel view of Aravalli Hills, Haryana" description="An ariel view of Aravalli Hills, Haryana" .preview-image}
+
+Haryana, a North Indian state, is often overshadowed by its more touristy neighbors like Rajasthan and Himachal Pradesh. However, Haryana has its own unique charm and offers a plethora of outdoor activities for those who love to explore. From ancient archaeological sites to lush green landscapes, Haryana is a haven for outdoor enthusiasts. Here's a detailed guide on the outdoorsy things to do in Haryana: 
+
+1. **Sultanpur National Park** :
+Located near Gurgaon, this bird sanctuary is a paradise for bird watchers. The park is home to over 250 species of birds, both migratory and resident. The best time to visit is during the winter months when you can spot migratory birds like the Siberian crane, flamingos, and pelicans. 
+
+2. **Damdama Lake** :
+Situated in Sohna, Gurgaon, Damdama Lake is one of the biggest natural lakes in Haryana. It's a popular spot for boating, rock climbing, and hot air ballooning. The serene environment makes it perfect for picnics and day outings. 
+
+3. **Aravalli Biodiversity Park** :
+Spread over 692 acres, this park in Gurgaon is a testament to the conservation efforts in Haryana. It's a great place for nature walks, jogging, and spotting various plant species. 
+
+4. **Morni Hills** :
+The only hill station in Haryana, Morni Hills is located in the Panchkula district. It's an ideal destination for trekking, bird watching, and enjoying panoramic views of the Shivalik range. 
+
+5. **Bhondsi Nature Camp** :
+Located near Gurgaon, this camp offers adventure activities like rock climbing, rappelling, and obstacle courses. It's a great place for team-building exercises and family outings. 
+
+6. **Archaeological Sites in Rakhigarhi** :
+Dive into history by visiting Rakhigarhi, one of the largest Indus Valley Civilization sites. Explore the ancient ruins and get a glimpse of life from thousands of years ago. 
+
+7. **Yadavindra Gardens (Pinjore Gardens)** :
+Located in Pinjore, these Mughal-style gardens are a treat for the eyes. The terraced gardens, fountains, and historical structures make it a must-visit. 
+
+8. **Badkhal Lake** :
+Once a popular bird-watching spot, this lake near Faridabad is now a favorite for boating and picnics. The surrounding Aravalli hills add to its beauty. 
+9. **Heritage Transport Museum** :
+Though not entirely outdoors, this museum in Taoru offers a unique experience. Explore the evolution of transportation in India, from palanquins and bullock carts to vintage cars and trains. 
+
+10. **Kurukshetra** :
+Dive deep into Indian mythology by visiting Kurukshetra, the land of the Bhagavad Gita. The Brahma Sarovar and Krishna Museum are must-visits. You can also attend the light and sound show that depicts the Mahabharata war.
+
+**Conclusion**
+
+Haryana, with its rich history, diverse flora and fauna, and picturesque landscapes, offers a myriad of outdoor activities for every kind of traveler. Whether you're a history buff, a nature lover, or an adventure enthusiast, Haryana has something for everyone. So, pack your bags and set out to explore this hidden gem of North India!
+
+
+::: callout-tip
+## Are we Missing Something?
+Help us build the ultimate outdoor bucket list! If there's a destination you swear by that didn't make our list, please enlighten our community in the comments.
+:::
