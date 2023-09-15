@@ -7,9 +7,6 @@ date: "2023-09-14"
 format:
   html:
     include-after-body: ../../comments.html
-filters: 
-  - lightbox
-lightbox: auto
 ---
 ![Photo by <a href="https://unsplash.com/@swiftlysingh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pushpinder Pal Singh</a> on <a href="https://unsplash.com/photos/HzTJq4fdYtk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://images.unsplash.com/photo-1683094005695-4bc75663bbc5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2839&q=80){fig-alt="An ariel view of Aravalli Hills, Haryana" description="An ariel view of Aravalli Hills, Haryana" .preview-image}
 
