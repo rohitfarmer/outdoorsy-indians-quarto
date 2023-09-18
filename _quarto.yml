@@ -6,7 +6,6 @@ website:
   title: "Outdoorsy Indians"
   site-url: https://www.outdoorsyindians.com
   description: "At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures in or outside India."
-  reader-mode: true
   back-to-top-navigation: true
   navbar:
     background: primary
@@ -24,7 +23,13 @@ website:
       - icon: reddit
         href: https://www.reddit.com/r/OutdoorsyIndians/
       - icon: rss
-        href: posts.xml
+        menu: 
+          - text: "General Articles"
+            href: posts.xml
+          - text: "Camping Destinations"
+            href: camping.xml
+          - text: "Things To Do"
+            href: things-to-do.xml
   page-footer: 
     center: "<b>Contact us: outdoorsyindians@gmail.com</b> <br> <b><a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>Copyright CC BY-NC-SA 4.0</a></b>"
     left: ""
