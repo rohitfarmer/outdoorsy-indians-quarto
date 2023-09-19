@@ -8,7 +8,7 @@ author:
 date: "2023-09-11"
 format:
   html:
-    include-after-body: ../comments.html
+    include-after-body: ../../comments.html
 ---
 
 ![Photo by <a href="https://unsplash.com/@bekmanis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elvis Bekmanis</a> on <a href="https://unsplash.com/photos/7m9RIpJdcxg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://images.unsplash.com/photo-1542653752-ca4607a605a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80){.preview-image fig-alt="A photo of a campfire in the woods with an axe next to it."}

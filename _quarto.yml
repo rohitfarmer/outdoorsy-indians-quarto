@@ -1,5 +1,7 @@
 project:
   type: website
+  post-render:
+    - "python3 add-canonicals.py"
 
 website:
   favicon: images/web-logo-no-bg.png
@@ -54,6 +56,8 @@ format:
       - text: |
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2310816379007310" crossorigin="anonymous"></script>
 editor: source
+
+
 
 
 

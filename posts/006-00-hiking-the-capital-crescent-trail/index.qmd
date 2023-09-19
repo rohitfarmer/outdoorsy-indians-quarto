@@ -8,7 +8,7 @@ author:
 date: "2023-09-12"
 format:
   html:
-    include-after-body: ../comments.html
+    include-after-body: ../../comments.html
 ---
 ![Capital Crescent Trail](https://i.imgur.com/239HeOr.jpeg){fig-alt="A portion of the Capital Crescent Trail along the water body" .preview-image}
 
