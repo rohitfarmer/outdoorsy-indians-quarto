@@ -2,28 +2,28 @@
   {
     "listing": "/things-to-do.html",
     "items": [
-      "/things-to-do/india/009-00-jharkhand.html",
-      "/things-to-do/india/010-00-karnataka.html",
-      "/things-to-do/india/008-00-himachal-pradesh.html",
-      "/things-to-do/india/008-00-haryana.html",
-      "/things-to-do/india/005-00-chhattisgarh.html",
-      "/things-to-do/india/007-00-gujarat.html",
-      "/things-to-do/india/006-00-goa.html",
-      "/things-to-do/india/004-00-bihar.html",
-      "/things-to-do/india/001-00-andhra-pradesh.html",
-      "/things-to-do/india/003-00-assam.html",
-      "/things-to-do/india/002-00-arunachal-pradesh.html"
+      "/things-to-do/india/010-00-karnataka/index.html",
+      "/things-to-do/india/009-00-jharkhand/index.html",
+      "/things-to-do/india/008-00-himachal-pradesh/index.html",
+      "/things-to-do/india/008-00-haryana/index.html",
+      "/things-to-do/india/007-00-gujarat/index.html",
+      "/things-to-do/india/005-00-chhattisgarh/index.html",
+      "/things-to-do/india/001-00-andhra-pradesh/index.html",
+      "/things-to-do/india/002-00-arunachal-pradesh/index.html",
+      "/things-to-do/india/004-00-bihar/index.html",
+      "/things-to-do/india/003-00-assam/index.html",
+      "/things-to-do/india/006-00-goa/index.html"
     ]
   },
   {
     "listing": "/camping.html",
     "items": [
-      "/camping/usa/maryland/deep-creek-lake-state-park.html",
-      "/camping/usa/maryland/big-run-state-park.html",
-      "/camping/usa/maryland/cunningham-falls-state-park.html",
-      "/camping/usa/maryland/assateague-state-park.html",
-      "/camping/usa/maryland/cedarville-state-forest.html",
-      "/camping/usa/maryland/rocky-gap-state-park.html"
+      "/camping/usa/maryland/deep-creek-lake-state-park/index.html",
+      "/camping/usa/maryland/cunningham-falls-state-park/index.html",
+      "/camping/usa/maryland/big-run-state-park/index.html",
+      "/camping/usa/maryland/assateague-state-park/index.html",
+      "/camping/usa/maryland/cedarville-state-forest/index.html",
+      "/camping/usa/maryland/rocky-gap-state-park/index.html"
     ]
   },
   {
@@ -50,23 +50,23 @@
       "/posts/003-00-a-beginners-guide-to-standup-paddleboarding/index.html",
       "/posts/002-00-a-beginners-guide-to-kayaking/index.html",
       "/posts/001-00-essentials-for-outdoor-survival/index.html",
-      "/camping/usa/maryland/deep-creek-lake-state-park.html",
-      "/camping/usa/maryland/big-run-state-park.html",
-      "/camping/usa/maryland/cunningham-falls-state-park.html",
-      "/camping/usa/maryland/assateague-state-park.html",
-      "/camping/usa/maryland/cedarville-state-forest.html",
-      "/camping/usa/maryland/rocky-gap-state-park.html",
-      "/things-to-do/india/009-00-jharkhand.html",
-      "/things-to-do/india/010-00-karnataka.html",
-      "/things-to-do/india/008-00-himachal-pradesh.html",
-      "/things-to-do/india/008-00-haryana.html",
-      "/things-to-do/india/005-00-chhattisgarh.html",
-      "/things-to-do/india/007-00-gujarat.html",
-      "/things-to-do/india/006-00-goa.html",
-      "/things-to-do/india/004-00-bihar.html",
-      "/things-to-do/india/001-00-andhra-pradesh.html",
-      "/things-to-do/india/003-00-assam.html",
-      "/things-to-do/india/002-00-arunachal-pradesh.html"
+      "/camping/usa/maryland/deep-creek-lake-state-park/index.html",
+      "/camping/usa/maryland/cunningham-falls-state-park/index.html",
+      "/camping/usa/maryland/big-run-state-park/index.html",
+      "/camping/usa/maryland/assateague-state-park/index.html",
+      "/camping/usa/maryland/cedarville-state-forest/index.html",
+      "/camping/usa/maryland/rocky-gap-state-park/index.html",
+      "/things-to-do/india/010-00-karnataka/index.html",
+      "/things-to-do/india/009-00-jharkhand/index.html",
+      "/things-to-do/india/008-00-himachal-pradesh/index.html",
+      "/things-to-do/india/008-00-haryana/index.html",
+      "/things-to-do/india/007-00-gujarat/index.html",
+      "/things-to-do/india/005-00-chhattisgarh/index.html",
+      "/things-to-do/india/001-00-andhra-pradesh/index.html",
+      "/things-to-do/india/002-00-arunachal-pradesh/index.html",
+      "/things-to-do/india/004-00-bihar/index.html",
+      "/things-to-do/india/003-00-assam/index.html",
+      "/things-to-do/india/006-00-goa/index.html"
     ]
   }
 ]

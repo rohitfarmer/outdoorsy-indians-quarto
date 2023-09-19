@@ -6,7 +6,7 @@ project:
 website:
   favicon: images/web-logo-no-bg.png
   title: "Outdoorsy Indians"
-  site-url: https://www.outdoorsyindians.com
+  site-url: https://outdoorsyindians.com
   description: "At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures in or outside India."
   back-to-top-navigation: true
   navbar:

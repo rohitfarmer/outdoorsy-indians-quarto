@@ -1,0 +1,51 @@
+---
+title: "Outdoorsy Things to Do in Bihar, India"
+description: "A list of outdoorsy things to do in Bihar, India."
+keywords: Outdoors, Things to do, Bihar, India
+categories: India
+date: "2023-09-12"
+format:
+  html:
+    include-after-body: ../../../comments.html
+---
+
+![Photo by <a href="https://unsplash.com/@artosuraj?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ARTO SURAJ</a> on <a href="https://unsplash.com/photos/CUo_7OUWEmM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://images.unsplash.com/photo-1629705991555-46d94cbcf753?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3133&q=80){fig-alt="Photo of Ghora Katora lake, Ghora Katora, Bihar" .preview-image}
+
+Bihar, located in the eastern part of India, is a state filled with a rich cultural heritage and historical significance. While it might be renowned for its ancient temples, historic sites, and unique traditions, Bihar also offers a variety of outdoor activities for those looking to experience its natural beauty and get adventurous. Here's a detailed guide to the outdoorsy things you can do in Bihar: 
+
+1. **Explore the Nalanda University Ruins**:
+The ancient Nalanda University, a UNESCO World Heritage Site, was once a global center for learning. Though the ruins are more historical than outdoorsy, the vast expanse of the complex offers plenty of walking and exploration opportunities. 
+
+2. **Visit the Valmiki National Park**:
+Situated in the West Champaran district, Valmiki National Park is Bihar's only national park and tiger reserve. Besides the Bengal tiger, the park is home to various other wildlife species like leopards, Indian bison, and several species of deer. Here, you can indulge in a jungle safari, bird watching, or simply trek through the natural landscapes. 
+
+3. **Boating in Kakolat Waterfall**:
+Kakolat Waterfall is one of the state's prime tourist attractions, especially during the monsoon. Located near Nawada district, the waterfall and the pond at its base are surrounded by greenery, offering a serene atmosphere. Boating is a popular activity here. 
+
+4. **Cycle around Bodhgaya**:
+Bodhgaya is a UNESCO World Heritage site known for the Mahabodhi Temple, where Gautama Buddha is said to have attained enlightenment. Renting a cycle to explore the town and its surrounding areas provides a unique perspective on its history, architecture, and local life.
+
+5. **Trek to Mundeshwari Hills**:
+The Mundeshwari Devi Temple, believed to be the oldest Hindu temple in India, sits atop the Mundeshwari Hills. Trekking up the hill not only offers a spiritual experience but also mesmerizing views of the surrounding landscape. 
+
+6. **Sailing on the Ganges in Patna**:
+The Ganges, one of the most revered rivers in India, flows through Patna, Bihar's capital. You can rent a boat or join organized tours that offer sunset and sunrise sails. The experience of floating on this historic river, especially during sunrise or sunset, is ethereal. 
+
+7. **Pilgrimage walks**:
+Bihar has been significant in the life of Lord Buddha. Pilgrimage walks or 'Parikramas' around important Buddhist sites such as Rajgir, Nalanda, and Bodhgaya can be both spiritual and a way to enjoy the outdoors. 
+
+8. **Visit the Kanwar Lake Bird Sanctuary**:
+This is one of Asia's largest freshwater oxbow lakes and a haven for bird watchers. The sanctuary hosts numerous migratory birds during winter months. It's a paradise for photographers and nature lovers. 
+
+9. **Picnic at Manjhar Kund**:
+Also known as Manjhar K waterfall, it is one of the most beautiful waterfalls in Bihar, located near Sasaram. It's a great spot for a picnic and to enjoy the natural surroundings. 
+
+10. **Climbing the Griddhakuta Hill**:
+Located in Rajgir, this is another significant site related to Buddhism. A climb up the hill is both an exercise and a pilgrimage, and the views from the top are rewarding.
+
+Bihar, with its rich history intertwined with natural beauty, offers a plethora of options for outdoor enthusiasts. Whether you're seeking adventure, serenity, or spiritual fulfillment, Bihar has something to offer. Remember to respect local customs and the environment, ensuring that these treasures are preserved for future generations.
+
+::: callout-tip
+## Are we Missing Something?
+Help us build the ultimate outdoor bucket list! If there's a destination you swear by that didn't make our list, please enlighten our community in the comments.
+:::
