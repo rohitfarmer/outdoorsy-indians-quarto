@@ -18,6 +18,7 @@
   {
     "listing": "/camping.html",
     "items": [
+      "/camping/usa/maryland/deep-creek-lake-state-park.html",
       "/camping/usa/maryland/big-run-state-park.html",
       "/camping/usa/maryland/cunningham-falls-state-park.html",
       "/camping/usa/maryland/assateague-state-park.html",
@@ -28,6 +29,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/008-00-western-ridge-and-valley-trail-loop.html",
       "/posts/007-00-hiking-melvin-c-hazen-trail.html",
       "/posts/006-00-hiking-the-capital-crescent-trail.html",
       "/posts/005-00-how-to-build-a-campfire.html",
@@ -40,6 +42,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/008-00-western-ridge-and-valley-trail-loop.html",
       "/posts/007-00-hiking-melvin-c-hazen-trail.html",
       "/posts/006-00-hiking-the-capital-crescent-trail.html",
       "/posts/005-00-how-to-build-a-campfire.html",
@@ -47,6 +50,7 @@
       "/posts/003-00-a-beginners-guide-to-standup-paddleboarding/index.html",
       "/posts/002-00-a-beginners-guide-to-kayaking/index.html",
       "/posts/001-00-essentials-for-outdoor-survival/index.html",
+      "/camping/usa/maryland/deep-creek-lake-state-park.html",
       "/camping/usa/maryland/big-run-state-park.html",
       "/camping/usa/maryland/cunningham-falls-state-park.html",
       "/camping/usa/maryland/assateague-state-park.html",

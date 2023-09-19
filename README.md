@@ -13,6 +13,7 @@ categories: [Camping, Types of Camping,  Car Tent Camping, Beginner]
 author: 
   - name: "Rohit Farmer"
 date: "2023-09-06"
+freeze: true
 format:
   html:
     include-after-body: ../comments.html
@@ -29,11 +30,12 @@ lightbox: auto
 
 ```{yaml}
 ---
-title: "Camping at Rocky Gap State Park, Maryland, USA"
-description: "A guide to camping at Rocky Gap State Park, Maryland, USA."
-keywords: Camping, Car Tent Camping, Rocky Gap State Park
+title: "Deep Creek Lake State Park Campground, Maryland, USA"
+description: "Detailed information on camping at Deep Creek State Park, Maryland, USA."
+keywords: camping at deep creek state park, camping with family near me, campgrounds in maryland
 categories: USA, Maryland
 date: "2023-09-08"
+freeze: true
 format:
   html:
     include-after-body: ../../../comments.html
@@ -61,6 +63,7 @@ description: "A list of outdoorsy things to do in Andhra Pradesh, India."
 keywords: Outdoors, Things to do, Andhra Pradesh, India
 categories: India
 date: "2023-09-08"
+freeze: true
 format:
   html:
     include-after-body: ../../comments.html
