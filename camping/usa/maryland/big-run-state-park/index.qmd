@@ -1,5 +1,5 @@
 ---
-title: "Big Run State Park Campground, Maryland, USA"
+title: "Big Run State Park Campground, MD, USA"
 description: "A guide to camping at Big Run State Park, Maryland, USA."
 keywords: Camping, Car Tent Camping, Big Run State Park
 categories: USA, Maryland

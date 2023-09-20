@@ -8,7 +8,8 @@ listing:
   categories: true
   sort-ui: true
   filter-ui: true
-  feed: true
+  feed:
+    title: "Outdoorsy Indians - Things To Do"
   fields: [title, description, date, author, reading-time, image]
 page-layout: full
 title-block-banner: true

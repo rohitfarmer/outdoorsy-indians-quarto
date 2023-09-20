@@ -1,5 +1,5 @@
 ---
-title: "Deep Creek Lake State Park Campground, Maryland, USA"
+title: "Deep Creek Lake State Park Campground, MD, USA"
 description: "Detailed information on camping at Deep Creek State Park, Maryland, USA."
 keywords: camping at deep creek state park, camping with family near me, campgrounds in maryland
 categories: USA, Maryland
@@ -7,9 +7,6 @@ date: "2023-09-19"
 format:
   html:
     include-after-body: ../../../../comments.html
-filters: 
-  - lightbox
-lightbox: auto
 ---
 ![Deep Creek Lake](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/31/6c/e8/deep-creek-lake-state.jpg?w=2000&h=-1&s=1){fig-alt="A view of deep creek lake during fall" .preview-image}
 

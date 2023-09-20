@@ -1,5 +1,5 @@
 ---
-title: "Rocky Gap State Park Campground, Maryland, USA"
+title: "Rocky Gap State Park Campground, MD, USA"
 description: "A guide to camping at the Rocky Gap State Park, Maryland, USA."
 keywords: Camping, Car Tent Camping, Rocky Gap State Park
 categories: USA, Maryland
@@ -9,7 +9,7 @@ format:
     include-after-body: ../../../../comments.html
 ---
 
-![<a href="https://marylandroadtrips.com/design-your-perfect-escape-at-rocky-gap-state-park/">Photo Credit: Colleen Mulvihill </a>](https://marylandroadtrips.com/wp-content/uploads/2021/06/MRT-Lake-Habeeb.jpg){.preview-image}
+![<a href="https://marylandroadtrips.com/design-your-perfect-escape-at-rocky-gap-state-park/">Photo Credit: Colleen Mulvihill </a>](https://marylandroadtrips.com/wp-content/uploads/2021/06/MRT-Lake-Habeeb.jpg){fig-alt="A view of lake habeeb" .preview-image}
 
 Rocky Gap State Park, nestled in the heart of Maryland, is a premier destination for nature enthusiasts, families, and campers alike.
 Whether you're an experienced camper or a beginner looking for a refreshing escape, this picturesque state park offers a myriad of activities and experiences to create lasting memories.

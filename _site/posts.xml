@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Outdoorsy Indians</title>
+<title>Outdoorsy Indians - General Articles</title>
 <link>https://outdoorsyindians.com/posts.html</link>
 <atom:link href="https://outdoorsyindians.com/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Our blog posts contain easy-to-follow guides, friendly gear reviews, and inspiring tales from everyday adventurers on hiking, camping, kayaking, and more.</description>
@@ -21,7 +21,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://i.imgur.com/jkrwVTK.jpeg" class="lightbox" data-gallery="western-ridge" title="Western Ridge and Valley Trail Loop of Rock Creek Park"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/jkrwVTK.jpeg" class="img-fluid figure-img" alt="Old stone bridge on western ridge trail."></a></p>
+<p><a href="https://i.imgur.com/jkrwVTK.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/jkrwVTK.jpeg" class="img-fluid figure-img" alt="Old stone bridge on western ridge trail."></a></p>
 <figcaption class="figure-caption">Western Ridge and Valley Trail Loop of Rock Creek Park</figcaption>
 </figure>
 </div>
@@ -31,10 +31,10 @@
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="https://i.imgur.com/946kSg8.jpeg" class="lightbox" data-gallery="western-ridge" title="Western Ridge and Valley Trail Loop of Rock Creek Park"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/946kSg8.jpeg" class="img-fluid" alt="western ridge trail"></a> <a href="https://i.imgur.com/UTUcBE5.jpeg" class="lightbox" data-gallery="western-ridge" title="Western Ridge and Valley Trail Loop of Rock Creek Park"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/UTUcBE5.jpeg" class="img-fluid" alt="western ridge trail"></a></p>
+<p><a href="https://i.imgur.com/946kSg8.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/946kSg8.jpeg" class="img-fluid" alt="western ridge trail"></a> <a href="https://i.imgur.com/UTUcBE5.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/UTUcBE5.jpeg" class="img-fluid" alt="western ridge trail"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="https://i.imgur.com/sRmxKNl.jpeg" class="lightbox" data-gallery="western-ridge" title="Western Ridge and Valley Trail Loop of Rock Creek Park"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/sRmxKNl.jpeg" class="img-fluid" alt="western ridge trail"></a> <a href="https://i.imgur.com/hbyCUSq.jpeg" class="lightbox" data-gallery="western-ridge" title="Western Ridge and Valley Trail Loop of Rock Creek Park"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/hbyCUSq.jpeg" class="img-fluid" alt="western ridge trail"></a></p>
+<p><a href="https://i.imgur.com/sRmxKNl.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/sRmxKNl.jpeg" class="img-fluid" alt="western ridge trail"></a> <a href="https://i.imgur.com/hbyCUSq.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/hbyCUSq.jpeg" class="img-fluid" alt="western ridge trail"></a></p>
 </div>
 </div>
 </div>
@@ -43,7 +43,7 @@
 <p>In sum, it was a pleasurable hike that commenced with a satisfying climb through the woods and offered enchanting river vistas in the second half. Remember to bring an ample supply of water, snacks, and bug spray to enhance your experience.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://i.imgur.com/YgnKLcZ.jpeg" class="lightbox" data-gallery="western-ridge" title="Western Ridge and Valley Trail Loop of Rock Creek Park"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/YgnKLcZ.jpeg" class="img-fluid figure-img" alt="western ridge trail"></a></p>
+<p><a href="https://i.imgur.com/YgnKLcZ.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/YgnKLcZ.jpeg" class="img-fluid figure-img" alt="western ridge trail"></a></p>
 <figcaption class="figure-caption">Western Ridge and Valley Trail Loop of Rock Creek Park</figcaption>
 </figure>
 </div>

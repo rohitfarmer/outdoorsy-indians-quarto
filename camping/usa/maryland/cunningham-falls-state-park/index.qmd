@@ -1,5 +1,5 @@
 ---
-title: "Cunningham Falls State Park Campground, Maryland, USA"
+title: "Cunningham Falls State Park Campground, MD, USA"
 description: "A guide to camping at Cunningham Falls State Park, Maryland, USA."
 keywords: Camping, Car Tent Camping, Cunningham Falls State Park, Outdoor Things To Do
 categories: USA, Maryland
@@ -7,13 +7,9 @@ date: "2023-09-18"
 format:
   html:
     include-after-body: ../../../../comments.html
-filters: 
-  - lightbox
-lightbox: auto
 ---
 
-![Cunningham Falls Lake Beach](https://beentheredonethatwithkids.com/wp-content/uploads/2020/07/Cunningham-Falls-3-2048x1536.jpg){fig-alt="Cunningham Falls Lake Beach
-" .preivew-image}
+![Cunningham Falls Lake Beach](https://beentheredonethatwithkids.com/wp-content/uploads/2020/07/Cunningham-Falls-3-2048x1536.jpg){fig-alt="Cunningham Falls Lake Beach" .preview-image}
 
 Cunningham Falls State Park, nestled in the picturesque Catoctin Mountains of Maryland, is a haven for nature enthusiasts and families alike. With its breathtaking waterfalls, scenic hiking trails, and well-maintained campgrounds, it's no wonder this park is a top destination for campers from all over the country.
 
