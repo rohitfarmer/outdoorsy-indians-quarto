@@ -20,7 +20,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://outdoorsyindians.com/camping/usa/maryland/deep-creek-lake-state-park/https:/dynamic-media-cdn.tripadvisor.com/media/photo-o/09/31/6c/e8/deep-creek-lake-state.jpg?w=2000&amp;h=-1&amp;s=1" class="preview-image img-fluid figure-img" alt="A view of deep creek lake during fall"></p>
+<p><img src="https://outdoorsyindians.com/camping/usa/maryland/deep-creek-lake-state-park/https:/dynamic-media-cdn.tripadvisor.com/media/photo-o/09/31/6c/e8/deep-creek-lake-state.jpg?w=2000&amp;h=-1&amp;s=1" class="img-fluid figure-img" alt="A view of deep creek lake during fall"></p>
 <figcaption class="figure-caption">Deep Creek Lake</figcaption>
 </figure>
 </div>
@@ -123,6 +123,7 @@ Disclaimer
   <category>USA, Maryland</category>
   <guid>https://outdoorsyindians.com/camping/usa/maryland/deep-creek-lake-state-park/index.html</guid>
   <pubDate>Tue, 19 Sep 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/31/6c/e8/deep-creek-lake-state.jpg?w=2000&amp;h=-1&amp;s=1" medium="image"/>
 </item>
 <item>
   <title>Cunningham Falls State Park Campground, MD, USA</title>
@@ -233,7 +234,7 @@ Disclaimer
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Big Run State Park Photo Courtesy of Taylor-Made Deep Creek Vacations &amp; Sales"><img src="https://outdoorsyindians.com/camping/usa/maryland/big-run-state-park/https:/deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="lightbox" title="Big Run State Park Photo Courtesy of Taylor-Made Deep Creek Vacations &amp; Sales" data-gallery="quarto-lightbox-gallery-1"><img src="https://outdoorsyindians.com/camping/usa/maryland/big-run-state-park/https:/deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">Big Run State Park Photo Courtesy of Taylor-Made Deep Creek Vacations &amp; Sales</figcaption>
 </figure>
 </div>
