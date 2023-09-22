@@ -1,0 +1,60 @@
+---
+title: "Outdoorsy Things to Do in Karnataka, India"
+pagetitle: "{{< meta title >}}"
+description: "A list of outdoor activities to do in Karnataka, India."
+keywords: Outdoors, Things to do, Kudremukh Trek, Karnataka, Kumara Parvatha Trek, Gokarna
+categories: India
+date: "2023-09-18"
+image: https://f005.backblazeb2.com/file/outdoorsy-indians/things-to-do/india/mountain-kudremukh.jpg
+format:
+  html:
+    include-after-body: ../../../comments.html
+---
+
+![Photo by Nandan Upadhya on Unsplash](https://f005.backblazeb2.com/file/outdoorsy-indians/things-to-do/india/mountain-kudremukh.jpg){fig-alt="green mountains of Kudremukh, Karnataka, India under white clouds during daytime" .preview-image}
+
+
+Karnataka, located in the southwestern region of India, is a treasure trove of natural beauty, historical landmarks, and vibrant culture. From its pristine beaches to its lush Western Ghats, the state offers a plethora of outdoor activities for nature lovers, adventure enthusiasts, and history buffs. Here's a detailed guide to some of the best outdoorsy things to do in Karnataka: 
+
+1. **Trekking in the Western Ghats:**  
+    - **Kudremukh Trek:**  Located in the Chikkamagaluru district, Kudremukh is a popular trekking destination known for its picturesque landscapes and rich biodiversity. 
+    - **Kumara Parvatha Trek:**  This is one of the most challenging treks in Karnataka, offering stunning views of the Pushpagiri Wildlife Sanctuary. 
+    - **Tadiandamol Peak:**  The highest peak in Coorg, Tadiandamol offers a moderate trek with panoramic views of the surrounding hills and valleys. 
+
+2. **Beach Hopping:**  
+    - **Gokarna:**  Famous for its serene beaches like Om Beach and Kudle Beach, Gokarna is a haven for beach lovers and backpackers. 
+    - **Karwar:**  Located near the Goa-Karnataka border, Karwar boasts of pristine beaches and a tranquil ambiance. 
+
+3. **Waterfall Visits:**  
+    - **Jog Falls:**  One of the highest plunge waterfalls in India, Jog Falls is a majestic sight, especially during the monsoon season. 
+    - **Abbey Falls:**  Located in Coorg, this waterfall is surrounded by coffee plantations and spice estates. 
+
+4. **Wildlife Safaris:**  
+    - **Bandipur National Park:**  Home to tigers, elephants, and various species of deer, Bandipur offers jeep safaris for wildlife enthusiasts. 
+    - **Nagarhole National Park:**  Another gem in Karnataka, Nagarhole is known for its rich flora and fauna, including the majestic Bengal tiger. 
+
+5. **River Rafting in Dandeli:** 
+    - Dandeli, located in the Uttara Kannada district, is a hotspot for white-water rafting. The Kali River offers thrilling rapids for both beginners and experienced rafters. 
+
+6. **Explore the Ruins of Hampi:** 
+    - A UNESCO World Heritage Site, Hampi is an ancient village known for its ruins that date back to the Vijayanagara Empire. While it's a historical site, the boulder-strewn landscapes offer a unique outdoor experience. 
+
+7. **Camping in Sakleshpur:** 
+    - Nestled in the Western Ghats, Sakleshpur is a perfect destination for camping amidst coffee plantations and misty hills. 
+
+8. **Caving in Badami:** 
+    - Badami is renowned for its rock-cut cave temples. However, the region also offers adventurous caving experiences amidst its red sandstone cliffs. 
+
+9. **Paragliding in Nandi Hills:** 
+    - Located near Bangalore, Nandi Hills is a popular spot for paragliding, offering breathtaking views of the surrounding landscapes. 
+
+10. **Cycling in Coorg:** 
+    - The winding roads of Coorg, surrounded by lush greenery and coffee estates, make it an ideal destination for cycling enthusiasts.
+
+**Conclusion:** 
+Karnataka is a diverse state that offers a mix of natural beauty, adventure, and history. Whether you're looking to relax on a beach, trek through dense forests, or explore ancient ruins, Karnataka has something for every outdoor enthusiast. So, pack your bags and set out to explore the myriad wonders of this beautiful state!
+
+::: callout-tip
+## Are we Missing Something?
+Help us build the ultimate outdoor bucket list! If there's a destination you swear by that didn't make our list, please enlighten our community in the comments.
+:::

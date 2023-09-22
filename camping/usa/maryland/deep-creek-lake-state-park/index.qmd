@@ -1,17 +1,17 @@
 ---
 title: "Deep Creek Lake State Park Campground, MD, USA"
+pagetitle: "{{< meta title >}}"
 description: "Detailed information on camping at Deep Creek State Park, Maryland, USA."
-keywords: camping at deep creek state park, camping with family near me, campgrounds in maryland
+keywords: Car Camping, Camping at a State Park, Family Camping Campground
 categories: USA, Maryland
 date: "2023-09-19"
 image: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/31/6c/e8/deep-creek-lake-state.jpg?w=2000&h=-1&s=1
-image-alt: "A view of deep creek lake during fall"
 format:
   html:
     include-after-body: ../../../../comments.html
 ---
 
-![Deep Creek Lake](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/31/6c/e8/deep-creek-lake-state.jpg?w=2000&h=-1&s=1){fig-alt="A view of deep creek lake during fall"}
+![Deep Creek Lake](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/31/6c/e8/deep-creek-lake-state.jpg?w=2000&h=-1&s=1){fig-alt="A view of deep creek lake during fall" .preview-image}
 
 Deep Creek State Park, nestled in the heart of Maryland, offers a serene escape for nature lovers, adventurers, and families alike. This comprehensive guide will walk you through everything you need to know about camping at this beautiful destination.---
 

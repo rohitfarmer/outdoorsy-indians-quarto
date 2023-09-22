@@ -1,17 +1,19 @@
 ---
 title: "How to Build a Campfire"
+pagetitle: "{{< meta title >}}"
 description: "A step-by-step guide on how to build, maintain, and put out a campfire, along with safety tips."
-keywords: Camping, Build a Campfire, How To, Tinder, Kindling, Firewood 
+keywords: Build a Campfire, Tinder, Kindling, Firewood 
 categories: [Camping, Campfire, How To]
 author: 
   - name: "Rohit Farmer"
 date: "2023-09-11"
+image: https://storage.googleapis.com/outdoorsy-indians-images/posts/campfire-axe.jpg
 format:
   html:
     include-after-body: ../../comments.html
 ---
 
-![Photo by <a href="https://unsplash.com/@bekmanis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elvis Bekmanis</a> on <a href="https://unsplash.com/photos/7m9RIpJdcxg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://images.unsplash.com/photo-1542653752-ca4607a605a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80){.preview-image fig-alt="A photo of a campfire in the woods with an axe next to it."}
+![Photo by Elvis Bekmanis on Unsplash](https://storage.googleapis.com/outdoorsy-indians-images/posts/campfire-axe.jpg){.preview-image fig-alt="A photo of a campfire in the woods with an axe next to it."}
 
 Building a campfire can be both a skill and an art.
 Whether camping in the wilderness or just wanting a cozy fire in your backyard, understanding the basics is essential for safety and efficiency.

@@ -1,17 +1,19 @@
 ---
-title: "A Beginner's Guide to Camping"
+title: "Camping 101: The Ultimate Guide to Camping for Beginners"
+pagetitle: "{{< meta title >}}"
 description: "An easy-to-follow guide to types of camping with details on the beginner’s friendly car tent camping."
-keywords: Camping, Car Tent Camping, Types of Camping, Beginner
+keywords: Camping Equipment, How to Start Camping, Types of Camping
 categories: [Camping, Types of Camping,  Car Tent Camping, Beginner]
 author: 
   - name: "Rohit Farmer"
 date: "2023-09-06"
+image: https://storage.googleapis.com/outdoorsy-indians-images/posts/tents-camping-at-night.jpg
 format:
   html:
     include-after-body: ../../comments.html
 ---
 
-![Photo by <a href="https://unsplash.com/@tlisbin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tommy Lisbin</a> on <a href="https://unsplash.com/photos/2DH-qMX6M4E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://images.unsplash.com/photo-1487730116645-74489c95b41b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80){.preview-image fig-alt="A night time scene of a campsite with multiple tents."}
+![Photo by Tommy Lisbin on Unsplash](https://storage.googleapis.com/outdoorsy-indians-images/posts/tents-camping-at-night.jpg){.preview-image fig-alt="A night time scene of a campsite with multiple tents."}
 
 Camping is not just one activity but an umbrella term encompassing various approaches to spending time outdoors.
 From the modern comforts of "glamping" to the rugged solitude of backcountry camping, there's a style for everyone.

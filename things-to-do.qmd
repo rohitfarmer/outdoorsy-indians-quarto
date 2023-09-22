@@ -1,5 +1,6 @@
 ---
 title: Things To Do
+pagetitle: "Outdoorsy Indians - Things to Do"
 description: "Check out our blog posts on outdoorsy things-to-do around the world."
 keywords: outdoors, outdoorsy things to do
 listing:

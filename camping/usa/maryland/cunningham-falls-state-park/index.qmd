@@ -1,9 +1,11 @@
 ---
 title: "Cunningham Falls State Park Campground, MD, USA"
-description: "A guide to camping at Cunningham Falls State Park, Maryland, USA."
-keywords: Camping, Car Tent Camping, Cunningham Falls State Park, Outdoor Things To Do
+pagetitle: "{{< meta title >}}"
+description: "Detailed information on camping at Cunningham Falls State Park, Maryland, USA."
+keywords: Car Camping, Camping at a State Park, Family Camping Campground
 categories: USA, Maryland
 date: "2023-09-18"
+image: https://beentheredonethatwithkids.com/wp-content/uploads/2020/07/Cunningham-Falls-3-2048x1536.jpg
 format:
   html:
     include-after-body: ../../../../comments.html

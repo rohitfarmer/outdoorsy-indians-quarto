@@ -1,17 +1,19 @@
 ---
-title: "A Beginner’s Guide to Kayaking"
-description: "A guide on how to pick up kayaking as a hobby"
-keywords: Kayaking, Paddling, Water Sports, Water Activities, Beginner
+title: "How To Kayak: The Ultimate Beginner's Guide"
+pagetitle: "{{< meta title >}}"
+description: "An ultimate beginner's guide on how to pick up kayaking as a hobby, find classes, and tips on buying a kayak."
+keywords: Kayaking for Beginners, Recreational Kayaking, Kayaking Gear, Water Activities
 categories: [Kayaking, Paddling, Water Sports, Water Activities, Beginner]
 author: 
   - name: "Rohit Farmer"
 date: "2023-08-29"
+image: https://storage.googleapis.com/outdoorsy-indians-images/posts/rohit-farmer-kayaking.jpg
 format:
   html:
     include-after-body: ../../comments.html
 ---
 
-![That's me in my first learn to kayak class by REI at the Seneca Creek State Park, Gaithersburg, MD, USA](https://i.imgur.com/2YACDdt.jpeg){fig-alt="Rohit Farmer on a kayak during his first learn to kayak class by REI at the Seneca Creek State Park, Gaithersburg, MD, USA" .preview-image}
+![That's me in my first learn to kayak class by REI at the Seneca Creek State Park, Gaithersburg, MD, USA](https://storage.googleapis.com/outdoorsy-indians-images/posts/rohit-farmer-kayaking.jpg){fig-alt="Rohit Farmer on a kayak during his first learn to kayak class by REI at the Seneca Creek State Park, Gaithersburg, MD, USA" .preview-image}
 
 I come from Allahabad (now Prayagraj), UP, India, the home to two of India's most prominent rivers, the Ganges and Yamuna.
 However, besides doing a couple of paid boating trips on the rivers, I never got any opportunity for water sports - it was just not there.

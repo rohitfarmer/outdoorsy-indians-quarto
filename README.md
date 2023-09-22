@@ -7,13 +7,14 @@ Website code for https://outdoorsyindians.com
 ```{yaml}
 ---
 title: "A Beginner's Guide to Camping"
+pagetitle: "{{< meta title >}}"
 description: "An easy-to-follow guide to types of camping with details on the beginner’s friendly car tent camping."
 keywords: Camping, Car Tent Camping, Types of Camping, Beginner
 categories: [Camping, Types of Camping,  Car Tent Camping, Beginner]
 author: 
   - name: "Rohit Farmer"
 date: "2023-09-06"
-freeze: true
+image: bushcraft-shelter.jpg
 format:
   html:
     include-after-body: ../comments.html
@@ -31,11 +32,12 @@ lightbox: auto
 ```{yaml}
 ---
 title: "Deep Creek Lake State Park Campground, Maryland, USA"
+pagetitle: "{{< meta title >}}"
 description: "Detailed information on camping at Deep Creek State Park, Maryland, USA."
 keywords: camping at deep creek state park, camping with family near me, campgrounds in maryland
 categories: USA, Maryland
 date: "2023-09-08"
-freeze: true
+image: bushcraft-shelter.jpg
 format:
   html:
     include-after-body: ../../../comments.html
@@ -59,11 +61,12 @@ The content provided in these blog posts is for general informational purposes o
 ```{yaml}
 ---
 title: "Outdoorsy Things to Do in Andhra Pradesh, India"
+pagetitle: "{{< meta title >}}"
 description: "A list of outdoorsy things to do in Andhra Pradesh, India."
 keywords: Outdoors, Things to do, Andhra Pradesh, India
 categories: India
 date: "2023-09-08"
-freeze: true
+image: bushcraft-shelter.jpg
 format:
   html:
     include-after-body: ../../comments.html

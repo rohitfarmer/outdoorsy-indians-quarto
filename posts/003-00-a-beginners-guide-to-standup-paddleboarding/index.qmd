@@ -1,17 +1,19 @@
 ---
 title: "A Beginner's Guide to Standup Paddleboarding (SUP)"
-description: "An easy-to-follow step-by-step guide on how to pick up standup paddleboarding as a hobby."
-keywords: SUP, Paddling, Water Sports, Water Activities, Beginner
+pagetitle: "{{< meta title >}}"
+description: "An easy-to-follow step-by-step guide on how to pick up standup paddleboarding as a hobby, find classes, and tips on buying a paddleboard."
+keywords: Standup Paddleboarding for Beginners, Types of Standup Paddleboards, Water Activities
 categories: [SUP, Paddling, Water Sports, Water Activities, Beginner]
 author: 
   - name: "Rohit Farmer"
 date: "2023-09-01"
+image: https://storage.googleapis.com/outdoorsy-indians-images/posts/dishant-khatri-sup.jpg
 format:
   html:
     include-after-body: ../../comments.html
 ---
 
-![That's my friend Dishant Khatri on his SUP at Emerald Lake, Yoho National Park, British Columbia, Canada](https://i.imgur.com/k8SyLaN.jpg){fig-alt="An Indian man on his knees on a standup paddleboard at Emerald Lake, Yoho National Park, British Columbia, Canada" .preview-image}
+![That's my friend Dishant Khatri on his SUP at Emerald Lake, Yoho National Park, British Columbia, Canada](https://storage.googleapis.com/outdoorsy-indians-images/posts/dishant-khatri-sup.jpg){fig-alt="An Indian man on his knees on a standup paddleboard at Emerald Lake, Yoho National Park, British Columbia, Canada" .preview-image}
 
 
 *This article is an extension of my previous post on “[A Beginner’s Guide to Kayaking.](https://outdoorsyindians.com/posts/002-00-a-beginners-guide-to-kayaking/)” The motivation to pick this activity is the same as kayaking. To get more on the water and add another enjoyable physical activity.* 

@@ -1,17 +1,16 @@
 ---
 title: "Navigating the Western Ridge and Valley Trail Loop of Rock Creek Park: A Hiker's Perspective"
+pagetitle: "{{< meta title >}}"
 description: "Metro-Friendly Rock Creek Park Trail."
-keywords: hiking trails near me, hiking rock creek park, hiking close to city
+keywords: Hiking Rock Creek Park, Hiking Close to City, Trails Close to Public Transport
 categories: [Hiking, Rock Creek Park, Real-life Experiences, Inspirational Stories]
 author: 
   - name: "Swati Gaikwad"
 date: "2023-09-19"
+image: https://i.imgur.com/jkrwVTK.jpeg
 format:
   html:
     include-after-body: ../../comments.html
-filters: 
-  - lightbox
-lightbox: auto
 ---
 
 ![Western Ridge and Valley Trail Loop of Rock Creek Park](https://i.imgur.com/jkrwVTK.jpeg){group="western-ridge" fig-alt="Old stone bridge on western ridge trail." .preview-image}

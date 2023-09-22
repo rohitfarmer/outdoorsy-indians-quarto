@@ -1,5 +1,6 @@
 ---
 title: General Articles
+pagetitle: "Outdoorsy Indians - General Articles"
 description: "Our blog posts contain easy-to-follow guides, friendly gear reviews, and inspiring tales from everyday adventurers on hiking, camping, kayaking, and more."
 keywords: easy-to-follow guides, outdoor gear reviews, outdoorsy stories
 listing:

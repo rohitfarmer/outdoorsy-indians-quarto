@@ -1,17 +1,17 @@
 ---
 title: "Big Run State Park Campground, MD, USA"
-description: "A guide to camping at Big Run State Park, Maryland, USA."
-keywords: Camping, Car Tent Camping, Big Run State Park
+pagetitle: "{{< meta title >}}"
+description: "Detailed information on camping at Big Run State Park, Maryland, USA."
+keywords: Car Camping, Camping at a State Park, Family Camping Campground
 categories: USA, Maryland
 date: "2023-09-18"
+image: https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg
 format:
   html:
     include-after-body: ../../../../comments.html
-filters: 
-  - lightbox
 lightbox: auto
 ---
-![Big Run State Park Photo Courtesy of Taylor-Made Deep Creek Vacations & Sales](https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg){.preview-image}
+![Big Run State Park Photo Courtesy of Taylor-Made Deep Creek Vacations & Sales](https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg){fig-alt="lake view wtih kayaks at the shore" .preview-image}
 
 Camping is an age-old tradition that allows us to connect with nature, unwind from the hustle and bustle of daily life, and create lasting memories with loved ones. One of the best places to experience the great outdoors in Maryland is Big Run State Park. Nestled in the heart of the state, this park offers a unique camping experience for both seasoned campers and first-timers.
 

@@ -1,15 +1,17 @@
 ---
 title: "Cedarville State Forest Campground, MD, USA"
-description: "A guide to camping at Cedarville State Forest, Maryland, USA."
-keywords: Camping, Car Tent Camping, Cedarville State Forest, Maryland, USA
+pagetitle: "{{< meta title >}}"
+description: "Detailed information on camping at Cedarville State Forest, Maryland, USA."
+keywords: Car Camping, Camping at a State Park, Family Camping Campground
 categories: USA, Maryland
 date: "2023-09-09"
+image: https://www.roverpass.com/system/pictures/images/000/035/900/full/ML16.png
 format:
   html:
     include-after-body: ../../../../comments.html
 ---
 
-![Cedarville State Forest Pond](https://dnr.maryland.gov/publiclands/PublishingImages/Cedarville_SpringReflections_TerryThomas.png){fig-alt="A view of cedarville state forest pond" .preview-image}
+![Cedarville State Forest Pond](https://www.roverpass.com/system/pictures/images/000/035/900/full/ML16.png){fig-alt="A view of cedarville state forest pond" .preview-image}
 
 Situated in the heart of the Old Line State, Cedarville State Forest offers visitors a chance to reconnect with nature, find tranquility, and embark on exciting outdoor adventures.
 This 3,510-acre woodland reserve is the epitome of Maryland's beautiful landscape.

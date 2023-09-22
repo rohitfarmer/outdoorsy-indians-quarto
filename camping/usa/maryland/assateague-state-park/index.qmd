@@ -1,15 +1,17 @@
 ---
 title: "Assateague State Park Campground, MD, USA"
-description: "A guide to camping at the Assateague State Park, Maryland, USA."
-keywords: Camping, Car Tent Camping, Assateaague State Park
+pagetitle: "{{< meta title >}}"
+description: "Detailed information on camping at the Assateague State Park, Maryland, USA."
+keywords: Car Camping, Camping at a State Park, Family Camping Campground
 categories: USA, Maryland
 date: "2023-09-10"
+image: https://storage.googleapis.com/outdoorsy-indians-images/camping/wild-horses-assateague-island.jpg
 format:
   html:
     include-after-body: ../../../../comments.html
 ---
 
-![Photo by <a href="https://unsplash.com/@saralea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sara Cottle</a> on <a href="https://unsplash.com/photos/REQqhtK5zkI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://images.unsplash.com/photo-1627414878948-9c76dc53b342?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80){fig-alt="wild horses on the beach" .preview-image}
+![Photo by on Unsplash](https://storage.googleapis.com/outdoorsy-indians-images/camping/wild-horses-assateague-island.jpg){fig-alt="wild horses on the beach" .preview-image}
 
 If you're yearning for a camping experience that combines the enchanting serenity of the ocean with the raw beauty of nature, Assateague State Park in Maryland is the destination you've been dreaming of.
 Situated along the pristine shores and wild landscapes of Assateague Island, this park is a haven for campers looking for an unforgettable coastal getaway.

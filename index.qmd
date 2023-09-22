@@ -2,10 +2,10 @@
 description: "At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures in or outside India."
 keywords: outdoor activities, things to do outside, family camping activity, outdoor family activities, for Indians, gear recommendations 
 open-graph:
-  title: "Outdoorsy Indians"
+  title: "Outdoorsy Indians | Outdoor Guides, Destinations & Things to Do"
   image: images/web-logo-no-bg.png
 twitter-card:
-  title: "Outdoorsy Indians"
+  title: "Outdoorsy Indians | Outdoor Guides, Destinations & Things to Do"
   image: images/web-logo-no-bg.png
 page-layout: full
 format:
@@ -51,8 +51,8 @@ body {
 
 <div class="container">
   <div class="centered-content">
-    <h1 style="font-family:'Special Elite'; font-size:2.5em;">Welcome to Outdoorsy Indians</h1>
-    <h3>Your Gateway to Adventure!</h3>
+    <h1 style="font-family:'Special Elite'; font-size:2.5em;">Outdoorsy Indians</h1>
+    <h3>Your Trailhead to Outdoor Guides, Destinations, & Things to Do</h3>
   </div>
 </div>
 ```

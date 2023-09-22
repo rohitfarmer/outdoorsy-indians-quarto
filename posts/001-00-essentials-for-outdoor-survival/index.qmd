@@ -1,17 +1,20 @@
 ---
 title: "Essentials for Outdoor Survival"
+pagetitle: "{{< meta title >}}"
 description: "Yet another guide to tools and skills required for outdoor survival"
-keywords: Outdoor Survival, Essentials, Cutting, Combustion, Cover, Container, Cordage
+keywords: Survival Gear List, Outdoor Survival Skills, The 5 Cs of Survival
 categories: [Survival, First Aid, Cutting, Combustion, Cover, Container, Cordage, Communication, Navigation, Insect Repellent]
 author: 
   - name: "Rohit Farmer"
 date: "2023-08-24"
+image: https://storage.googleapis.com/outdoorsy-indians-images/posts/bushcraft-shelter.jpg
 format:
   html:
     include-after-body: ../../comments.html
 ---
 
-![Photo by <a href="https://unsplash.com/@pacd_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Caspian Dahlström</a> on <a href="https://unsplash.com/photos/fAD9vfcZgAQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://images.unsplash.com/photo-1630603334774-c8ae1c1f1fce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80){fig-alt="Photo of a bushcraft shelter" .preview-image}
+![Photo by Caspian Dahlström on Unsplash](https://storage.googleapis.com/outdoorsy-indians-images/posts/bushcraft-shelter.jpg){fig-alt="Photo of a bushcraft shelter" .preview-image}
+
 
 Survival should not be the first thing to come to mind while thinking about the great outdoors - it should be fun, adventure, mesmerizing views, a star-filled night, the sound of a waterfall, encountering wildlife, and making memories with your loved ones.
 However, as soon as you step outside the comforts and protection of your house, you are subjected to the elements and unforeseen difficult situations.

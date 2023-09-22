@@ -9,7 +9,7 @@
 <link>https://outdoorsyindians.com/posts.html</link>
 <atom:link href="https://outdoorsyindians.com/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Our blog posts contain easy-to-follow guides, friendly gear reviews, and inspiring tales from everyday adventurers on hiking, camping, kayaking, and more.</description>
-<generator>quarto-1.3.433</generator>
+<generator>quarto-1.3.450</generator>
 <lastBuildDate>Tue, 19 Sep 2023 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Navigating the Western Ridge and Valley Trail Loop of Rock Creek Park: A Hiker’s Perspective</title>
@@ -21,7 +21,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://i.imgur.com/jkrwVTK.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/jkrwVTK.jpeg" class="img-fluid figure-img" alt="Old stone bridge on western ridge trail."></a></p>
+<p><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/jkrwVTK.jpeg" class="preview-image img-fluid figure-img" data-group="western-ridge" alt="Old stone bridge on western ridge trail."></p>
 <figcaption class="figure-caption">Western Ridge and Valley Trail Loop of Rock Creek Park</figcaption>
 </figure>
 </div>
@@ -31,10 +31,10 @@
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="https://i.imgur.com/946kSg8.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/946kSg8.jpeg" class="img-fluid" alt="western ridge trail"></a> <a href="https://i.imgur.com/UTUcBE5.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/UTUcBE5.jpeg" class="img-fluid" alt="western ridge trail"></a></p>
+<p><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/946kSg8.jpeg" class="img-fluid" data-group="western-ridge" alt="western ridge trail"> <img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/UTUcBE5.jpeg" class="img-fluid" data-group="western-ridge" alt="western ridge trail"></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="https://i.imgur.com/sRmxKNl.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/sRmxKNl.jpeg" class="img-fluid" alt="western ridge trail"></a> <a href="https://i.imgur.com/hbyCUSq.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/hbyCUSq.jpeg" class="img-fluid" alt="western ridge trail"></a></p>
+<p><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/sRmxKNl.jpeg" class="img-fluid" data-group="western-ridge" alt="western ridge trail"> <img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/hbyCUSq.jpeg" class="img-fluid" data-group="western-ridge" alt="western ridge trail"></p>
 </div>
 </div>
 </div>
@@ -43,7 +43,7 @@
 <p>In sum, it was a pleasurable hike that commenced with a satisfying climb through the woods and offered enchanting river vistas in the second half. Remember to bring an ample supply of water, snacks, and bug spray to enhance your experience.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://i.imgur.com/YgnKLcZ.jpeg" class="lightbox" title="Western Ridge and Valley Trail Loop of Rock Creek Park" data-gallery="western-ridge"><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/YgnKLcZ.jpeg" class="img-fluid figure-img" alt="western ridge trail"></a></p>
+<p><img src="https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/https:/i.imgur.com/YgnKLcZ.jpeg" class="img-fluid figure-img" data-group="western-ridge" alt="western ridge trail"></p>
 <figcaption class="figure-caption">Western Ridge and Valley Trail Loop of Rock Creek Park</figcaption>
 </figure>
 </div>
@@ -61,6 +61,7 @@
   <category>Inspirational Stories</category>
   <guid>https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/index.html</guid>
   <pubDate>Tue, 19 Sep 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://i.imgur.com/jkrwVTK.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>City Serenity: The Melvin C. Hazen Trail Experience</title>
@@ -72,7 +73,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://i.imgur.com/Ki2Pv7r.jpg" class="lightbox" title="The Melvin C. Hazen Trail" data-gallery="melvin-hazen"><img src="https://outdoorsyindians.com/posts/007-00-hiking-melvin-c-hazen-trail/https:/i.imgur.com/Ki2Pv7r.jpg" class="img-fluid figure-img" alt="A portion of the Melvin C. Hazen Trail"></a></p>
+<p><img src="https://outdoorsyindians.com/posts/007-00-hiking-melvin-c-hazen-trail/https:/i.imgur.com/Ki2Pv7r.jpg" class="preview-image img-fluid figure-img" data-group="melvin-hazen" alt="A portion of the Melvin C. Hazen Trail"></p>
 <figcaption class="figure-caption">The Melvin C. Hazen Trail</figcaption>
 </figure>
 </div>
@@ -80,24 +81,16 @@
 <p>On one wintry weekend, as part of my ongoing city exploration series, I embarked on the Melvin C. Hazen Trail. Nestled within the urban landscape, this trail offers a delightful slice of nature that has the uncanny ability to make you feel as though you’ve left the city far behind. The rustic trailhead can be found at Melvin C. Hazen Park, setting the stage for a captivating journey.</p>
 <p>To make this experience even more immersive, we decided to rely on public transportation. Our starting point was the Cleveland Metro Station, conveniently located on the red line of the D.C. metro system. From there, we ventured northward to commence our adventure.</p>
 <p>The Melvin C. Hazen Trail is a modest 1-mile out-and-back trail, adorned with several enchanting and easy stream crossings, facilitated by stepping stones and fallen trees. It’s worth noting that during periods of elevated water levels, the stream may overflow, necessitating waterproof hiking shoes. Fortunately for us, this particular outing took place during the winter, sparing us from such concerns.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://i.imgur.com/7vIMb8I.jpg" class="lightbox" data-gallery="melvin-hazen"><img src="https://outdoorsyindians.com/posts/007-00-hiking-melvin-c-hazen-trail/https:/i.imgur.com/7vIMb8I.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
+<p><img src="https://outdoorsyindians.com/posts/007-00-hiking-melvin-c-hazen-trail/https:/i.imgur.com/7vIMb8I.jpg" class="img-fluid" data-group="melvin-hazen"></p>
 <p>The trail is well-marked and falls under the category of easy hikes. While I hesitate to classify it as a true hike due to its relatively short distance, it offers a picturesque walk that effortlessly transports you away from the city bustle. It’s an accessible escape into tranquility and nature.</p>
 <p>Melvin C. Hazen Trail also enjoys a reputation as a haven for bird nesting and birdwatching. Thus, a return visit during the spring or summer promises to be a birdwatcher’s paradise.</p>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-figure quarto-figure-center" style="flex-basis: 50.0%;justify-content: center;">
-<figure class="figure">
-<p><a href="https://i.imgur.com/B7it08m.jpg" class="lightbox" data-gallery="melvin-hazen"><img src="https://outdoorsyindians.com/posts/007-00-hiking-melvin-c-hazen-trail/https:/i.imgur.com/B7it08m.jpg" class="img-fluid figure-img"></a></p>
-</figure>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://outdoorsyindians.com/posts/007-00-hiking-melvin-c-hazen-trail/https:/i.imgur.com/B7it08m.jpg" class="img-fluid" data-group="melvin-hazen"></p>
 </div>
-<div class="quarto-figure quarto-figure-center" style="flex-basis: 50.0%;justify-content: center;">
-<figure class="figure">
-<p><a href="https://i.imgur.com/rjBl7Ft.jpg" class="lightbox" data-gallery="melvin-hazen"><img src="https://outdoorsyindians.com/posts/007-00-hiking-melvin-c-hazen-trail/https:/i.imgur.com/rjBl7Ft.jpg" class="img-fluid figure-img"></a></p>
-</figure>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://outdoorsyindians.com/posts/007-00-hiking-melvin-c-hazen-trail/https:/i.imgur.com/rjBl7Ft.jpg" class="img-fluid" data-group="melvin-hazen"></p>
 </div>
 </div>
 </div>
@@ -115,6 +108,7 @@
   <category>Inspirational Stories</category>
   <guid>https://outdoorsyindians.com/posts/007-00-hiking-melvin-c-hazen-trail/index.html</guid>
   <pubDate>Wed, 13 Sep 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://i.imgur.com/Ki2Pv7r.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Hiking the Capital Crescent Trail: Urban Nature Retreat</title>
@@ -152,6 +146,7 @@
   <category>Inspirational Stories</category>
   <guid>https://outdoorsyindians.com/posts/006-00-hiking-the-capital-crescent-trail/index.html</guid>
   <pubDate>Tue, 12 Sep 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://i.imgur.com/239HeOr.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>How to Build a Campfire</title>
@@ -163,8 +158,8 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://outdoorsyindians.com/posts/005-00-how-to-build-a-campfire/https:/images.unsplash.com/photo-1542653752-ca4607a605a1?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=2940&amp;q=80" class="preview-image img-fluid figure-img" alt="A photo of a campfire in the woods with an axe next to it."></p>
-<figcaption class="figure-caption">Photo by <a href="https://unsplash.com/@bekmanis?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Elvis Bekmanis</a> on <a href="https://unsplash.com/photos/7m9RIpJdcxg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
+<p><img src="https://outdoorsyindians.com/posts/005-00-how-to-build-a-campfire/https:/storage.googleapis.com/outdoorsy-indians-images/posts/campfire-axe.jpg" class="preview-image img-fluid figure-img" alt="A photo of a campfire in the woods with an axe next to it."></p>
+<figcaption class="figure-caption">Photo by Elvis Bekmanis on Unsplash</figcaption>
 </figure>
 </div>
 <p>Building a campfire can be both a skill and an art. Whether camping in the wilderness or just wanting a cozy fire in your backyard, understanding the basics is essential for safety and efficiency. Here’s a step-by-step guide to help you build the perfect campfire.</p>
@@ -291,9 +286,10 @@
   <category>How To</category>
   <guid>https://outdoorsyindians.com/posts/005-00-how-to-build-a-campfire/index.html</guid>
   <pubDate>Mon, 11 Sep 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://storage.googleapis.com/outdoorsy-indians-images/posts/campfire-axe.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>A Beginner’s Guide to Camping</title>
+  <title>Camping 101: The Ultimate Guide to Camping for Beginners</title>
   <dc:creator>Rohit Farmer</dc:creator>
   <link>https://outdoorsyindians.com/posts/004-00-a-beginners-guide-to-camping/index.html</link>
   <description><![CDATA[ 
@@ -302,8 +298,8 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://outdoorsyindians.com/posts/004-00-a-beginners-guide-to-camping/https:/images.unsplash.com/photo-1487730116645-74489c95b41b?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=2940&amp;q=80" class="preview-image img-fluid figure-img" alt="A night time scene of a campsite with multiple tents."></p>
-<figcaption class="figure-caption">Photo by <a href="https://unsplash.com/@tlisbin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tommy Lisbin</a> on <a href="https://unsplash.com/photos/2DH-qMX6M4E?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
+<p><img src="https://outdoorsyindians.com/posts/004-00-a-beginners-guide-to-camping/https:/storage.googleapis.com/outdoorsy-indians-images/posts/tents-camping-at-night.jpg" class="preview-image img-fluid figure-img" alt="A night time scene of a campsite with multiple tents."></p>
+<figcaption class="figure-caption">Photo by Tommy Lisbin on Unsplash</figcaption>
 </figure>
 </div>
 <p>Camping is not just one activity but an umbrella term encompassing various approaches to spending time outdoors. From the modern comforts of “glamping” to the rugged solitude of backcountry camping, there’s a style for everyone. Part 1 of this article delves into the various types of camping, their pros and cons, and what you might need for each. Part 2 dives into details of “Car Tent Camping,” the most common and beginner-friendly type of camping.</p>
@@ -531,6 +527,7 @@ Update history
   <category>Beginner</category>
   <guid>https://outdoorsyindians.com/posts/004-00-a-beginners-guide-to-camping/index.html</guid>
   <pubDate>Wed, 06 Sep 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://storage.googleapis.com/outdoorsy-indians-images/posts/tents-camping-at-night.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>A Beginner’s Guide to Standup Paddleboarding (SUP)</title>
@@ -542,7 +539,7 @@ Update history
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://outdoorsyindians.com/posts/003-00-a-beginners-guide-to-standup-paddleboarding/https:/i.imgur.com/k8SyLaN.jpg" class="preview-image img-fluid figure-img" alt="An Indian man on his knees on a standup paddleboard at Emerald Lake, Yoho National Park, British Columbia, Canada"></p>
+<p><img src="https://outdoorsyindians.com/posts/003-00-a-beginners-guide-to-standup-paddleboarding/https:/storage.googleapis.com/outdoorsy-indians-images/posts/dishant-khatri-sup.jpg" class="preview-image img-fluid figure-img" alt="An Indian man on his knees on a standup paddleboard at Emerald Lake, Yoho National Park, British Columbia, Canada"></p>
 <figcaption class="figure-caption">That’s my friend Dishant Khatri on his SUP at Emerald Lake, Yoho National Park, British Columbia, Canada</figcaption>
 </figure>
 </div>
@@ -725,9 +722,10 @@ Update history
   <category>Beginner</category>
   <guid>https://outdoorsyindians.com/posts/003-00-a-beginners-guide-to-standup-paddleboarding/index.html</guid>
   <pubDate>Fri, 01 Sep 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://storage.googleapis.com/outdoorsy-indians-images/posts/dishant-khatri-sup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>A Beginner’s Guide to Kayaking</title>
+  <title>How To Kayak: The Ultimate Beginner’s Guide</title>
   <dc:creator>Rohit Farmer</dc:creator>
   <link>https://outdoorsyindians.com/posts/002-00-a-beginners-guide-to-kayaking/index.html</link>
   <description><![CDATA[ 
@@ -736,7 +734,7 @@ Update history
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://outdoorsyindians.com/posts/002-00-a-beginners-guide-to-kayaking/https:/i.imgur.com/2YACDdt.jpeg" class="preview-image img-fluid figure-img" alt="Rohit Farmer on a kayak during his first learn to kayak class by REI at the Seneca Creek State Park, Gaithersburg, MD, USA"></p>
+<p><img src="https://outdoorsyindians.com/posts/002-00-a-beginners-guide-to-kayaking/https:/storage.googleapis.com/outdoorsy-indians-images/posts/rohit-farmer-kayaking.jpg" class="preview-image img-fluid figure-img" alt="Rohit Farmer on a kayak during his first learn to kayak class by REI at the Seneca Creek State Park, Gaithersburg, MD, USA"></p>
 <figcaption class="figure-caption">That’s me in my first learn to kayak class by REI at the Seneca Creek State Park, Gaithersburg, MD, USA</figcaption>
 </figure>
 </div>
@@ -838,6 +836,7 @@ Update history
   <category>Beginner</category>
   <guid>https://outdoorsyindians.com/posts/002-00-a-beginners-guide-to-kayaking/index.html</guid>
   <pubDate>Tue, 29 Aug 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://storage.googleapis.com/outdoorsy-indians-images/posts/rohit-farmer-kayaking.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Essentials for Outdoor Survival</title>
@@ -849,8 +848,8 @@ Update history
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://outdoorsyindians.com/posts/001-00-essentials-for-outdoor-survival/https:/images.unsplash.com/photo-1630603334774-c8ae1c1f1fce?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1932&amp;q=80" class="preview-image img-fluid figure-img" alt="Photo of a bushcraft shelter"></p>
-<figcaption class="figure-caption">Photo by <a href="https://unsplash.com/@pacd_photography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Caspian Dahlström</a> on <a href="https://unsplash.com/photos/fAD9vfcZgAQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
+<p><img src="https://outdoorsyindians.com/posts/001-00-essentials-for-outdoor-survival/https:/storage.googleapis.com/outdoorsy-indians-images/posts/bushcraft-shelter.jpg" class="preview-image img-fluid figure-img" alt="Photo of a bushcraft shelter"></p>
+<figcaption class="figure-caption">Photo by Caspian Dahlström on Unsplash</figcaption>
 </figure>
 </div>
 <p>Survival should not be the first thing to come to mind while thinking about the great outdoors - it should be fun, adventure, mesmerizing views, a star-filled night, the sound of a waterfall, encountering wildlife, and making memories with your loved ones. However, as soon as you step outside the comforts and protection of your house, you are subjected to the elements and unforeseen difficult situations. Therefore, heading out with some basic preparedness is always helpful, especially with a family, including small children. This post is inspired by the famous 5Cs of survivability and the <a href="https://www.nps.gov/articles/10essentials.htm">ten essentials</a> by the National Park Services. And I hope these essential principles serve as your compass, guiding you through the rugged terrain and helping you emerge victorious in the face of nature’s trials.</p>
@@ -981,6 +980,7 @@ Update history
   <category>Insect Repellent</category>
   <guid>https://outdoorsyindians.com/posts/001-00-essentials-for-outdoor-survival/index.html</guid>
   <pubDate>Thu, 24 Aug 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://storage.googleapis.com/outdoorsy-indians-images/posts/bushcraft-shelter.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

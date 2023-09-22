@@ -7,14 +7,15 @@ project:
 
 website:
   favicon: images/web-logo-no-bg.png
-  title: "Outdoorsy Indians"
+  title: "Outdoorsy Indians | Outdoor Guides, Destinations & Things to Do"
   site-url: https://outdoorsyindians.com
   description: "At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures in or outside India."
   back-to-top-navigation: true
   navbar:
     background: primary
+    title: "Outdoorsy Indians"
     logo: images/web-logo-no-bg.png
-    logo-alt: "Outdoorsy Indians website logo: a glowing hurrican lantern."
+    logo-alt: "Outdoorsy Indians website logo."
     right:
       - about.qmd
       - text: "Posts"
@@ -24,6 +25,8 @@ website:
           - things-to-do.qmd
       - icon: instagram
         href: https://www.instagram.com/outdoorsyindians/
+      - icon: pinterest
+        href: https://www.pinterest.com/outdoorsyindians/
       - icon: reddit
         href: https://www.reddit.com/r/OutdoorsyIndians/
       - icon: rss

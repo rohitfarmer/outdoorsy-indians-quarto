@@ -2,17 +2,17 @@
   {
     "listing": "/things-to-do.html",
     "items": [
-      "/things-to-do/india/010-00-karnataka/index.html",
-      "/things-to-do/india/009-00-jharkhand/index.html",
-      "/things-to-do/india/008-00-himachal-pradesh/index.html",
-      "/things-to-do/india/008-00-haryana/index.html",
-      "/things-to-do/india/007-00-gujarat/index.html",
-      "/things-to-do/india/005-00-chhattisgarh/index.html",
-      "/things-to-do/india/001-00-andhra-pradesh/index.html",
-      "/things-to-do/india/002-00-arunachal-pradesh/index.html",
-      "/things-to-do/india/004-00-bihar/index.html",
-      "/things-to-do/india/003-00-assam/index.html",
-      "/things-to-do/india/006-00-goa/index.html"
+      "/things-to-do/india/010-karnataka/index.html",
+      "/things-to-do/india/009-jharkhand/index.html",
+      "/things-to-do/india/008-himachal-pradesh/index.html",
+      "/things-to-do/india/008-haryana/index.html",
+      "/things-to-do/india/001-andhra-pradesh/index.html",
+      "/things-to-do/india/005-chhattisgarh/index.html",
+      "/things-to-do/india/002-arunachal-pradesh/index.html",
+      "/things-to-do/india/007-gujarat/index.html",
+      "/things-to-do/india/006-goa/index.html",
+      "/things-to-do/india/003-assam/index.html",
+      "/things-to-do/india/004-bihar/index.html"
     ]
   },
   {
@@ -56,17 +56,17 @@
       "/camping/usa/maryland/assateague-state-park/index.html",
       "/camping/usa/maryland/cedarville-state-forest/index.html",
       "/camping/usa/maryland/rocky-gap-state-park/index.html",
-      "/things-to-do/india/010-00-karnataka/index.html",
-      "/things-to-do/india/009-00-jharkhand/index.html",
-      "/things-to-do/india/008-00-himachal-pradesh/index.html",
-      "/things-to-do/india/008-00-haryana/index.html",
-      "/things-to-do/india/007-00-gujarat/index.html",
-      "/things-to-do/india/005-00-chhattisgarh/index.html",
-      "/things-to-do/india/001-00-andhra-pradesh/index.html",
-      "/things-to-do/india/002-00-arunachal-pradesh/index.html",
-      "/things-to-do/india/004-00-bihar/index.html",
-      "/things-to-do/india/003-00-assam/index.html",
-      "/things-to-do/india/006-00-goa/index.html"
+      "/things-to-do/india/010-karnataka/index.html",
+      "/things-to-do/india/009-jharkhand/index.html",
+      "/things-to-do/india/008-himachal-pradesh/index.html",
+      "/things-to-do/india/008-haryana/index.html",
+      "/things-to-do/india/001-andhra-pradesh/index.html",
+      "/things-to-do/india/005-chhattisgarh/index.html",
+      "/things-to-do/india/002-arunachal-pradesh/index.html",
+      "/things-to-do/india/007-gujarat/index.html",
+      "/things-to-do/india/006-goa/index.html",
+      "/things-to-do/india/003-assam/index.html",
+      "/things-to-do/india/004-bihar/index.html"
     ]
   }
 ]
