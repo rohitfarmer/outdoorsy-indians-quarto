@@ -12,14 +12,13 @@ eval: false
 
 <img src="images/web-logo-no-bg.png" alt="The logo of outdoorsy Indians website." align="right" width="240" style="padding: 10px 10px 10px 10px;"/>
 
-**Welcome to Outdoorsy Indians - Your Gateway to Adventure!**
-
 Are you ready to embrace the thrill of the great outdoors?
 At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures, regardless of where you are in the world.
 Our platform is designed to inspire, educate, and connect fellow Indians, both within the subcontinent and those settled abroad, who share a love for hiking, camping, kayaking, stand-up paddleboarding, surfing, biking, and more.
 
 </p>
 
+<br>
 <br>
 
 ## Our Mission
