@@ -56,7 +56,7 @@ There are various methods to build a fire, but two of the most popular ones are 
 
 ### Log Cabin Method
 
-![Log cabin campfire configuration. Photo credit: REI](https://www.rei.com/blog/wp-content/uploads/sites/4/2015/06/P3120251.jpg)
+![Log cabin campfire configuration. Photo credit: REI](https://www.rei.com/blog/wp-content/uploads/sites/4/2015/06/P3120251.jpg){fig-alt="A log cabin campfire configuration"}
 
 1.  Start with a small pile of tinder in the center.
 2.  Place two pieces of kindling parallel to each other on opposite sides of the tinder.

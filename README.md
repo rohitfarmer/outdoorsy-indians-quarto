@@ -17,7 +17,7 @@ date: "2023-09-06"
 image: bushcraft-shelter.jpg
 format:
   html:
-    include-after-body: ../comments.html
+    include-after-body: ../../comments.html
 filters: 
   - lightbox
 lightbox: auto

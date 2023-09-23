@@ -22,7 +22,7 @@ To make this experience even more immersive, we decided to rely on public transp
 
 The Melvin C. Hazen Trail is a modest 1-mile out-and-back trail, adorned with several enchanting and easy stream crossings, facilitated by stepping stones and fallen trees. It's worth noting that during periods of elevated water levels, the stream may overflow, necessitating waterproof hiking shoes. Fortunately for us, this particular outing took place during the winter, sparing us from such concerns.
 
-![](https://i.imgur.com/7vIMb8I.jpg){group="melvin-hazen"}
+![](https://i.imgur.com/7vIMb8I.jpg){group="melvin-hazen" fig-alt="A portion of the Melvin C. Hazen Trail"}
 
 
 The trail is well-marked and falls under the category of easy hikes. While I hesitate to classify it as a true hike due to its relatively short distance, it offers a picturesque walk that effortlessly transports you away from the city bustle. It's an accessible escape into tranquility and nature.
@@ -32,9 +32,9 @@ Melvin C. Hazen Trail also enjoys a reputation as a haven for bird nesting and b
 ::: {layout="[[1,1]]"}
 
 
-![](https://i.imgur.com/B7it08m.jpg){group="melvin-hazen"}
+![](https://i.imgur.com/B7it08m.jpg){group="melvin-hazen" fig-alt="A portion of the Melvin C. Hazen Trail"}
 
-![](https://i.imgur.com/rjBl7Ft.jpg){group="melvin-hazen"}
+![](https://i.imgur.com/rjBl7Ft.jpg){group="melvin-hazen" fig-alt="A portion of the Melvin C. Hazen Trail"}
 :::
 
 As part of my ongoing city exploration project, I'm gearing up to elevate the challenge by extending the journey to Rock Creek Park. Fortunately, the Melvin C. Hazen Trail conveniently provides access to the Rock Creek Trail, opening up exciting possibilities for future adventures. I invite you to stay tuned for further updates as I continue to uncover the hidden gems within our urban landscapes.
