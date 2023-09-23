@@ -61,21 +61,21 @@ body {
 ::: column-page
 <h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Recent Posts</h2>
 
-### Blog posts on tutorials, tips, and gadget recommendations {style="text-align:center;"}
+### Posts on Guides, Real-life Experiences, and Gear Recommendations {style="text-align:center;"}
 
 ::: {#recentPosts}
 :::
 
 ----
 
-### Blog posts on camping destinations {style="text-align:center;"}
+### Information on Camping Destinations {style="text-align:center;"}
 
 ::: {#campingDestination}
 :::
 
 ----
 
-### Blog posts on outdoorsy things-to-do {style="text-align:center;"}
+### Posts on Outdoorsy Things-to-Do {style="text-align:center;"}
 
 ::: {#thingsToDo}
 :::
@@ -83,15 +83,18 @@ body {
 
 <h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Get Involved</h2>
 
-#### Ask questions or participate in discussions {style="text-align: center;"}
+#### Ask Questions, Participate in Discussions, or Pin our Content {style="text-align: center;"}
 
-[![](images/reddit.svg){fig-alt="Reddit logo hyperlinked to Outdoorsy Indians subreddit" fig-align="center" width="100"}](https://www.reddit.com/r/OutdoorsyIndians/)
+[{{< fa brands reddit size=3x >}}](https://www.reddit.com/r/OutdoorsyIndians/){target="_blank"} &nbsp;
+[{{< fa brands threads size=3x >}}](https://www.threads.net/@outdoorsyindians/){target="_blank"} &nbsp;
+[{{< fa brands pinterest size=3x >}}](https://www.pinterest.com/outdoorsyindians/){target="_blank"} &nbsp;
 
-#### Do you like to write? Let's get in touch {style="text-align: center;"}
 
-[**E-mail: outdoorsyindians\@gmail.com**](mailto:outdoorsyindians@gmail.com)
+#### Contribute a Blog Post, Instagram Feed, or a YouTube Video and be Part of the Community {style="text-align: center;"}
 
-<h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Follow</h2>
+[**Contact e-mail: outdoorsyindians\@gmail.com**](mailto:outdoorsyindians@gmail.com)
+
+<h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Gallery</h2>
 
 ```{=html}
 <script type="text/javascript" src="https://www.juicer.io/embed/outdoorsyindians/embed-code.js?per=9" async defer></script>

@@ -25,18 +25,30 @@ website:
           - things-to-do.qmd
       - icon: instagram
         href: https://www.instagram.com/outdoorsyindians/
+        target: _blank
+      - text: "{{< fa brands threads >}}"
+        href: https://www.threads.net/@outdoorsyindians/
+        target: _blank
+      - icon: youtube
+        href: https://www.youtube.com/@OutdoorsyIndians
+        target: _blank
       - icon: pinterest
         href: https://www.pinterest.com/outdoorsyindians/
+        target: _blank
       - icon: reddit
         href: https://www.reddit.com/r/OutdoorsyIndians/
+        target: _blank
       - icon: rss
         menu: 
           - text: "General Articles"
             href: posts.xml
+            target: _blank
           - text: "Camping Destinations"
             href: camping.xml
+            target: _blank
           - text: "Things To Do"
             href: things-to-do.xml
+            target: _blank
   page-footer: 
     center: "<b>Contact us: outdoorsyindians@gmail.com</b> <br> <b><a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>Copyright CC BY-NC-SA 4.0</a></b>"
     left: ""
@@ -60,6 +72,7 @@ format:
     include-in-header: 
       - text: |
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2310816379007310" crossorigin="anonymous"></script>
+    link-external-newwindow: true
 editor: source
 
 

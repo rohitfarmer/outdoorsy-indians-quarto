@@ -46,6 +46,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -180,17 +182,26 @@ cookieconsent.run({
     </ul>
   </li>
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.instagram.com/outdoorsyindians/" rel="" target=""><i class="bi bi-instagram" role="img">
+    <a class="nav-link" href="https://www.instagram.com/outdoorsyindians/" rel="" target="_blank"><i class="bi bi-instagram" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.threads.net/@outdoorsyindians/" rel="" target="_blank">
+ <span class="menu-text"><i class="fa-brands fa-threads" aria-label="threads"></i></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.youtube.com/@OutdoorsyIndians" rel="" target="_blank"><i class="bi bi-youtube" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.pinterest.com/outdoorsyindians/" rel="" target=""><i class="bi bi-pinterest" role="img">
+    <a class="nav-link" href="https://www.pinterest.com/outdoorsyindians/" rel="" target="_blank"><i class="bi bi-pinterest" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.reddit.com/r/OutdoorsyIndians/" rel="" target=""><i class="bi bi-reddit" role="img">
+    <a class="nav-link" href="https://www.reddit.com/r/OutdoorsyIndians/" rel="" target="_blank"><i class="bi bi-reddit" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
@@ -202,15 +213,15 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-bi-rss">    
         <li>
-    <a class="dropdown-item" href="./posts.xml" rel="" target="">
+    <a class="dropdown-item" href="./posts.xml" rel="" target="_blank">
  <span class="dropdown-text">General Articles</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./camping.xml" rel="" target="">
+    <a class="dropdown-item" href="./camping.xml" rel="" target="_blank">
  <span class="dropdown-text">Camping Destinations</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./things-to-do.xml" rel="" target="">
+    <a class="dropdown-item" href="./things-to-do.xml" rel="" target="_blank">
  <span class="dropdown-text">Things To Do</span></a>
   </li>  
     </ul>
@@ -691,6 +702,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("https:\/\/outdoorsyindians\.com");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
