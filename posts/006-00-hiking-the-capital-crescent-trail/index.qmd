@@ -7,12 +7,12 @@ categories: [Hiking, Capital Crescent Trail, Real-life Experiences, Inspirationa
 author: 
   - name: "Swati Gaikwad"
 date: "2023-09-12"
-image: https://i.imgur.com/239HeOr.jpeg
+image: https://f005.backblazeb2.com/file/outdoorsy-indians/posts/capital-crescent-trail.jpeg
 format:
   html:
     include-after-body: ../../comments.html
 ---
-![Capital Crescent Trail](https://i.imgur.com/239HeOr.jpeg){fig-alt="A portion of the Capital Crescent Trail along the water body" .preview-image}
+![Capital Crescent Trail](https://f005.backblazeb2.com/file/outdoorsy-indians/posts/capital-crescent-trail.jpeg){fig-alt="A portion of the Capital Crescent Trail along the water body" .preview-image}
 
 In the midst of the bustling urban life, I often seek solace and refuge in the serene embrace of nature during my hikes. Today, I'd like to share my recent adventure on the Capital Crescent Trail, a picturesque walking path that gracefully spans between two vibrant cities: Bethesda, Maryland, and Georgetown, Washington, D.C. This captivating trail extends over 7.0 miles, offering a point-to-point journey.
 

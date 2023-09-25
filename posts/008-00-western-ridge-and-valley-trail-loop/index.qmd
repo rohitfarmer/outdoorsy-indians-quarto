@@ -7,13 +7,13 @@ categories: [Hiking, Rock Creek Park, Real-life Experiences, Inspirational Stori
 author: 
   - name: "Swati Gaikwad"
 date: "2023-09-19"
-image: https://i.imgur.com/jkrwVTK.jpeg
+image: https://f005.backblazeb2.com/file/outdoorsy-indians/posts/western-ridge-and-valley-trail.jpeg
 format:
   html:
     include-after-body: ../../comments.html
 ---
 
-![Western Ridge and Valley Trail Loop of Rock Creek Park](https://i.imgur.com/jkrwVTK.jpeg){group="western-ridge" fig-alt="Old stone bridge on western ridge trail." .preview-image}
+![Western Ridge and Valley Trail Loop of Rock Creek Park](https://f005.backblazeb2.com/file/outdoorsy-indians/posts/western-ridge-and-valley-trail.jpeg){group="western-ridge" fig-alt="Old stone bridge on western ridge trail." .preview-image}
 
 
 Hiking, for me, offers a harmonious escape from the demands of daily life. One balmy morning in June, we set forth on the Western Ridge and Valley Trail Loop in the tranquil embrace of Rock Creek Park, Maryland. This scenic trail encompasses a 3.8-mile loop.

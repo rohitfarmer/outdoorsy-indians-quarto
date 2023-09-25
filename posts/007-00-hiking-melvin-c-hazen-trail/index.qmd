@@ -7,12 +7,12 @@ categories: [Hiking, Melvin C. Hazen Trail, Real-life Experiences, Inspirational
 author: 
   - name: "Swati Gaikwad"
 date: "2023-09-13"
-image: https://i.imgur.com/Ki2Pv7r.jpg
+image: https://f005.backblazeb2.com/file/outdoorsy-indians/posts/melvin-c-hazen-trail.jpg
 format:
   html:
     include-after-body: ../../comments.html
 ---
-![The Melvin C. Hazen Trail](https://i.imgur.com/Ki2Pv7r.jpg){group="melvin-hazen" fig-alt="A portion of the Melvin C. Hazen Trail" .preview-image}
+![The Melvin C. Hazen Trail](https://f005.backblazeb2.com/file/outdoorsy-indians/posts/melvin-c-hazen-trail.jpg){group="melvin-hazen" fig-alt="A portion of the Melvin C. Hazen Trail" .preview-image}
 
 This year, I set my sights on exploring the trails nestled in the heart of the bustling cities within the District of Columbia, Maryland, and Virginia (DMV area). A dear friend encouraged me to document these urban adventures through blogging, with the goal of offering fellow enthusiasts a glimpse into these distinctive hikes and trails.
 
