@@ -1,0 +1,51 @@
+---
+title: "Outdoorsy Indians Network"
+pagetitle: "Outdoorsy Indians - Network"
+description: "Join our tribe and become an Outdoorsy Indians Network affiliate."
+keywords: Indian outdoor enthusiasts, Indian community for outdoor activities, Network of outdoorsy people
+page-layout: full
+title-block-banner: true
+freeze: true
+eval: true
+---
+
+Are you passionate about the **Great Outdoors** and eager to share your experiences with a like-minded community? If so, we **invite you to join the Outdoorsy Indians network** - a tribe dedicated to adventure and exploring the beauty of nature in and outside India. Whether you're an avid outdoors[wo]man, a weekend family camper, or someone who loves a stroll in the woods, your voice matters to us. By contributing blog posts, Instagram photos/reels, and YouTube videos/shorts, you get to share your unique perspectives and help others discover new destinations and activities. Become a part of our growing community, and let's inspire each other to venture out and embrace the wilderness!
+
+:::callout-note
+By contributing content to OutdoorsyIndians.com, you acknowledge and agree that your contributions will be published and distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). This license allows others to remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under identical terms. Your submission of content to this platform signifies your explicit agreement to these licensing terms, allowing the content to be freely shared and used by others, within the parameters of the CC BY-NC-SA 4.0 license.
+:::
+
+Below is the list of our fantastic network affiliates. Follow them and be part of their incredible journey in the outdoors.  
+
+```{r }
+#| echo: false
+suppressMessages(library(tidyverse))
+suppressMessages(library(readxl))
+suppressMessages(library(kableExtra))
+library(DT)
+
+#dat <- readxl::read_excel(file.path("network","network.xlsx"))
+dat <- readxl::read_excel(file.path("network.xlsx"))
+
+dat_out <- tibble()
+for(i in 1:nrow(dat)){
+    df_temp <- tibble("Name" = paste0("**",dat[[i, "Name"]],"**"), "Contributions" = dat[[i, "Contributions"]], "Type" = dat[[i, "Type"]])
+    follow_str <- ""
+    if(!is.na(dat[[i, "Website"]])){
+        #follow_str <- paste0(follow_str, "<a href='",dat[[i, "Website"]],"'>", "{{< fa solid globe >}}","</a>")
+        follow_str <- paste0(follow_str,  " [{{< fa solid globe >}}](",dat[[i, "Website"]],")")
+    } 
+    if(!is.na(dat[[i, "Instagram"]])){
+        follow_str <- paste0(follow_str,  " [{{< fa brands instagram >}}](",dat[[i, "Instagram"]],")")
+    }
+    df_temp <- bind_cols(df_temp, "Follow" = follow_str)
+    dat_out <- bind_rows(dat_out, df_temp) #%>%
+        #dplyr::mutate(Follow = cell_spec(Follow, "HTML"))
+}
+dat_out %>% dplyr::arrange(desc(Contributions)) %>%
+  #kbl(format = "html", align="c", escape = FALSE) %>%
+  kbl(format = "markdown")   
+  #kable_paper("hover", full_width = F)
+  #row_spec(0,bold=TRUE, font_size = "larger") %>%
+  #column_spec(1, bold = TRUE)
+```

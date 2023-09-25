@@ -1,0 +1,84 @@
+---
+title: "Privacy Policy for OutdoorsyIndians.com"
+pagetitle: "Outdoorsy Indians - Privacy Policy"
+date: "2023-09-25"
+page-layout: full
+title-block-banner: true
+---
+
+## **Introduction**
+
+Welcome to OutdoorsyIndians.com. This website aims to promote outdoor activities to people of Indian origin, whether residing in India or abroad. Your privacy is important to us. We have prepared this Privacy Policy to explain how we collect, use, protect, and disclose information and data when you use the OutdoorsyIndians.com website ("Service").
+
+This Policy applies to all visitors, users, and others who access the Service ("Users").
+
+
+## **Information We Collect**
+
+
+### **Non-Personal Data**
+
+For the purpose of monitoring and improving our Service, we may use Google Analytics to collect statistical data about our users' browsing actions and patterns. This may include information like the type of browser you are using, the type of operating system, and the domain name of your Internet service provider.
+
+We also use Cloudflare as our Content Delivery Network (CDN), Juicer.io to embed Instagram feeds, and Disqus.com as our commenting system. These services may also collect non-personal data for optimization and performance purposes.
+
+This data does not identify any individual but is aggregated to provide statistical feedback and is aimed at improving the user experience of our website.
+
+
+## **Use of Information**
+
+
+### **Google Analytics, Cloudflare, Juicer.io, and Disqus.com**
+
+The information collected through Google Analytics, Cloudflare, Juicer.io, and Disqus.com is used to analyze user behavior to improve our Service. This data is only processed in a way which does not identify anyone. We do not make, and do not allow any of these third-party services to make, any attempt to find out the identities of those visiting our website.
+
+
+## **Data Sharing and Transfer**
+
+
+### **Third-Party Service Providers**
+
+We use Google Analytics, Cloudflare, Juicer.io, and Disqus.com as third-party services to collect and analyze data from the Service. These services may use cookies or other tracking technologies.
+
+
+
+* For more information about how Google uses data, please visit [ "How Google uses data when you use our partners' sites or apps"](https://www.google.com/policies/privacy/partners/).
+* For more information on Cloudflare's privacy practices, please visit [ Cloudflare's Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+* For information about Juicer.io's privacy practices, please visit [ Juicer.io's Privacy Policy](https://www.juicer.io/privacy).
+* For information about Disqus.com's privacy practices, please visit [ Disqus's Privacy Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy).
+
+
+### **Data Transfer**
+
+Your information may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.
+
+
+## **Data Security**
+
+The security of your information is important to us. While we strive to use commercially acceptable means to protect your data, we cannot guarantee its absolute security.
+
+
+## **Children's Privacy**
+
+Our Service is not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13. If we discover that a child under 13 has provided us with personal information, we will promptly delete such information from our systems.
+
+
+## **Changes to This Privacy Policy**
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+
+## **Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+
+
+* **Email:** [contact@outdoorsyindians.com](mailto:contact@outdoorsyindians.com)
+
+By using the Service, you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Service.
+
+
+---
+
+This Privacy Policy is effective as of the date mentioned above. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide by and be bound by the modified Privacy Policy.
