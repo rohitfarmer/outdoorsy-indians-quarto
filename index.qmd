@@ -85,6 +85,7 @@ body {
 
 #### Ask Questions, Participate in Discussions, or Pin our Content {style="text-align: center;"}
 
+
 [{{< fa brands reddit size=3x >}}](https://www.reddit.com/r/OutdoorsyIndians/){target="_blank"} &nbsp;
 [{{< fa brands threads size=3x >}}](https://www.threads.net/@outdoorsyindians/){target="_blank"} &nbsp;
 [{{< fa brands pinterest size=3x >}}](https://www.pinterest.com/outdoorsyindians/){target="_blank"} &nbsp;
@@ -92,7 +93,8 @@ body {
 
 #### Contribute a Blog Post, Instagram Feed, or a YouTube Video and be Part of the Community {style="text-align: center;"}
 
-[**Contact e-mail: outdoorsyindians\@gmail.com**](mailto:outdoorsyindians@gmail.com)
+
+**[Check out our Network Page for more Information](/network/index.qmd)**
 
 <h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Gallery</h2>
 
