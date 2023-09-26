@@ -40,6 +40,12 @@ for(i in 1:nrow(dat)){
     if(!is.na(dat[[i, "Instagram"]])){
         follow_str <- paste0(follow_str,  " [{{< fa brands instagram >}}](",dat[[i, "Instagram"]],")")
     }
+    if(!is.na(dat[[i, "Facebook"]])){
+        follow_str <- paste0(follow_str,  " [{{< fa brands facebook >}}](",dat[[i, "Facebook"]],")")
+    }
+    if(!is.na(dat[[i, "YouTube"]])){
+        follow_str <- paste0(follow_str,  " [{{< fa brands youtube >}}](",dat[[i, "YouTube"]],")")
+    }
     df_temp <- bind_cols(df_temp, "Follow" = follow_str)
     dat_out <- bind_rows(dat_out, df_temp) #%>%
         #dplyr::mutate(Follow = cell_spec(Follow, "HTML"))
