@@ -10,7 +10,7 @@ eval: false
 
 <p>
 
-<img src="images/web-logo-no-bg.png" alt="The logo of outdoorsy Indians website." align="right" width="240" style="padding: 10px 10px 10px 10px;"/>
+<img src="images/outdoorsy-indians-logo.webp" alt="The logo of outdoorsy Indians website." align="right" width="240" style="padding: 10px 10px 10px 10px;"/>
 
 Are you ready to embrace the thrill of the great outdoors?
 At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures, regardless of where you are in the world.

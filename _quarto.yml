@@ -6,7 +6,7 @@ project:
     - "ads.txt"
 
 website:
-  favicon: images/web-logo-no-bg.png
+  favicon: images/favicon.ico
   title: "Outdoorsy Indians | Outdoor Guides, Destinations & Things to Do"
   site-url: https://outdoorsyindians.com
   description: "At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures in or outside India."
