@@ -11,13 +11,14 @@ eval: true
 
 Are you passionate about the **Great Outdoors** and eager to share your experiences with a like-minded community? If so, we **invite you to join the Outdoorsy Indians network** - a tribe dedicated to adventure and exploring the beauty of nature in and outside India. Whether you're an avid outdoors[wo]man, a weekend family camper, or someone who loves a stroll in the woods, your voice matters to us. By contributing blog posts, Instagram photos/reels, and YouTube videos/shorts, you get to share your unique perspectives and help others discover new destinations and activities. Become a part of our growing community, and let's inspire each other to venture out and embrace the wilderness!
 
-E-mail us: [contact@outdoorsyindians.com](mailto:contact@outdoorsyindians.com)
+For inquiries please email us at: [contact@outdoorsyindians.com](mailto:contact@outdoorsyindians.com)
 
-:::callout-note
-By contributing content to OutdoorsyIndians.com, you acknowledge and agree that your contributions will be published and distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). This license allows others to remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under identical terms. Your submission of content to this platform signifies your explicit agreement to these licensing terms, allowing the content to be freely shared and used by others, within the parameters of the CC BY-NC-SA 4.0 license.
-:::
+## Submission Forms
+* **To submit content for Instagram please use this [submission form](https://forms.gle/dt7zyVDhXYtpSKVw5){target="_balnk"} (Google account required)**
+* **To submit a guest article please use this [submission form](https://forms.gle/2ACvwajffsXQBVQT6){target="_blank"} (Google account required)**
 
-Below is the list of our fantastic network affiliates. Follow them and be part of their incredible journey in the outdoors.  
+## List of our Fantastic Network Affiliates 
+Follow them and be part of their incredible journey in the outdoors.  
 
 ```{r }
 #| echo: false
@@ -50,7 +51,8 @@ for(i in 1:nrow(dat)){
     dat_out <- bind_rows(dat_out, df_temp) #%>%
         #dplyr::mutate(Follow = cell_spec(Follow, "HTML"))
 }
-dat_out %>% dplyr::arrange(Name) %>%
+dat_out %>% dplyr::arrange(Name) %>% 
+  bind_cols("No." = 1: nrow(dat_out), .) %>%
   #kbl(format = "html", align="c", escape = FALSE) %>%
   kbl(format = "markdown")   
   #kable_paper("hover", full_width = F)
