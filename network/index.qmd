@@ -50,7 +50,7 @@ for(i in 1:nrow(dat)){
     dat_out <- bind_rows(dat_out, df_temp) #%>%
         #dplyr::mutate(Follow = cell_spec(Follow, "HTML"))
 }
-dat_out %>% dplyr::arrange(desc(Contributions)) %>%
+dat_out %>% dplyr::arrange(Name) %>%
   #kbl(format = "html", align="c", escape = FALSE) %>%
   kbl(format = "markdown")   
   #kable_paper("hover", full_width = F)
