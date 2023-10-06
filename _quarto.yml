@@ -88,6 +88,12 @@ format:
     theme: 
       light: lumen
     link-external-newwindow: true
+    include-in-header: 
+      - text: |
+          <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=651f6abdc9bda500128cb0eb&product=sticky-share-buttons&source=platform" async="async"></script>
+    include-after-body: 
+      - text: |
+          <div class="sharethis-sticky-share-buttons"></div>
 editor: source
 
 
