@@ -27,6 +27,9 @@ lightbox: auto
 
 ```
 
+** Featured image size: 1200px X 628px **  
+** In post image size: 600 - 800px in width **
+
 ## Camping Destination Template
 
 ```{yaml}
