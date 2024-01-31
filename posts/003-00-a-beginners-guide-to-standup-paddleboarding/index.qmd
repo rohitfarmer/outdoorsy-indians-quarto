@@ -2,7 +2,7 @@
 title: "A Beginner's Guide to Standup Paddleboarding (SUP)"
 pagetitle: "{{< meta title >}}"
 description: "An easy-to-follow step-by-step guide on how to pick up standup paddleboarding as a hobby, find classes, and tips on buying a paddleboard."
-keywords: Standup Paddleboarding for Beginners, Types of Standup Paddleboards, Water Activities
+#keywords: Standup Paddleboarding for Beginners, Types of Standup Paddleboards, Water Activities
 categories: [SUP, Paddling, Water Sports, Water Activities, Beginner]
 author: 
   - name: "Rohit Farmer"

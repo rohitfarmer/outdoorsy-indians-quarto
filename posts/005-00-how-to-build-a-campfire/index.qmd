@@ -2,7 +2,7 @@
 title: "How to Build a Campfire"
 pagetitle: "{{< meta title >}}"
 description: "A step-by-step guide on how to build, maintain, and put out a campfire, along with safety tips."
-keywords: Build a Campfire, Tinder, Kindling, Firewood 
+#keywords: Build a Campfire, Tinder, Kindling, Firewood 
 categories: [Camping, Campfire, How To]
 author: 
   - name: "Rohit Farmer"

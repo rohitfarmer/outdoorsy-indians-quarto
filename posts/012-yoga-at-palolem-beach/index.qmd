@@ -2,7 +2,7 @@
 title: "Rejuvenating Mornings: Yoga at Palolem Beach, Goa in November"
 pagetitle: "{{< meta title >}}"
 description: "An easy-to-follow guide to yoga on the beach."
-keywords: Yoga on the Beach, Palolem Beach Goa
+#keywords: Yoga on the Beach, Palolem Beach Goa
 categories: [Yoga, Yoga on the Beach, Goa]
 author: 
   - name: "Shalabh Srivastava"

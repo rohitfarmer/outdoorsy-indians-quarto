@@ -2,7 +2,7 @@
 title: "City Serenity: The Melvin C. Hazen Trail Experience"
 pagetitle: "{{< meta title >}}"
 description: "A real-life experience of hiking the Melvin C. Hazen Trail."
-keywords: Hiking Melvin C. Hazen Trail, Real-life Outdoor Experiences, Outdoorsy Inspirational Stories
+#keywords: Hiking Melvin C. Hazen Trail, Real-life Outdoor Experiences, Outdoorsy Inspirational Stories
 categories: [Hiking, Melvin C. Hazen Trail, Real-life Experiences, Inspirational Stories]
 author: 
   - name: "Swati Gaikwad"

@@ -2,7 +2,7 @@
 title: "Camping 101: The Ultimate Guide to Camping for Beginners"
 pagetitle: "{{< meta title >}}"
 description: "An easy-to-follow guide to types of camping with details on the beginner’s friendly car tent camping."
-keywords: Camping Equipment, How to Start Camping, Types of Camping
+#keywords: Camping Equipment, How to Start Camping, Types of Camping
 categories: [Camping, Types of Camping,  Car Tent Camping, Beginner]
 author: 
   - name: "Rohit Farmer"

@@ -2,7 +2,7 @@
 title: "Outdoorsy Indians Network"
 pagetitle: "Outdoorsy Indians - Network"
 description: "Join our tribe and become an Outdoorsy Indians Network affiliate."
-keywords: Indian outdoor enthusiasts, Indian community for outdoor activities, Network of outdoorsy people
+#keywords: Indian outdoor enthusiasts, Indian community for outdoor activities, Network of outdoorsy people
 page-layout: full
 title-block-banner: true
 freeze: true

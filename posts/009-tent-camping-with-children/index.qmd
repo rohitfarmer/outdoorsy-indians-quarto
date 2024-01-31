@@ -2,7 +2,7 @@
 title: "How to Tent Camp with Little Children"
 pagetitle: "{{< meta title >}}"
 description: "An easy-to-follow and comprehensive guide on how to successfully tent camp with little children on a managed campground."
-keywords: Camping with Children
+#keywords: Camping with Children
 categories: [Camping, Children, How To]
 author: 
   - name: "Sibyl Farmer"

@@ -2,7 +2,7 @@
 title: "15 Fun Camping Activities for Kids"
 pagetitle: "{{< meta title >}}"
 description: "Camping with kids can be a fantastic way to bond as a family and create lasting memories. Here are 15 activities to do with kids on a camping trip."
-keywords: Camping with Kids
+#keywords: Camping with Kids
 categories: [Camping, Camping with Kids]
 author: 
   - name: "Sibyl Farmer"

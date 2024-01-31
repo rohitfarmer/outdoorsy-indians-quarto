@@ -2,7 +2,7 @@
 title: About
 pagetitle: "Outdoorsy Indians - About"
 description: "Join us and be a part of a community that celebrates the spirit of adventure and the beauty of nature."
-keywords: Indian outdoor enthusiasts, Indian community for outdoor activities, Indians abroad, outdoor activities, well-being, things to do outdoors, gear recommendations
+#keywords: Indian outdoor enthusiasts, Indian community for outdoor activities, Indians abroad, outdoor activities, well-being, things to do outdoors, gear recommendations
 page-layout: full
 title-block-banner: true
 eval: false

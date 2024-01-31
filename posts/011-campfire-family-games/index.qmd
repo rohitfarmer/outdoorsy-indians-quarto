@@ -2,7 +2,7 @@
 title: "10 Campfire Games for the Whole Family"
 pagetitle: "{{< meta title >}}"
 description: "By incorporating campfire games into your camping trip, you ensure entertainment and create opportunities for learning and a deeper connection with the natural environment."
-keywords: Campfire Games, Camping with Family
+#keywords: Campfire Games, Camping with Family
 categories: [Camping, Campfire Games]
 author: 
   - name: "Sibyl Farmer"

@@ -2,7 +2,7 @@
 title: "How To Kayak: The Ultimate Beginner's Guide"
 pagetitle: "{{< meta title >}}"
 description: "An ultimate beginner's guide on how to pick up kayaking as a hobby, find classes, and tips on buying a kayak."
-keywords: Kayaking for Beginners, Recreational Kayaking, Kayaking Gear, Water Activities
+#keywords: Kayaking for Beginners, Recreational Kayaking, Kayaking Gear, Water Activities
 categories: [Kayaking, Paddling, Water Sports, Water Activities, Beginner]
 author: 
   - name: "Rohit Farmer"

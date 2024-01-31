@@ -2,7 +2,6 @@
 title: Camping Destinations
 pagetitle: "Outdoorsy Indians - Camping Destinations"
 description: "Our blog posts contain comprehensive information on popular camping desitnations."
-keywords: camping destinations, campgrounds, campsites
 listing:
   contents: camping
   sort: "date desc"

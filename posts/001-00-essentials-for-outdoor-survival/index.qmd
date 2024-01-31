@@ -2,7 +2,7 @@
 title: "Essentials for Outdoor Survival"
 pagetitle: "{{< meta title >}}"
 description: "Yet another guide to tools and skills required for outdoor survival"
-keywords: Survival Gear List, Outdoor Survival Skills, The 5 Cs of Survival
+#keywords: Survival Gear List, Outdoor Survival Skills, The 5 Cs of Survival
 categories: [Survival, First Aid, Cutting, Combustion, Cover, Container, Cordage, Communication, Navigation, Insect Repellent]
 author: 
   - name: "Rohit Farmer"
