@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -226,12 +226,10 @@ window.Quarto = {
 <meta property="og:image:height" content="192">
 <meta property="og:image:width" content="192">
 <meta name="twitter:title" content="Outdoorsy Indians | Outdoor Guides, Destinations &amp; Things to Do">
-<meta name="twitter:description" content="At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures in or outside India.">
 <meta name="twitter:image" content="https://outdoorsyindians.com/images/web-logo-no-bg.png">
 <meta name="twitter:image-height" content="192">
 <meta name="twitter:image-width" content="192">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="canonical" href="https://outdoorsyindians.com/index.html" />
 </head>
 
 <body class="nav-fixed">
@@ -255,22 +253,22 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.instagram.com/outdoorsyindians/" target="_blank"> <i class="bi bi-instagram" role="img">
+    <a class="nav-link" href="https://www.instagram.com/outdoorsyindians/"> <i class="bi bi-instagram" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.youtube.com/@OutdoorsyIndians" target="_blank"> <i class="bi bi-youtube" role="img">
+    <a class="nav-link" href="https://www.youtube.com/@OutdoorsyIndians"> <i class="bi bi-youtube" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.pinterest.com/outdoorsyindians/" target="_blank"> <i class="bi bi-pinterest" role="img">
+    <a class="nav-link" href="https://www.pinterest.com/outdoorsyindians/"> <i class="bi bi-pinterest" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.reddit.com/r/OutdoorsyIndians/" target="_blank"> <i class="bi bi-reddit" role="img">
+    <a class="nav-link" href="https://www.reddit.com/r/OutdoorsyIndians/"> <i class="bi bi-reddit" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -345,9 +343,12 @@ window.Quarto = {
 <div class="column-screen">
 <style>
 body {
+  height: 100%;
   margin: 0;
   padding: 0;
   background: linear-gradient(to bottom, #8FCDFE, #FDB813); /* Replace with your desired colors */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 </style>
 
@@ -897,9 +898,7 @@ Sep 12, 2023
 No matching items
 </div>
 </div>
-<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored" data-anchor-id="posts-on-outdoorsy-things-to-do">
-Get Involved
-</h2>
+<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored" data-anchor-id="posts-on-outdoorsy-things-to-do">Get Involved</h2>
 <section id="ask-questions-participate-in-discussions-or-pin-our-content" class="level4" style="text-align: center;">
 <h4 style="text-align: center;" class="anchored" data-anchor-id="ask-questions-participate-in-discussions-or-pin-our-content">Ask Questions, Participate in Discussions, or Pin our Content</h4>
 <p><a href="https://www.reddit.com/r/OutdoorsyIndians/" target="_blank"><i class="fa-brands fa-reddit fa-3x" aria-label="reddit"></i></a> &nbsp; <a href="https://www.threads.net/@outdoorsyindians/" target="_blank"><i class="fa-brands fa-threads fa-3x" aria-label="threads"></i></a> &nbsp; <a href="https://www.pinterest.com/outdoorsyindians/" target="_blank"><i class="fa-brands fa-pinterest fa-3x" aria-label="pinterest"></i></a> &nbsp;</p>
@@ -907,18 +906,12 @@ Get Involved
 <section id="contribute-a-blog-post-instagram-feed-or-a-youtube-video-and-be-part-of-the-community" class="level4" style="text-align: center;">
 <h4 style="text-align: center;" class="anchored">Contribute a Blog Post, Instagram Feed, or a YouTube Video and be Part of the Community</h4>
 <p><strong><a href="./network/index.html">Check out our Network Page for more Information</a></strong></p>
-<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored" data-anchor-id="contribute-a-blog-post-instagram-feed-or-a-youtube-video-and-be-part-of-the-community">
-Gallery
-</h2>
+<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored" data-anchor-id="contribute-a-blog-post-instagram-feed-or-a-youtube-video-and-be-part-of-the-community">Gallery</h2>
 <script type="text/javascript" src="https://www.juicer.io/embed/outdoorsyindians/embed-code.js?per=9" async="" defer=""></script>
 </section>
 </section>
 </div>
 
-<div class="hidden" data-render-id="footer-center">
-<p><b><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Copyright CC BY-NC-SA 4.0</a></b></p>
-</div>
-<p>:::</p>
 
 
 
@@ -1013,11 +1006,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {
             link.setAttribute("rel", "noopener");
           }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -1054,7 +1054,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -1332,21 +1336,26 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item">
- Contact us at contact@outdoorsyindians.com <br>
-<a href="./about/index.html">About</a> <br>
-<a href="./network/index.html">Network</a> <br>
-<a href="./privacy/index.html">Privacy Policy</a>
-  </li>  
-</ul>
-    </div>   
+<p>Follow us at:<br>
+<a href="https://www.instagram.com/outdoorsyindians/">Instagram</a><br>
+<a href="https://www.reddit.com/r/OutdoorsyIndians/">Reddit</a><br>
+<a href="https://www.pinterest.com/outdoorsyindians/">Pinterest</a><br>
+<a href="https://www.youtube.com/@OutdoorsyIndians">YouTube</a></p>
+</div>   
     <div class="nav-footer-center">
-      <div class="footer-contents"><b><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Copyright CC BY-NC-SA 4.0</a></b></div>  
-    <div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+<p xmlns:cc="http://creativecommons.org/ns#">
+This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a>
+</p>
+<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p>Contact us at contact@outdoorsyindians.com<br>
+<a href="./about/index.html">About</a><br>
+<a href="./network/index.html">Network</a><br>
+<a href="./posts.html">General Articles</a><br>
+<a href="./camping.html">Camping Destinations</a><br>
+<a href="./things-to-do.html">Things To Do</a><br>
+<a href="./privacy/index.html">Privacy Policy</a></p>
+</div>
   </div>
 </footer>
 <div class="sharethis-sticky-share-buttons"></div>

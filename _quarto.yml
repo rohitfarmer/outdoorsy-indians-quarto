@@ -1,7 +1,5 @@
 project:
   type: website
-  post-render:
-    - "python3 add-canonicals.py"
   resources:
     - "ads.txt"
 
@@ -13,14 +11,15 @@ website:
   back-to-top-navigation: true
   navbar:
     background: primary
+    foreground: light
     title: "Outdoorsy Indians"
     logo: images/web-logo-no-bg.png
     logo-alt: "Outdoorsy Indians website logo."
     right:
       - text: "About"
-        href: about/index.qmd
+        file: about/index.qmd
       - text: "Network"
-        href: network/index.qmd
+        file: network/index.qmd
       - text: "Posts"
         menu:
           - posts.qmd
@@ -29,37 +28,43 @@ website:
       - icon: rss
         menu: 
           - text: "General Articles"
-            href: posts.xml
+            file: posts.xml
             target: _blank
           - text: "Camping Destinations"
-            href: camping.xml
+            file: camping.xml
             target: _blank
           - text: "Things To Do"
-            href: things-to-do.xml
+            file: things-to-do.xml
             target: _blank
     left: 
       - icon: instagram
         href: https://www.instagram.com/outdoorsyindians/
-        target: _blank
       - icon: youtube
         href: https://www.youtube.com/@OutdoorsyIndians
-        target: _blank
       - icon: pinterest
         href: https://www.pinterest.com/outdoorsyindians/
-        target: _blank
       - icon: reddit
         href: https://www.reddit.com/r/OutdoorsyIndians/
-        target: _blank
   page-footer: 
-    center: "<b><a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>Copyright CC BY-NC-SA 4.0</a></b>"
-    left:
-      - text: |
-           Contact us at contact@outdoorsyindians.com <br>
-           <a href="/about/index.html">About</a> <br>
-           <a href="/network/index.html">Network</a> <br>
-           <a href="/privacy/index.html">Privacy Policy</a>
+    center: |
+      <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>  
+    left: |
+      Follow us at:  
+      [Instagram](https://www.instagram.com/outdoorsyindians/)  
+      [Reddit](https://www.reddit.com/r/OutdoorsyIndians/)  
+      [Pinterest](https://www.pinterest.com/outdoorsyindians/)  
+      [YouTube](https://www.youtube.com/@OutdoorsyIndians)  
+    right: |
+      Contact us at contact@outdoorsyindians.com   
+      [About](/about/index.qmd)  
+      [Network](/network/index.qmd)  
+      [General Articles](/posts.qmd)  
+      [Camping Destinations](/camping.qmd)  
+      [Things To Do](/things-to-do.qmd)  
+      [Privacy Policy](/privacy/index.qmd)  
     border: true
-    background: dark
+    background: primary
+    foreground: light
   cookie-consent:
     type: implied 
     style: simple
@@ -73,7 +78,8 @@ website:
 format:
   html:
     theme: 
-      light: lumen
+      light: flatly
+    link-external-icon: true
     link-external-newwindow: true
     include-in-header: 
       - text: |

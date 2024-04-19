@@ -36,16 +36,20 @@ listing:
     contents:
       - things-to-do
     fields: [title, description, date, author, reading-time, image]
-eval: false
+eval: true
+echo: false
 ---
 
 ::: column-screen
 ```{=html}
 <style>
 body {
+  height: 100%;
   margin: 0;
   padding: 0;
   background: linear-gradient(to bottom, #8FCDFE, #FDB813); /* Replace with your desired colors */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 </style>
 
@@ -81,7 +85,9 @@ body {
 :::
 
 
+```{=html}
 <h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Get Involved</h2>
+```
 
 #### Ask Questions, Participate in Discussions, or Pin our Content {style="text-align: center;"}
 
@@ -96,7 +102,9 @@ body {
 
 **[Check out our Network Page for more Information](/network/index.qmd)**
 
+```{=html}
 <h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Gallery</h2>
+```
 
 ```{=html}
 <script type="text/javascript" src="https://www.juicer.io/embed/outdoorsyindians/embed-code.js?per=9" async defer></script>
