@@ -1,0 +1,68 @@
+---
+title: "Exploring the World of Geocaching: A Modern Treasure Hunt for All Ages"
+pagetitle: "{{< meta title >}}"
+description: "An overview of Geocaching, an outdoor recreational activity similar to treasure hunting."
+#keywords: Yoga on the Beach, Palolem Beach Goa
+categories: [Geocaching, Treasure Hunting, Kids Activity]
+author: 
+  - name: "Rohit Farmer"
+date: "2024-04-25"
+image: https://f005.backblazeb2.com/file/outdoorsy-indians/posts/geocaching/20240310-rohit-elsa-geocaching.webp
+format:
+  html:
+    include-after-body: ../../../comments.html
+---
+
+![My daughter and I on our first Geocaching adventure.](https://f005.backblazeb2.com/file/outdoorsy-indians/posts/geocaching/20240310-rohit-elsa-geocaching.webp){fig-alt="Chair Compass Pose" .preview-image}
+
+Recently, I was introduced to Geocaching, an outdoor recreational activity akin to treasure hunting that encourages participants to explore their surroundings in search of hidden containers, known as geocaches or caches. This engaging pastime appeals to people of all ages who are looking for adventure, an opportunity to explore new places, or simply a fun activity to do with family and friends.
+
+
+## History of Geocaching
+
+The game of geocaching started shortly after the removal of selective availability from the Global Positioning System (GPS) in May 2000, which significantly increased the accuracy of civilian GPS. The first documented cache placement took place on May 3, 2000, by Dave Ulmer, a computer consultant who wanted to test the accuracy by hiding a navigational target in the woods. He placed a container in Oregon filled with various items such as books, software, and a slingshot and then posted the coordinates online. This idea quickly caught on and has evolved into a global phenomenon with millions of geocaches hidden around the world.
+
+
+## How It Works
+
+To participate in geocaching, individuals use a GPS device, usually a smartphone app, to locate geocaches. These are typically waterproof containers containing a logbook where finders record their names and the date they found it. Larger containers may also contain items (informally called swags) for trading, such as toys, trinkets, or books. The basic rules for geocaching are simple: if you take something from the cache, you should leave something of equal or greater value; write about your find in the cache logbook; since you are mostly likely using a mobile app to locate the caches, make an entry in the online activity section, and most importantly leave a TFTC (Thank you For The Cache) message for the person who hid the cache.
+
+
+## Types of Geocaches
+
+There are several types of geocaches, with varying levels of difficulty:
+
+
+
+* Traditional Cache:  This is the most straightforward type, involving a container and a logbook located at the coordinates given.
+* Multi-Cache:  Involves two or more locations, with the final location being a physical container with a logbook inside.
+* Mystery or Puzzle Caches: These require solvers first to solve a puzzle to determine the correct coordinates.
+* Event Cache: Gatherings of geocachers, often to clean up a park or learn about a topic related to geocaching.
+* EarthCache: A special geological location where participants learn about a unique geoscience feature.
+
+
+## Benefits of Geocaching
+
+Geocaching has numerous benefits, making it more than just a simple game:
+
+
+
+* Educational Value: Many caches are at locations of historical or educational significance, offering a learning experience in areas such as geography, environment, and history.
+* Physical Activity: Searching for caches often involves hiking, biking, or other forms of physical exercise.
+* Community and Socializing: Events and gatherings foster a community spirit among participants, providing opportunities to meet new people.
+* Environmental Awareness: Some geocachers take part in "CITO" (Cache In, Trash Out) events, helping to clean up the areas surrounding the caches.
+
+
+## Getting Started with Geocaching
+
+To start geocaching, one needs a GPS device or a smartphone with a geocaching app installed (Android, iOS). Participants can create a free account on websites like [Geocaching.com](https://www.geocaching.com/play), the largest and most popular geocaching platform, to access the coordinates of geocaches. They can then choose a cache to search for based on location, difficulty, terrain, and type and use their GPS device to help find it. I usually use my Android app to locate all the caches near my current location and since, at the time of writing this post, I only had a free license. I select the caches that are freely available and read their description to find out their difficulty level, size, and also things like if there is a parking nearby, or if it is in the woods, then how far I will have to walk from the parking, etc. This information is beneficial when you are heading out with kids. There is only so much I can walk with a toddler from the parking lot before they give in. I also look at the activity log to see the latest date on which a particular cache was found. To make sure that it's not missing and what is the current condition. Usually, people do not reveal the exact spot, but they do give hints that may be helpful in locating it, especially in tricky areas.
+
+
+### You can also Hide your Cache
+
+While the majority of people participate in finding the caches, you can also hide and maintain your caches for others to find. After all, someone else volunteered to hide and maintain the cache that you have just found. I have not done that yet, but it's on my radar, and I am scouting areas and collecting swag from my kid's discarded toy stash. To hide a cache, you can again go to the same Geocaching.com and create a submission, which goes through an approval process before it appears online. Here is an excellent video that explains how to create a submission.
+
+
+## Conclusion
+
+So far, my experience with geocaching in Maryland, USA, has been fantastic. I have found two caches with my daughter, and it was fun for both of us. The first one was a small plastic bottle that was half buried in the ground in the woods of a local park (photo above). The second was a wooden box inserted in the stump of the [LittleFreeLibrary](https://littlefreelibrary.org/) post (my daughter’s [YouTube video](https://youtu.be/zPOwYu3MhLE?feature=shared) about it). I also tried another one with my family, but we had to hike a bit in the woods, and before we could reach it, our three-year-old got tired and compelled us to return halfway. For the same reason I have not tried more challenging ones yet since that may require me going by myself to either spend more time in locating the cache or hike a bit to a more tricky area. However, with my limited experience with geocaching, it's a fun outdoor activity to do with kids and by yourself as well.
