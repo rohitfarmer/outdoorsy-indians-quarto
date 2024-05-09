@@ -2,7 +2,7 @@
 title: "Assateague State Park Campground, MD, USA"
 pagetitle: "{{< meta title >}}"
 description: "Detailed information on camping at the Assateague State Park, Maryland, USA."
-categories: [(USA) Maryland]
+categories: (USA) Maryland
 date: "2023-09-10"
 image: https://storage.googleapis.com/outdoorsy-indians-images/camping/wild-horses-assateague-island.jpg
 format:
