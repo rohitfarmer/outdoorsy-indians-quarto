@@ -36,8 +36,7 @@ Contact: 410-287-5333</p>
 <p>Camper Registration Office<br>
 95 Campground Rd, North East, MD 21901</p>
 <p><strong>Website:</strong> <a href="https://dnr.maryland.gov/publiclands/Pages/central/elkneck.aspx">Elk Neck State Park Official Website</a>.</p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5445.500808594442!2d-75.98222436576154!3d39.48095845299916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c7bd0070271edf%3A0xa025444dd88d90cb!2sCamper%20Registration!5e0!3m2!1sen!2sus!4v1715264346496!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5445.500808594442!2d-75.98222436576154!3d39.48095845299916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c7bd0070271edf%3A0xa025444dd88d90cb!2sCamper%20Registration!5e0!3m2!1sen!2sus!4v1715264346496!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 <section id="types-of-campsites-and-amenities" class="level2">
 <h2 class="anchored" data-anchor-id="types-of-campsites-and-amenities">Types of Campsites and Amenities</h2>
@@ -109,8 +108,7 @@ Disclaimer
 <p>Deep Creek State Park spans over 1,800 acres and is located along the shores of Deep Creek Lake. The park is renowned for its breathtaking views, dense forests, and the shimmering waters of the lake. It’s a haven for both relaxation and recreation, making it a popular choice for campers throughout the year.</p>
 <p><strong>Address:</strong> 898 State Park Road, Swanton, MD 21561</p>
 <p><strong>Website:</strong> <a href="http://dnr.maryland.gov/publiclands/Pages/western/deepcreek.aspx">Deep Creek State Park Official Website</a></p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3078.1112755718555!2d-79.30071722403343!3d39.51197817159941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89caab539d3ce1df%3A0xfe9f1aa9b991ad6f!2s898%20State%20Park%20Rd%2C%20Swanton%2C%20MD%2021561!5e0!3m2!1sen!2sus!4v1695149121894!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3078.1112755718555!2d-79.30071722403343!3d39.51197817159941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89caab539d3ce1df%3A0xfe9f1aa9b991ad6f!2s898%20State%20Park%20Rd%2C%20Swanton%2C%20MD%2021561!5e0!3m2!1sen!2sus!4v1695149121894!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <section id="things-to-do" class="level2">
 <h2 class="anchored" data-anchor-id="things-to-do">Things to Do</h2>
 <ol type="1">
@@ -229,8 +227,7 @@ Disclaimer
 </li>
 <li><strong>Website:</strong> <a href="https://dnr.maryland.gov/publiclands/Pages/western/cunningham.aspx">Cunningham Falls State Park Official Site</a></li>
 </ul>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3073.191147168118!2d-77.46466312402808!3d39.62289977157821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9c756d86bf04f%3A0x4a1fd19304826c3d!2s14039%20Catoctin%20Hollow%20Rd%2C%20Thurmont%2C%20MD%2021788!5e0!3m2!1sen!2sus!4v1695149059888!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3073.191147168118!2d-77.46466312402808!3d39.62289977157821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9c756d86bf04f%3A0x4a1fd19304826c3d!2s14039%20Catoctin%20Hollow%20Rd%2C%20Thurmont%2C%20MD%2021788!5e0!3m2!1sen!2sus!4v1695149059888!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 <section id="things-to-do" class="level2">
 <h2 class="anchored" data-anchor-id="things-to-do">Things to Do</h2>
@@ -303,7 +300,7 @@ Disclaimer
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>USA, Maryland</category>
+  <category>(USA) Maryland</category>
   <guid>https://outdoorsyindians.com/camping/usa/maryland/cunningham-falls-state-park/</guid>
   <pubDate>Mon, 18 Sep 2023 04:00:00 GMT</pubDate>
   <media:content url="https://beentheredonethatwithkids.com/wp-content/uploads/2020/07/Cunningham-Falls-3-2048x1536.jpg" medium="image" type="image/jpeg"/>
@@ -318,7 +315,7 @@ Disclaimer
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Big Run State Park Photo Courtesy of Taylor-Made Deep Creek Vacations &amp; Sales"><img src="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="preview-image img-fluid figure-img" alt="lake view wtih kayaks at the shore"></a></p>
+<p><a href="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Big Run State Park Photo Courtesy of Taylor-Made Deep Creek Vacations &amp; Sales"><img src="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="preview-image img-fluid figure-img" alt="lake view wtih kayaks at the shore"></a></p>
 <figcaption>Big Run State Park Photo Courtesy of Taylor-Made Deep Creek Vacations &amp; Sales</figcaption>
 </figure>
 </div>
@@ -331,8 +328,7 @@ Disclaimer
 </li>
 <li><strong>Website:</strong> <a href="https://dnr.maryland.gov/publiclands/Pages/western/BigRun/Camping.aspx">Maryland Department of Natural Resources - Big Run State Park</a></li>
 </ul>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3076.670855560701!2d-79.14133022403186!3d39.54447857159314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89caa699b10dad69%3A0xe30313f8268452b5!2s10368%20Savage%20River%20Rd%2C%20Swanton%2C%20MD%2021561!5e0!3m2!1sen!2sus!4v1695148965080!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3076.670855560701!2d-79.14133022403186!3d39.54447857159314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89caa699b10dad69%3A0xe30313f8268452b5!2s10368%20Savage%20River%20Rd%2C%20Swanton%2C%20MD%2021561!5e0!3m2!1sen!2sus!4v1695148965080!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 <section id="things-to-do" class="level2">
 <h2 class="anchored" data-anchor-id="things-to-do">Things to Do</h2>
@@ -408,7 +404,7 @@ Disclaimer
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>USA, Maryland</category>
+  <category>(USA) Maryland</category>
   <guid>https://outdoorsyindians.com/camping/usa/maryland/big-run-state-park/</guid>
   <pubDate>Mon, 18 Sep 2023 04:00:00 GMT</pubDate>
   <media:content url="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" medium="image" type="image/jpeg"/>
@@ -431,8 +427,7 @@ Disclaimer
 <p>Assateague State Park is Maryland’s only oceanfront park, stretching over two miles of picturesque beachfront. But what truly sets this park apart is its famous wild residents: the Assateague wild horses. These beautiful creatures can often be spotted wandering the shores and marshes, presenting a unique spectacle for visitors.</p>
 <p><strong>Address:</strong> 7307 Stephen Decatur Hwy, Berlin, MD 21811, USA</p>
 <p><strong>Website:</strong> <a href="https://dnr.maryland.gov/publiclands/Pages/eastern/assateague.aspx">Assateague State Park’s official site</a></p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3133.1576105346007!2d-75.16397612484178!3d38.25265047186887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b92583f66fb6b5%3A0x72adfe8928d04344!2s7307%20Stephen%20Decatur%20Hwy%2C%20Berlin%2C%20MD%2021811!5e0!3m2!1sen!2sus!4v1694388214140!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3133.1576105346007!2d-75.16397612484178!3d38.25265047186887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b92583f66fb6b5%3A0x72adfe8928d04344!2s7307%20Stephen%20Decatur%20Hwy%2C%20Berlin%2C%20MD%2021811!5e0!3m2!1sen!2sus!4v1694388214140!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <section id="things-to-do" class="level2">
 <h2 class="anchored" data-anchor-id="things-to-do">Things to Do</h2>
 <ol type="1">
@@ -496,7 +491,7 @@ Disclaimer
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>USA, Maryland</category>
+  <category>(USA) Maryland</category>
   <guid>https://outdoorsyindians.com/camping/usa/maryland/assateague-state-park/</guid>
   <pubDate>Sun, 10 Sep 2023 04:00:00 GMT</pubDate>
   <media:content url="https://storage.googleapis.com/outdoorsy-indians-images/camping/wild-horses-assateague-island.jpg" medium="image" type="image/jpeg"/>
@@ -519,8 +514,7 @@ Disclaimer
 <p>Cedarville State Forest Campground is a reflection of Maryland’s natural beauty with dense woodlands, fragrant flora, and teeming wildlife. Tucked away from the hustle and bustle of city life, this sanctuary provides a serene backdrop for families, solo adventurers, and couples.</p>
 <p><strong>Address</strong> : 10201 Bee Oak Road, Brandywine, MD 20613</p>
 <p><strong>Website</strong> : <a href="https://dnr.maryland.gov/publiclands/Pages/southern/Cedarville/Camping.aspx">Cedarville State Forest - Department of Natural Resources</a></p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3116.0952749229946!2d-76.83255022481893!3d38.646689571778566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7a1fcc93bb1a7%3A0x8f898a45e70db8ea!2s10201%20Bee%20Oak%20Rd%2C%20Brandywine%2C%20MD%2020613!5e0!3m2!1sen!2sus!4v1694387226273!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3116.0952749229946!2d-76.83255022481893!3d38.646689571778566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7a1fcc93bb1a7%3A0x8f898a45e70db8ea!2s10201%20Bee%20Oak%20Rd%2C%20Brandywine%2C%20MD%2020613!5e0!3m2!1sen!2sus!4v1694387226273!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <section id="things-to-do" class="level2">
 <h2 class="anchored" data-anchor-id="things-to-do">Things to Do</h2>
 <ol type="1">
@@ -584,7 +578,7 @@ Disclaimer
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>USA, Maryland</category>
+  <category>(USA) Maryland</category>
   <guid>https://outdoorsyindians.com/camping/usa/maryland/cedarville-state-forest/</guid>
   <pubDate>Sat, 09 Sep 2023 04:00:00 GMT</pubDate>
   <media:content url="https://www.roverpass.com/system/pictures/images/000/035/900/full/ML16.png" medium="image" type="image/png"/>
@@ -607,8 +601,7 @@ Disclaimer
 <p>Located on over 3,000 acres, Rocky Gap State Park is an epitome of tranquility, with the 243-acre Lake Habeeb at its heart. The captivating “blue waters” of the lake, contrasted against the thickly forested mountainside, are a sight to behold and offer a serene backdrop for an adventurous camping trip.</p>
 <p><strong>Address:</strong> 17600 Campers Hill Drive, Flintstone MD 21530, Ph. No.&nbsp;443-603-6324</p>
 <p><strong>Website:</strong> <a href="https://dnr.maryland.gov/publiclands/pages/western/rockygap.aspx">Official Maryland Department of Natural Resources Page for Rocky Gap State Park</a></p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3068.9799691271523!2d-78.64467522402346!3d39.71763287156056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ca60310295cc77%3A0x58d0a77aab302d3!2s17600%20Campers%20Hill%20Dr%2C%20Flintstone%2C%20MD%2021530!5e0!3m2!1sen!2sus!4v1694386775827!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3068.9799691271523!2d-78.64467522402346!3d39.71763287156056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ca60310295cc77%3A0x58d0a77aab302d3!2s17600%20Campers%20Hill%20Dr%2C%20Flintstone%2C%20MD%2021530!5e0!3m2!1sen!2sus!4v1694386775827!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <section id="things-to-do" class="level2">
 <h2 class="anchored" data-anchor-id="things-to-do">Things to Do</h2>
 <ol type="1">
@@ -672,7 +665,7 @@ Disclaimer
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>USA, Maryland</category>
+  <category>(USA) Maryland</category>
   <guid>https://outdoorsyindians.com/camping/usa/maryland/rocky-gap-state-park/</guid>
   <pubDate>Fri, 08 Sep 2023 04:00:00 GMT</pubDate>
   <media:content url="https://marylandroadtrips.com/wp-content/uploads/2021/06/MRT-Lake-Habeeb.jpg" medium="image" type="image/jpeg"/>

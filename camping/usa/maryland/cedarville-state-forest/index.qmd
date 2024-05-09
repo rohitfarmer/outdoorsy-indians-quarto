@@ -2,8 +2,7 @@
 title: "Cedarville State Forest Campground, MD, USA"
 pagetitle: "{{< meta title >}}"
 description: "Detailed information on camping at Cedarville State Forest, Maryland, USA."
-keywords: Car Camping, Camping at a State Park, Family Camping Campground
-categories: USA, Maryland
+categories: [(USA) Maryland]
 date: "2023-09-09"
 image: https://www.roverpass.com/system/pictures/images/000/035/900/full/ML16.png
 format:
@@ -23,9 +22,9 @@ Tucked away from the hustle and bustle of city life, this sanctuary provides a s
 
 **Website** : [Cedarville State Forest - Department of Natural Resources](https://dnr.maryland.gov/publiclands/Pages/southern/Cedarville/Camping.aspx)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3116.0952749229946!2d-76.83255022481893!3d38.646689571778566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7a1fcc93bb1a7%3A0x8f898a45e70db8ea!2s10201%20Bee%20Oak%20Rd%2C%20Brandywine%2C%20MD%2020613!5e0!3m2!1sen!2sus!4v1694387226273!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-
-</iframe>
+```{=html}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3116.0952749229946!2d-76.83255022481893!3d38.646689571778566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7a1fcc93bb1a7%3A0x8f898a45e70db8ea!2s10201%20Bee%20Oak%20Rd%2C%20Brandywine%2C%20MD%2020613!5e0!3m2!1sen!2sus!4v1694387226273!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```
 
 ## Things to Do
 

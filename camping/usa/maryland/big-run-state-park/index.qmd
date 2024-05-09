@@ -2,8 +2,7 @@
 title: "Big Run State Park Campground, MD, USA"
 pagetitle: "{{< meta title >}}"
 description: "Detailed information on camping at Big Run State Park, Maryland, USA."
-keywords: Car Camping, Camping at a State Park, Family Camping Campground
-categories: USA, Maryland
+categories: [(USA) Maryland]
 date: "2023-09-18"
 image: https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg
 format:
@@ -21,8 +20,9 @@ Big Run State Park spans over 300 acres and is located at the southeastern base 
 - **Address:**  10368 Savage River Rd, Swanton, MD 21561, USA   
 - **Website:**  [Maryland Department of Natural Resources - Big Run State Park](https://dnr.maryland.gov/publiclands/Pages/western/BigRun/Camping.aspx)  
 
-
+```{=html}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3076.670855560701!2d-79.14133022403186!3d39.54447857159314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89caa699b10dad69%3A0xe30313f8268452b5!2s10368%20Savage%20River%20Rd%2C%20Swanton%2C%20MD%2021561!5e0!3m2!1sen!2sus!4v1695148965080!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```
 
 ## Things to Do
 
