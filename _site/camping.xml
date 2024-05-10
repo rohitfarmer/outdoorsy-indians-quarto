@@ -29,7 +29,8 @@
 <section id="campground-overview" class="level2">
 <h2 class="anchored" data-anchor-id="campground-overview">Campground Overview</h2>
 <p>Elk Neck State Park Campground is renowned for its well-maintained sites and stunning views. It features over 250 campsites suitable for tents, trailers, and RVs, each offering a unique way to enjoy the park’s natural beauty.</p>
-<p><strong>Address:</strong> Elk Neck State Park<br>
+<p><strong>Address:</strong></p>
+<p>Elk Neck State Park<br>
 4395 Turkey Point Rd<br>
 North East, MD 21901<br>
 Contact: 410-287-5333</p>
@@ -40,12 +41,29 @@ Contact: 410-287-5333</p>
 </section>
 <section id="types-of-campsites-and-amenities" class="level2">
 <h2 class="anchored" data-anchor-id="types-of-campsites-and-amenities">Types of Campsites and Amenities</h2>
-<p>The campground offers several types of sites: - <strong>Basic sites:</strong> Ideal for tents, these sites include a fire ring and picnic table. - <strong>Electric sites:</strong> These provide electrical hookups, catering to RVs and trailers. - <strong>Full-service sites:</strong> Equipped with electricity, water, and sewer hookups, these sites offer the utmost convenience.</p>
-<p>Amenities at the campground ensure a comfortable stay. These include: - Modern restrooms and hot showers - Dump stations for RVs - Camp store providing essentials and souvenirs - Playgrounds and picnic areas</p>
+<p>The campground offers several types of sites:</p>
+<ul>
+<li><strong>Basic sites:</strong> Ideal for tents, these sites include a fire ring and picnic table.</li>
+<li><strong>Electric sites:</strong> These provide electrical hookups, catering to RVs and trailers.</li>
+<li><strong>Full-service sites:</strong> Equipped with electricity, water, and sewer hookups, these sites offer the utmost convenience.</li>
+</ul>
+<p>Amenities at the campground ensure a comfortable stay. These include:</p>
+<ul>
+<li>Modern restrooms and hot showers</li>
+<li>Dump stations for RVs</li>
+<li>Camp store providing essentials and souvenirs</li>
+<li>Playgrounds and picnic areas</li>
+</ul>
 </section>
 <section id="things-to-do" class="level2">
 <h2 class="anchored" data-anchor-id="things-to-do">Things to Do</h2>
-<p>Elk Neck State Park is a hub for outdoor activities. Here are some must-try adventures: - <strong>Hiking:</strong> Explore over 12 miles of trails. The trail to Turkey Point Lighthouse is a favorite, offering panoramic views of the Chesapeake Bay. - <strong>Boating and Fishing:</strong> Launch a boat from the park’s ramp or fish from the shore for bass, perch, and catfish. - <strong>Swimming:</strong> The park has a sandy beach on the Chesapeake Bay, perfect for swimming and sunbathing. - <strong>Wildlife Viewing:</strong> The park is a great spot for bird watching, with opportunities to see bald eagiles and ospreys.</p>
+<p>Elk Neck State Park is a hub for outdoor activities. Here are some must-try adventures:</p>
+<ul>
+<li><strong>Hiking:</strong> Explore over 12 miles of trails. The trail to Turkey Point Lighthouse is a favorite, offering panoramic views of the Chesapeake Bay.</li>
+<li><strong>Boating and Fishing:</strong> Launch a boat from the park’s ramp or fish from the shore for bass, perch, and catfish.</li>
+<li><strong>Swimming:</strong> The park has a sandy beach on the Chesapeake Bay, perfect for swimming and sunbathing.</li>
+<li><strong>Wildlife Viewing:</strong> The park is a great spot for bird watching, with opportunities to see bald eagiles and ospreys.</li>
+</ul>
 </section>
 <section id="best-time-of-the-year-to-visit" class="level2">
 <h2 class="anchored" data-anchor-id="best-time-of-the-year-to-visit">Best Time of the Year to Visit</h2>
@@ -315,7 +333,7 @@ Disclaimer
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Big Run State Park Photo Courtesy of Taylor-Made Deep Creek Vacations &amp; Sales"><img src="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="preview-image img-fluid figure-img" alt="lake view wtih kayaks at the shore"></a></p>
+<p><a href="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Big Run State Park Photo Courtesy of Taylor-Made Deep Creek Vacations &amp; Sales"><img src="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="preview-image img-fluid figure-img" alt="lake view wtih kayaks at the shore"></a></p>
 <figcaption>Big Run State Park Photo Courtesy of Taylor-Made Deep Creek Vacations &amp; Sales</figcaption>
 </figure>
 </div>

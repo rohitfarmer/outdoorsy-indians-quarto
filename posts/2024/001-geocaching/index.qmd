@@ -2,15 +2,12 @@
 title: "Exploring the World of Geocaching: A Modern Treasure Hunt for All Ages"
 pagetitle: "{{< meta title >}}"
 description: "An overview of Geocaching, an outdoor recreational activity similar to treasure hunting."
-#keywords: Yoga on the Beach, Palolem Beach Goa
 categories: [Geocaching, Treasure Hunting, Kids Activity]
 author: 
   - name: "Rohit Farmer"
 date: "2024-04-25"
+date-modified: last-modified
 image: https://f005.backblazeb2.com/file/outdoorsy-indians/posts/geocaching/20240310-rohit-elsa-geocaching.webp
-format:
-  html:
-    include-after-body: ../../../comments.html
 ---
 
 ![My daughter and I on our first Geocaching adventure.](https://f005.backblazeb2.com/file/outdoorsy-indians/posts/geocaching/20240310-rohit-elsa-geocaching.webp){fig-alt="Chair Compass Pose" .preview-image}

@@ -63,7 +63,9 @@ body {
 :::
 
 ::: column-page
+```{=html}
 <h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Recent Posts</h2>
+```
 
 ### Posts on Guides, Real-life Experiences, and Gear Recommendations {style="text-align:center;"}
 
