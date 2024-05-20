@@ -3,14 +3,18 @@ title: Camping Destinations
 pagetitle: "Outdoorsy Indians - Camping Destinations"
 description: "Our blog posts contain comprehensive information on popular camping desitnations."
 listing:
-  contents: camping
-  sort: "date desc"
-  categories: true
-  sort-ui: true
-  filter-ui: true
-  feed: 
-    title: "Outdoorsy Indians - Camping Destinations"
-  fields: [title, description, date, author, reading-time, image]
+  - id: campingMain
+    contents: camping
+    sort: "date desc"
+    categories: true
+    sort-ui: true
+    filter-ui: true
+    feed: 
+      title: "Outdoorsy Indians - Camping Destinations"
+    fields: [title, description, date, author, reading-time, image]
 page-layout: full
 title-block-banner: true
 ---
+
+::: {#campingMain}
+:::
