@@ -1,7 +1,9 @@
 project:
   type: website
+  output-dir: docs
   resources:
     - "ads.txt"
+    - .nojekyll
 
 website:
   favicon: images/favicon.ico
@@ -77,8 +79,8 @@ website:
  
 format:
   html:
-    theme: 
-      light: flatly
+    theme: materia
+    fontsize: 1.2em
     link-external-icon: true
     link-external-newwindow: true
     include-in-header: 
