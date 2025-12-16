@@ -16,4 +16,4 @@ format:
   html:
     code-fold: false
     code-tools: false
-    include-after-body: ../comments.html
+    include-after-body: ../assets/comments.html

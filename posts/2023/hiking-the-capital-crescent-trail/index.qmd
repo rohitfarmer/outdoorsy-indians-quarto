@@ -1,0 +1,29 @@
+---
+title: "Hiking the Capital Crescent Trail: Urban Nature Retreat"
+description: "A real-life experience of hiking the Capital Crescent Trail."
+categories: [Hiking]
+author: 
+  - name: "Swati Gaikwad"
+date: "2023-09-12"
+---
+![Capital Crescent Trail](https://f005.backblazeb2.com/file/outdoorsy-indians/posts/capital-crescent-trail.jpeg){fig-alt="A portion of the Capital Crescent Trail along the water body" .preview-image}
+
+In the midst of the bustling urban life, I often seek solace and refuge in the serene embrace of nature during my hikes. Today, I'd like to share my recent adventure on the Capital Crescent Trail, a picturesque walking path that gracefully spans between two vibrant cities: Bethesda, Maryland, and Georgetown, Washington, D.C. This captivating trail extends over 7.0 miles, offering a point-to-point journey.
+
+Our chosen route led us from Bethesda to Georgetown, presenting a delightful downhill course. The trail itself boasts a level terrain, cherished by runners, hikers, and cycling enthusiasts alike. While the initial 2.5 miles can be bustling on weekends, teeming with bikers and walkers, it gradually gives way to a quieter and more secluded path. Along the way, intermittent views of a winding river that flows parallel to the trail unfold.
+
+![](https://i.imgur.com/8xZqmtL.jpeg){fig-alt="Another portion of the Capital Crescent Trail"}
+
+What truly amazed us was the trail's ability to maintain an oasis of tranquility amidst the urban surroundings, effectively drowning out the noise of city traffic. The three-hour trek to complete the trail left us exhausted but deeply fulfilled.
+
+One of the trail's distinct charms lies in the array of restaurants lining its trail heads. These proved to be a welcome sight for us, especially after a hearty meal at the first eatery we encountered.
+
+![](https://i.imgur.com/NPPZLmC.jpeg){fig-alt="An overlook point on the Capital Crescent Trail."}
+
+Accessibility to the trail is a breeze, with convenient public transportation options. Personally, I opted for the metro, traveling to Bethesda and then making my way to the trailhead. On the return journey, I disembarked at Rosslyn station, situated merely a mile from the trail's conclusion.
+
+For those who wish to customize their hiking experience, the trail is ingeniously designed with multiple entry points, offering ample parking facilities. It's an adventure that beckons a return visit—a prospect I eagerly anticipate in the rich tapestry of city life.
+
+**Trail Map**
+
+<iframe src="https://www.google.com/maps/d/embed?mid=16MDKEsZSFnV1fdp3PPyEG7saVgggZkwG&ehbc=2E312F" width="100%" height="480"></iframe>

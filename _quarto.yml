@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
   resources:
-    - "ads.txt"
     - .nojekyll
 
 website:
@@ -20,24 +19,13 @@ website:
     right:
       - text: "About"
         file: about/index.qmd
+      - text: "Blog"
+        file: blog.qmd
       - text: "Network"
         file: network/index.qmd
-      - text: "Posts"
-        menu:
-          - posts.qmd
-          - camping.qmd
-          - things-to-do.qmd
       - icon: rss
-        menu: 
-          - text: "General Articles"
-            file: posts.xml
-            target: _blank
-          - text: "Camping Destinations"
-            file: camping.xml
-            target: _blank
-          - text: "Things To Do"
-            file: things-to-do.xml
-            target: _blank
+        file: blog.xml
+        target: _blank
     left: 
       - icon: instagram
         href: https://www.instagram.com/outdoorsyindians/
@@ -59,10 +47,7 @@ website:
     right: |
       Contact us at contact@outdoorsyindians.com   
       [About](/about/index.qmd)  
-      [Network](/network/index.qmd)  
-      [General Articles](/posts.qmd)  
-      [Camping Destinations](/camping.qmd)  
-      [Things To Do](/things-to-do.qmd)  
+      [Network](/network/index.qmd)
       [Privacy Policy](/privacy/index.qmd)  
     border: true
     background: primary

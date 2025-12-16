@@ -85,69 +85,13 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-description','listing-date','listing-author','listing-reading-time','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-description','listing-author','listing-reading-time','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-recentPosts'] = new List('listing-recentPosts', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-campingDestination .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-description','listing-date','listing-author','listing-reading-time','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-campingDestination'] = new List('listing-campingDestination', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-thingsToDo .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-description','listing-date','listing-author','listing-reading-time','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-thingsToDo'] = new List('listing-thingsToDo', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -280,49 +224,18 @@ window.Quarto = {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./blog.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./network/index.html"> 
 <span class="menu-text">Network</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-posts" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Posts</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-posts">    
-        <li>
-    <a class="dropdown-item" href="./posts.html">
- <span class="dropdown-text">General Articles</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./camping.html">
- <span class="dropdown-text">Camping Destinations</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./things-to-do.html">
- <span class="dropdown-text">Things To Do</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-bi-rss" role="link" data-bs-toggle="dropdown" aria-expanded="false">
-      <i class="bi bi-rss" role="img">
+  <li class="nav-item compact">
+    <a class="nav-link" href="./blog.xml" target="_blank"> <i class="bi bi-rss" role="img">
 </i> 
- <span class="menu-text"></span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-bi-rss">    
-        <li>
-    <a class="dropdown-item" href="./posts.xml" target="_blank">
- <span class="dropdown-text">General Articles</span></a>
+<span class="menu-text"></span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./camping.xml" target="_blank">
- <span class="dropdown-text">Camping Destinations</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./things-to-do.xml" target="_blank">
- <span class="dropdown-text">Things To Do</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -367,16 +280,12 @@ window.Quarto = {
 </div>
 <div class="column-page">
 <h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored">Recent Posts</h2>
-<section id="guides-real-life-experiences-and-gear-recommendations" class="level3" style="text-align:center;">
-<h3 style="text-align:center;" class="anchored" data-anchor-id="guides-real-life-experiences-and-gear-recommendations">Guides, Real-life Experiences, and Gear Recommendations</h3>
 <div id="listing-recentPosts" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="R2VvY2FjaGluZyUyQ1RyZWFzdXJlJTIwSHVudGluZyUyQ0tpZHMlMjBBY3Rpdml0eQ==" data-listing-date-sort="1714017600000" data-listing-file-modified-sort="1765829380247" data-listing-date-modified-sort="1765829380000" data-listing-reading-time-sort="5" data-listing-word-count-sort="998">
-<a href="./posts/2024/001-geocaching/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="R2VvY2FjaGluZw==" data-listing-date-sort="1714017600000" data-listing-file-modified-sort="1765900528491" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="998">
+<a href="./posts/2024/geocaching/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/geocaching/20240310-rohit-elsa-geocaching.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/geocaching/20240310-rohit-elsa-geocaching.webp" alt="Chair Compass Pose" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Exploring the World of Geocaching: A Modern Treasure Hunt for All Ages
@@ -396,12 +305,10 @@ Apr 25, 2024
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="WW9nYSUyQ1lvZ2ElMjBvbiUyMHRoZSUyMEJlYWNoJTJDR29h" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1765829380247" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="910">
-<a href="./posts/012-yoga-at-palolem-beach/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="WW9nYQ==" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1765900408731" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="910">
+<a href="./posts/2023/yoga-at-palolem-beach/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/yoga-on-the-beach/chair-compass.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/yoga-on-the-beach/chair-compass.webp" alt="Chair Compass Pose" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Rejuvenating Mornings: Yoga at Palolem Beach, Goa in November
@@ -421,12 +328,10 @@ Nov 13, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Q2FtcGluZyUyQ0NhbXBmaXJlJTIwR2FtZXM=" data-listing-date-sort="1696564800000" data-listing-file-modified-sort="1765829380247" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1069">
-<a href="./posts/011-campfire-family-games/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-categories="Q2FtcGluZw==" data-listing-date-sort="1696564800000" data-listing-file-modified-sort="1765900455822" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1069">
+<a href="./posts/2023/campfire-family-games/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/campfire-family.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/campfire-family.webp" alt="A group of people near campfire near trees during nighttime" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 10 Campfire Games for the Whole Family
@@ -446,12 +351,10 @@ Oct 6, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="Q2FtcGluZyUyQ0NhbXBpbmclMjB3aXRoJTIwS2lkcw==" data-listing-date-sort="1696392000000" data-listing-file-modified-sort="1765829380246" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="894">
-<a href="./posts/010-camping-activities-kids/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-categories="Q2FtcGluZw==" data-listing-date-sort="1696392000000" data-listing-file-modified-sort="1765900451581" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="894">
+<a href="./posts/2023/camping-activities-kids/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/children-muddy-boots.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/children-muddy-boots.jpg" alt="Torso and below photo of four children with their muddy boots on" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 15 Fun Camping Activities for Kids
@@ -471,12 +374,10 @@ Oct 4, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="Q2FtcGluZyUyQ0NoaWxkcmVuJTJDSG93JTIwVG8=" data-listing-date-sort="1695441600000" data-listing-file-modified-sort="1765829380246" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1536">
-<a href="./posts/009-tent-camping-with-children/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-categories="Q2FtcGluZw==" data-listing-date-sort="1695441600000" data-listing-file-modified-sort="1765900503744" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1536">
+<a href="./posts/2023/tent-camping-with-children/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/children-hammock.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/children-hammock.jpg" alt="Two Indian kids swinging in a blue hammock while camping." style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 How to Tent Camp with Little Children
@@ -496,12 +397,10 @@ Sep 23, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="SGlraW5nJTJDUm9jayUyMENyZWVrJTIwUGFyayUyQ1JlYWwtbGlmZSUyMEV4cGVyaWVuY2VzJTJDSW5zcGlyYXRpb25hbCUyMFN0b3JpZXM=" data-listing-date-sort="1695096000000" data-listing-file-modified-sort="1765829380246" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="395">
-<a href="./posts/008-00-western-ridge-and-valley-trail-loop/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-categories="SGlraW5n" data-listing-date-sort="1695096000000" data-listing-file-modified-sort="1765900511602" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="395">
+<a href="./posts/2023/western-ridge-and-valley-trail-loop/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/western-ridge-and-valley-trail.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/western-ridge-and-valley-trail.jpeg" alt="Old stone bridge on western ridge trail." style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Navigating the Western Ridge and Valley Trail Loop of Rock Creek Park: A Hiker’s Perspective
@@ -524,335 +423,12 @@ Sep 19, 2023
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<hr>
-</section>
-<section id="camping-destinations" class="level3" style="text-align:center;">
-<h3 style="text-align:center;" class="anchored" data-anchor-id="camping-destinations">Camping Destinations</h3>
-<div id="listing-campingDestination" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="KFVTQSklMjBNYXJ5bGFuZA==" data-listing-date-sort="1715227200000" data-listing-file-modified-sort="1765829380241" data-listing-date-modified-sort="1765829380000" data-listing-reading-time-sort="4" data-listing-word-count-sort="610">
-<a href="./camping/usa/maryland/elk-neck-state-park/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://bloximages.newyork1.vip.townnews.com/bayjournal.com/content/tncms/assets/v3/editorial/0/17/0175c178-c200-11ea-8801-07ea43f906ea/5f0743eb2641d.image.jpg?resize=990%2C556" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Elk Neck State Park Campground, MD, USA
-</h5>
-<div class="listing-reading-time card-text text-muted">4 min</div>
-<div class="card-text listing-description delink">
-<p>Detailed information on camping at Elk Neck State Park, Maryland, USA.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-May 9, 2024
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="KFVTQSklMjBNYXJ5bGFuZA==" data-listing-date-sort="1695096000000" data-listing-file-modified-sort="1765829380240" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="638">
-<a href="./camping/usa/maryland/deep-creek-lake-state-park/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/31/6c/e8/deep-creek-lake-state.jpg?w=2000&amp;h=-1&amp;s=1" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Deep Creek Lake State Park Campground, MD, USA
-</h5>
-<div class="listing-reading-time card-text text-muted">4 min</div>
-<div class="card-text listing-description delink">
-<p>Detailed information on camping at Deep Creek State Park, Maryland, USA.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 19, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="KFVTQSklMjBNYXJ5bGFuZA==" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1765829380239" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="679">
-<a href="./camping/usa/maryland/big-run-state-park/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://deepcreeklakeproperty.sfo2.digitaloceanspaces.com/betsys-blog/wp-content/uploads/2021/04/05181127/big_run.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Big Run State Park Campground, MD, USA
-</h5>
-<div class="listing-reading-time card-text text-muted">4 min</div>
-<div class="card-text listing-description delink">
-<p>Detailed information on camping at Big Run State Park, Maryland, USA.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 18, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="KFVTQSklMjBNYXJ5bGFuZA==" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1765829380240" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="681">
-<a href="./camping/usa/maryland/cunningham-falls-state-park/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://beentheredonethatwithkids.com/wp-content/uploads/2020/07/Cunningham-Falls-3-2048x1536.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Cunningham Falls State Park Campground, MD, USA
-</h5>
-<div class="listing-reading-time card-text text-muted">4 min</div>
-<div class="card-text listing-description delink">
-<p>Detailed information on camping at Cunningham Falls State Park, Maryland, USA.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 18, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="KFVTQSklMjBNYXJ5bGFuZA==" data-listing-date-sort="1694318400000" data-listing-file-modified-sort="1765829380239" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="605">
-<a href="./camping/usa/maryland/assateague-state-park/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://storage.googleapis.com/outdoorsy-indians-images/camping/wild-horses-assateague-island.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Assateague State Park Campground, MD, USA
-</h5>
-<div class="listing-reading-time card-text text-muted">4 min</div>
-<div class="card-text listing-description delink">
-<p>Detailed information on camping at the Assateague State Park, Maryland, USA.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 10, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="KFVTQSklMjBNYXJ5bGFuZA==" data-listing-date-sort="1694232000000" data-listing-file-modified-sort="1765829380240" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="610">
-<a href="./camping/usa/maryland/cedarville-state-forest/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://www.roverpass.com/system/pictures/images/000/035/900/full/ML16.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Cedarville State Forest Campground, MD, USA
-</h5>
-<div class="listing-reading-time card-text text-muted">4 min</div>
-<div class="card-text listing-description delink">
-<p>Detailed information on camping at Cedarville State Forest, Maryland, USA.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 9, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-<hr>
-</section>
-<section id="things-to-do" class="level3" style="text-align:center;">
-<h3 style="text-align:center;" class="anchored">Things-to-Do</h3>
-<div id="listing-thingsToDo" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="VVNB" data-listing-date-sort="1695787200000" data-listing-file-modified-sort="1765829380252" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1181">
-<a href="./things-to-do/usa/maryland-outdoors-fall/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://f005.backblazeb2.com/file/outdoorsy-indians/things-to-do/usa/maryland-fall-colors.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Outdoorsy Things to Do During Fall in Maryland, USA
-</h5>
-<div class="listing-reading-time card-text text-muted">6 min</div>
-<div class="card-text listing-description delink">
-<p>A comprehensive list of outdoor activities during fall in Maryland, USA.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 27, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="SW5kaWE=" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1765829380251" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="557">
-<a href="./things-to-do/india/009-jharkhand/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://f005.backblazeb2.com/file/outdoorsy-indians/things-to-do/waterfalls-ranchi.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Outdoorsy Things to Do in Jharkhand, India
-</h5>
-<div class="listing-reading-time card-text text-muted">3 min</div>
-<div class="card-text listing-description delink">
-<p>A list of outdoor activities to do in Jharkhand, India.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 18, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="SW5kaWE=" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1765829380251" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="599">
-<a href="./things-to-do/india/010-karnataka/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://f005.backblazeb2.com/file/outdoorsy-indians/things-to-do/india/mountain-kudremukh.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Outdoorsy Things to Do in Karnataka, India
-</h5>
-<div class="listing-reading-time card-text text-muted">3 min</div>
-<div class="card-text listing-description delink">
-<p>A list of outdoor activities to do in Karnataka, India.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 18, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="SW5kaWE=" data-listing-date-sort="1694750400000" data-listing-file-modified-sort="1765829380251" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="573">
-<a href="./things-to-do/india/008-himachal-pradesh/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://f005.backblazeb2.com/file/outdoorsy-indians/things-to-do/tents-dharamshala.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Outdoorsy Things to Do in Himachal Pradesh, India
-</h5>
-<div class="listing-reading-time card-text text-muted">3 min</div>
-<div class="card-text listing-description delink">
-<p>A list of outdoor activities to do in Himachal Pradesh, India.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 15, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="SW5kaWE=" data-listing-date-sort="1694664000000" data-listing-file-modified-sort="1765829380250" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="517">
-<a href="./things-to-do/india/008-haryana/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://f005.backblazeb2.com/file/outdoorsy-indians/things-to-do/aravali-hills.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Outdoorsy Things to Do in Haryana, India
-</h5>
-<div class="listing-reading-time card-text text-muted">3 min</div>
-<div class="card-text listing-description delink">
-<p>A list of outdoor activities to do in Haryana, India.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 14, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="SW5kaWE=" data-listing-date-sort="1694491200000" data-listing-file-modified-sort="1765829380249" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="581">
-<a href="./things-to-do/india/004-bihar/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://storage.googleapis.com/outdoorsy-indians-images/things-to-do/ghora-katora-lake.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Outdoorsy Things to Do in Bihar, India
-</h5>
-<div class="listing-reading-time card-text text-muted">3 min</div>
-<div class="card-text listing-description delink">
-<p>A list of outdoor activities to do in Bihar, India.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 12, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored" data-anchor-id="things-to-do">Get Involved</h2>
-<section id="ask-questions-participate-in-discussions-or-pin-our-content" class="level4" style="text-align: center;">
-<h4 style="text-align: center;" class="anchored" data-anchor-id="ask-questions-participate-in-discussions-or-pin-our-content">Ask Questions, Participate in Discussions, or Pin our Content</h4>
+<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored">Get Involved</h2>
+<section id="section" class="level5" style="text-align: center;">
+<h5 style="text-align: center;" class="anchored"></h5>
 <p><a href="https://www.reddit.com/r/OutdoorsyIndians/" target="_blank"><i class="fa-brands fa-reddit fa-3x" aria-label="reddit"></i></a> &nbsp; <a href="https://www.threads.net/@outdoorsyindians/" target="_blank"><i class="fa-brands fa-threads fa-3x" aria-label="threads"></i></a> &nbsp; <a href="https://www.pinterest.com/outdoorsyindians/" target="_blank"><i class="fa-brands fa-pinterest fa-3x" aria-label="pinterest"></i></a> &nbsp;</p>
-</section>
-<section id="contribute-a-blog-post-instagram-feed-or-a-youtube-video-and-be-part-of-the-community" class="level4" style="text-align: center;">
-<h4 style="text-align: center;" class="anchored">Contribute a Blog Post, Instagram Feed, or a YouTube Video and be Part of the Community</h4>
-<p><strong><a href="./network/index.html">Check out our Network Page for more Information</a></strong></p>
-<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored" data-anchor-id="contribute-a-blog-post-instagram-feed-or-a-youtube-video-and-be-part-of-the-community">Gallery</h2>
+<h2 style="text-align:center; font-family:'Special Elite'; font-size:2em;" class="anchored" data-anchor-id="section">Gallery</h2>
 <script type="text/javascript" src="https://www.juicer.io/embed/outdoorsyindians/embed-code.js?per=9" async="" defer=""></script>
-</section>
 </section>
 </div>
 
@@ -1285,11 +861,7 @@ This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0
     <div class="nav-footer-right">
 <p>Contact us at contact@outdoorsyindians.com<br>
 <a href="./about/index.html">About</a><br>
-<a href="./network/index.html">Network</a><br>
-<a href="./posts.html">General Articles</a><br>
-<a href="./camping.html">Camping Destinations</a><br>
-<a href="./things-to-do.html">Things To Do</a><br>
-<a href="./privacy/index.html">Privacy Policy</a></p>
+<a href="./network/index.html">Network</a> <a href="./privacy/index.html">Privacy Policy</a></p>
 </div>
   </div>
 </footer>

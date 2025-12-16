@@ -19,23 +19,12 @@ listing:
     type: grid
     sort: "date desc"
     max-items: 6
-    contents: [posts]
-    fields: [title, description, date, author, reading-time, image]
-  - id: campingDestination
-    type: grid
-    sort: "date desc"
-    max-items: 6
-    contents: [camping]
-    fields: [title, description, date, author, reading-time, image]
-  - id: thingsToDo
-    type: grid
-    sort: "date desc"
-    max-items: 6
-    contents: [things-to-do]
-    fields: [title, description, date, author, reading-time, image]
+    contents: posts
+    table-hover: true
+    table-striped: true
+    categories: false
+    fields: [date, title, description, author, reading-time, image]
 ---
-
-
 
 ```{=html}
 <div class="hero">
@@ -53,23 +42,7 @@ listing:
 <h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Recent Posts</h2>
 ```
 
-### Guides, Real-life Experiences, and Gear Recommendations {style="text-align:center;"}
-
 ::: {#recentPosts}
-:::
-
-----
-
-### Camping Destinations {style="text-align:center;"}
-
-::: {#campingDestination}
-:::
-
-----
-
-### Things-to-Do {style="text-align:center;"}
-
-::: {#thingsToDo}
 :::
 
 
@@ -77,18 +50,13 @@ listing:
 <h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Get Involved</h2>
 ```
 
-#### Ask Questions, Participate in Discussions, or Pin our Content {style="text-align: center;"}
+##### {style="text-align: center;"}
 
 
 [{{< fa brands reddit size=3x >}}](https://www.reddit.com/r/OutdoorsyIndians/){target="_blank"} &nbsp;
 [{{< fa brands threads size=3x >}}](https://www.threads.net/@outdoorsyindians/){target="_blank"} &nbsp;
 [{{< fa brands pinterest size=3x >}}](https://www.pinterest.com/outdoorsyindians/){target="_blank"} &nbsp;
 
-
-#### Contribute a Blog Post, Instagram Feed, or a YouTube Video and be Part of the Community {style="text-align: center;"}
-
-
-**[Check out our Network Page for more Information](/network/index.qmd)**
 
 ```{=html}
 <h2 style="text-align:center; font-family:&#39;Special Elite&#39;; font-size:2em;">Gallery</h2>
