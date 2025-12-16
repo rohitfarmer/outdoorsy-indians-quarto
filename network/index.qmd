@@ -1,11 +1,15 @@
 ---
 title: "Outdoorsy Indians Network"
-pagetitle: "Outdoorsy Indians - Network"
 description: "Join our tribe and become an Outdoorsy Indians Network affiliate."
 page-layout: full
 title-block-banner: true
 freeze: false
 eval: true
+format:
+    html:
+        toc: true
+        css:
+            - /css/page.css
 ---
 
 Are you passionate about the **Great Outdoors** and eager to share your experiences with a like-minded community? If so, we **invite you to join the Outdoorsy Indians network** - a tribe dedicated to adventure and exploring the beauty of nature in and outside India. Whether you're an avid outdoors[wo]man, a weekend family camper, or someone who loves a stroll in the woods, your voice matters to us. By contributing blog posts, Instagram photos/reels, and YouTube videos/shorts, you get to share your unique perspectives and help others discover new destinations and activities. Become a part of our growing community, and let's inspire each other to venture out and embrace the wilderness!

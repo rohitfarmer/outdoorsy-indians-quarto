@@ -11,7 +11,7 @@ website:
   description: "At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures in or outside India."
   back-to-top-navigation: true
   navbar:
-    background: primary
+    background: dark
     foreground: light
     title: "Outdoorsy Indians"
     logo: images/web-logo-no-bg.png
@@ -50,7 +50,7 @@ website:
       [Network](/network/index.qmd)
       [Privacy Policy](/privacy/index.qmd)  
     border: true
-    background: primary
+    background: dark
     foreground: light
   cookie-consent:
     type: implied 
@@ -66,11 +66,14 @@ format:
   html:
     theme: materia
     fontsize: 1.2em
+    css: /css/styles.css
+    backgroundcolor: "#f4f6f8"
     link-external-icon: true
     link-external-newwindow: true
     include-in-header: 
       - text: |
           <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=651f6abdc9bda500128cb0eb&product=sticky-share-buttons&source=platform" async="async"></script>
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Special+Elite">
     include-after-body: 
       - text: |
           <div class="sharethis-sticky-share-buttons"></div>

@@ -1,275 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://outdoorsyindians.com/index.html</loc>
-    <lastmod>2025-12-16T15:56:44.476Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/india/006-goa/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.250Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/india/008-haryana/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.250Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/india/003-assam/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/india/007-gujarat/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.250Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/india/001-andhra-pradesh/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/usa/maryland-outdoors-fall/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.252Z</lastmod>
+    <loc>https://outdoorsyindians.com/blog.html</loc>
+    <lastmod>2025-12-16T20:57:26.990Z</lastmod>
   </url>
   <url>
     <loc>https://outdoorsyindians.com/about/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.238Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do.html</loc>
-    <lastmod>2025-12-15T20:09:40.248Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/camping/usa/maryland/elk-neck-state-park/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.241Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/camping/usa/maryland/assateague-state-park/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.239Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/camping/usa/maryland/deep-creek-lake-state-park/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.240Z</lastmod>
+    <lastmod>2025-12-16T20:58:03.405Z</lastmod>
   </url>
   <url>
     <loc>https://outdoorsyindians.com/privacy/index.html</loc>
     <lastmod>2025-12-15T20:09:40.248Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/posts/007-00-hiking-melvin-c-hazen-trail/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.245Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/012-yoga-at-palolem-beach/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.247Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/003-00-a-beginners-guide-to-standup-paddleboarding/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.244Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/008-00-western-ridge-and-valley-trail-loop/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.246Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/010-camping-activities-kids/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.246Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/011-campfire-family-games/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.247Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/camping.html</loc>
-    <lastmod>2025-12-15T20:09:40.238Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2024/001-geocaching/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.247Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/005-00-how-to-build-a-campfire/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.245Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/004-00-a-beginners-guide-to-camping/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.245Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/001-00-essentials-for-outdoor-survival/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.244Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/002-00-a-beginners-guide-to-kayaking/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.244Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/006-00-hiking-the-capital-crescent-trail/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.245Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/009-tent-camping-with-children/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.246Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/camping/usa/maryland/rocky-gap-state-park/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.241Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/camping/usa/maryland/cedarville-state-forest/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.240Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/camping/usa/maryland/big-run-state-park/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.239Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/camping/usa/maryland/cunningham-falls-state-park/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.240Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/network/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.243Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts.html</loc>
-    <lastmod>2025-12-15T20:09:40.243Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/india/004-bihar/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/india/009-jharkhand/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.251Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/india/002-arunachal-pradesh/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/india/010-karnataka/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.251Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/india/008-himachal-pradesh/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.251Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/things-to-do/india/005-chhattisgarh/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.250Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/blog.html</loc>
-    <lastmod>2025-12-16T15:41:36.681Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2023/how-to-build-a-campfire/index.html</loc>
-    <lastmod>2025-12-16T15:54:58.424Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2023/a-beginners-guide-to-camping/index.html</loc>
-    <lastmod>2025-12-16T15:53:34.391Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2023/a-beginners-guide-to-kayaking/index.html</loc>
-    <lastmod>2025-12-16T15:53:46.302Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2023/hiking-the-capital-crescent-trail/index.html</loc>
-    <lastmod>2025-12-16T15:54:51.038Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2023/western-ridge-and-valley-trail-loop/index.html</loc>
-    <lastmod>2025-12-16T15:55:11.602Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2023/tent-camping-with-children/index.html</loc>
-    <lastmod>2025-12-16T15:55:03.744Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2024/geocaching/index.html</loc>
-    <lastmod>2025-12-16T15:55:28.491Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2023/camping-activities-kids/index.html</loc>
-    <lastmod>2025-12-16T15:54:11.581Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2023/yoga-at-palolem-beach/index.html</loc>
-    <lastmod>2025-12-16T15:53:28.731Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2023/essentials-for-outdoor-survival/index.html</loc>
-    <lastmod>2025-12-16T15:54:37.972Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/posts/2023/hiking-melvin-c-hazen-trail/index.html</loc>
-    <lastmod>2025-12-16T15:54:45.031Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2023/a-beginners-guide-to-standup-paddleboarding/index.html</loc>
+    <lastmod>2025-12-16T15:53:53.789Z</lastmod>
   </url>
   <url>
     <loc>https://outdoorsyindians.com/posts/2023/campfire-family-games/index.html</loc>
     <lastmod>2025-12-16T15:54:15.822Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/posts/2023/a-beginners-guide-to-standup-paddleboarding/index.html</loc>
-    <lastmod>2025-12-16T15:53:53.789Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2023/hiking-melvin-c-hazen-trail/index.html</loc>
+    <lastmod>2025-12-16T15:54:45.031Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/posts/index.html</loc>
-    <lastmod>2025-12-16T15:39:26.498Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2023/essentials-for-outdoor-survival/index.html</loc>
+    <lastmod>2025-12-16T15:54:37.972Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/blog/index.html</loc>
-    <lastmod>2025-12-16T15:40:46.110Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2023/yoga-at-palolem-beach/index.html</loc>
+    <lastmod>2025-12-16T15:53:28.731Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/blog/2023/how-to-build-a-campfire/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.245Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2023/camping-activities-kids/index.html</loc>
+    <lastmod>2025-12-16T15:54:11.581Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/blog/2023/a-beginners-guide-to-camping/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.245Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2024/geocaching/index.html</loc>
+    <lastmod>2025-12-16T15:55:28.491Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/blog/2023/a-beginners-guide-to-kayaking/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.244Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2023/tent-camping-with-children/index.html</loc>
+    <lastmod>2025-12-16T15:55:03.744Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/blog/2023/hiking-the-capital-crescent-trail/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.245Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2023/western-ridge-and-valley-trail-loop/index.html</loc>
+    <lastmod>2025-12-16T15:55:11.602Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/blog/2023/western-ridge-and-valley-trail-loop/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.246Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2023/hiking-the-capital-crescent-trail/index.html</loc>
+    <lastmod>2025-12-16T15:54:51.038Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/blog/2023/tent-camping-with-children/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.246Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2023/a-beginners-guide-to-kayaking/index.html</loc>
+    <lastmod>2025-12-16T15:53:46.302Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/blog/2024/geocaching/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.247Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2023/a-beginners-guide-to-camping/index.html</loc>
+    <lastmod>2025-12-16T15:53:34.391Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/blog/2023/camping-activities-kids/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.246Z</lastmod>
+    <loc>https://outdoorsyindians.com/posts/2023/how-to-build-a-campfire/index.html</loc>
+    <lastmod>2025-12-16T15:54:58.424Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/blog/2023/yoga-at-palolem-beach/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.247Z</lastmod>
+    <loc>https://outdoorsyindians.com/network/index.html</loc>
+    <lastmod>2025-12-16T20:59:13.649Z</lastmod>
   </url>
   <url>
-    <loc>https://outdoorsyindians.com/blog/2023/essentials-for-outdoor-survival/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.244Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/blog/2023/hiking-melvin-c-hazen-trail/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.245Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/blog/2023/campfire-family-games/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.247Z</lastmod>
-  </url>
-  <url>
-    <loc>https://outdoorsyindians.com/blog/2023/a-beginners-guide-to-standup-paddleboarding/index.html</loc>
-    <lastmod>2025-12-15T20:09:40.244Z</lastmod>
+    <loc>https://outdoorsyindians.com/index.html</loc>
+    <lastmod>2025-12-16T20:56:04.220Z</lastmod>
   </url>
 </urlset>

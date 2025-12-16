@@ -15,4 +15,9 @@ listing:
     fields: [date, title, description, author, reading-time, image]
 page-layout: full
 title-block-banner: true
+format:
+    html:
+        toc: true
+        css:
+            - /css/page.css
 ---
