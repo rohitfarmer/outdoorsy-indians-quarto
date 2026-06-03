@@ -23,7 +23,7 @@ format:
 ---
 
 ```{=html}
-<p class="tagline">Your Trailhead to Outdoor Guides, Destinations, &amp; Things to Do</p>
+<p class="tagline">An Indian Family Living the Dream and Exploring the Great Outdoors</p>
 ```
 
 ::: {.column-page}

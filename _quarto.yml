@@ -7,10 +7,10 @@ project:
 
 website:
   favicon: images/favicon.ico
-  title: "Outdoorsy Indians | Outdoor Guides, Destinations & Things to Do"
+  title: "Outdoorsy Indians"
   site-url: https://outdoorsyindians.com
-  description: "At Outdoorsy Indians, we are passionate about helping you embark on exhilarating outdoor adventures in or outside India."
-  back-to-top-navigation: true
+  description: "An Indian Family Living the Dream and Exploring the Great Outdoors"
+  back-to-top-navigation: false
   navbar:
     background: dark
     foreground: light
@@ -22,8 +22,6 @@ website:
         file: about/index.qmd
       - text: "Blog"
         file: blog.qmd
-      - text: "Network"
-        file: network/index.qmd
       - icon: rss
         file: blog.xml
         target: _blank
@@ -32,23 +30,16 @@ website:
         href: https://www.instagram.com/outdoorsyindians/
       - icon: youtube
         href: https://www.youtube.com/@OutdoorsyIndians
-      - icon: pinterest
-        href: https://www.pinterest.com/outdoorsyindians/
-      - icon: reddit
-        href: https://www.reddit.com/r/OutdoorsyIndians/
   page-footer: 
     center: |
       <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>  
     left: |
       Follow us at:  
       [Instagram](https://www.instagram.com/outdoorsyindians/)  
-      [Reddit](https://www.reddit.com/r/OutdoorsyIndians/)  
-      [Pinterest](https://www.pinterest.com/outdoorsyindians/)  
       [YouTube](https://www.youtube.com/@OutdoorsyIndians)  
     right: |
       Contact us at contact@outdoorsyindians.com   
       [About](/about/index.qmd)  
-      [Network](/network/index.qmd)
       [Privacy Policy](/privacy/index.qmd)  
     border: true
     background: dark
