@@ -22,6 +22,8 @@ website:
         file: about/index.qmd
       - text: "Blog"
         file: blog.qmd
+      - text: "Resources"
+        file: resources/index.qmd
       - icon: rss
         file: blog.xml
         target: _blank

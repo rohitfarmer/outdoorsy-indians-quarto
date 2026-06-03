@@ -9,9 +9,6 @@ format:
             - /css/page.css
 ---
 
-<p>
-
-
 Are you ready to embrace the joy of the great outdoors?
 
 ::: {style="float: right; width: 350px; margin: 0 0 1em 1em;"}

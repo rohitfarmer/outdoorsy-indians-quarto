@@ -1,0 +1,49 @@
+---
+title: Resources
+page-layout: full
+title-block-banner: true
+format:
+    html:
+        toc: true
+        css:
+            - /css/page.css
+---
+
+We hope our free resources help you better plan your outdoor adventures.
+
+## Checklists
+
+### Car Camping Checklist
+
+#### Editable Google Docs
+
+Note: You can edit and extend these Google Docs by making a copy in your Google Drive. Click on “File” > “Make a copy” to make the document editable.
+
+* [Car camping checklist in US Letter size Google Doc](https://docs.google.com/document/d/1Q-21KboyrupKagT2dAKsh5VgR3lMrxACXGHdvQ5a0p0/edit?usp=sharing)
+* [Car camping checklist in A4 size Google Doc](https://docs.google.com/document/d/1OWw4YW4PnQHahQHYzFmASkDYaJyRJxaWRtS7pF9S1Fo/edit?usp=sharing)
+
+## Camping Scavenger Hunt
+
+Note: You can edit and extend these Google Docs by making a copy in your Google Drive. Click on “File” > “Make a copy” to make the document editable.
+
+### Spring Season
+
+#### Elementary School Edition
+
+* [US Eastern](https://docs.google.com/document/d/1A0jMibVPAXjFsa0g_d9TPRu-z7xNa5g-DFk6rjCkw6g/edit?usp=sharing)
+* [US Central](https://docs.google.com/document/d/14Xm4JXRhBvH98dc4P4K8WHKDf6VHBO3bI-q9pxss2DI/edit?usp=sharing)
+* [US Mountain](https://docs.google.com/document/d/1c2km-BK40CRu9eS6HxqhKlXIp4U9KlCAYWseig0LX74/edit?usp=sharing)
+* [US Pacific](https://docs.google.com/document/d/1aGcbejIKaz9Sxz_xuWRw2kg9p3UG6cvN5bhWfEzk3y8/edit?usp=sharing)
+
+#### Middle School Edition
+* [US Eastern](https://docs.google.com/document/d/1hUl2dwCPItdYnIcwDY8tCg-J976usl8qu63WvUXcYUI/edit?usp=sharing)
+* [US Central](https://docs.google.com/document/d/1sr9MEa99IYThI_CfWuhxY7pd7DRwr62ZOnTRYP_YO1U/edit?usp=sharing)
+* [US Mountain](https://docs.google.com/document/d/1jPvtPAoDcG8AhLLwr-NAlID4RZKWV6BSheI_yg07zIo/edit?usp=sharing)
+* [US Pacific](https://docs.google.com/document/d/1bmVISOmRF7rVOCsvHIfP__Olb-5DQZeNTyyxMhmzPLg/edit?usp=sharing)
+
+#### High School Edition
+* [US Eastern](https://docs.google.com/document/d/1b4jzHXr9u9I1dTZ0OJAsZ07RE44sro2n9uHvAMHI7d8/edit?usp=sharing)
+* [US Central](https://docs.google.com/document/d/1yUksLDOaHFRkUKUq0sFeGOp_olq-g_5GEKSJitlhoo0/edit?usp=sharing)
+* [US Mountain](https://docs.google.com/document/d/1QjjIhXEs3V31bN48or0YLwEpdwAeGkqujgAJktDI2-w/edit?usp=sharing)
+* [US Pacific](https://docs.google.com/document/d/153gPy9cD80WiPdZbColo7zNGVpeznRJ7Uoc9mug2pq4/edit?usp=sharing)
+
