@@ -7,14 +7,12 @@ Website code for https://outdoorsyindians.com
 ``` yaml
 ---
 title: "A Beginner's Guide to Camping"
-pagetitle: "{{< meta title >}}"
 description: "An easy-to-follow guide to types of camping with details on the beginner’s friendly car tent camping."
 categories: [Camping, Types of Camping,  Car Tent Camping, Beginner]
 author: 
   - name: "Rohit Farmer"
 date: "2023-09-06"
 date-modified: last-modified
-image: banner-image.jpg
 ---
 
 ![Banner image caption](banner-image.jpg){.preview-image fit-alt="Banner image alt text"}
