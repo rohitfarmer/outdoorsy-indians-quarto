@@ -47,6 +47,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap-3773493d2e06691dbc620f61825e58a8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -226,16 +229,16 @@ cookieconsent.run({
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/capital-crescent-trail.jpeg" class="preview-image img-fluid figure-img" alt="A portion of the Capital Crescent Trail along the water body"></p>
+<p><a href="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/capital-crescent-trail.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Capital Crescent Trail"><img src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/capital-crescent-trail.jpeg" class="preview-image img-fluid figure-img" alt="A portion of the Capital Crescent Trail along the water body"></a></p>
 <figcaption>Capital Crescent Trail</figcaption>
 </figure>
 </div>
 <p>In the midst of the bustling urban life, I often seek solace and refuge in the serene embrace of nature during my hikes. Today, I’d like to share my recent adventure on the Capital Crescent Trail, a picturesque walking path that gracefully spans between two vibrant cities: Bethesda, Maryland, and Georgetown, Washington, D.C. This captivating trail extends over 7.0 miles, offering a point-to-point journey.</p>
 <p>Our chosen route led us from Bethesda to Georgetown, presenting a delightful downhill course. The trail itself boasts a level terrain, cherished by runners, hikers, and cycling enthusiasts alike. While the initial 2.5 miles can be bustling on weekends, teeming with bikers and walkers, it gradually gives way to a quieter and more secluded path. Along the way, intermittent views of a winding river that flows parallel to the trail unfold.</p>
-<p><img src="https://i.imgur.com/8xZqmtL.jpeg" class="img-fluid" alt="Another portion of the Capital Crescent Trail"></p>
+<p><a href="https://i.imgur.com/8xZqmtL.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://i.imgur.com/8xZqmtL.jpeg" class="img-fluid" alt="Another portion of the Capital Crescent Trail"></a></p>
 <p>What truly amazed us was the trail’s ability to maintain an oasis of tranquility amidst the urban surroundings, effectively drowning out the noise of city traffic. The three-hour trek to complete the trail left us exhausted but deeply fulfilled.</p>
 <p>One of the trail’s distinct charms lies in the array of restaurants lining its trail heads. These proved to be a welcome sight for us, especially after a hearty meal at the first eatery we encountered.</p>
-<p><img src="https://i.imgur.com/NPPZLmC.jpeg" class="img-fluid" alt="An overlook point on the Capital Crescent Trail."></p>
+<p><a href="https://i.imgur.com/NPPZLmC.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="https://i.imgur.com/NPPZLmC.jpeg" class="img-fluid" alt="An overlook point on the Capital Crescent Trail."></a></p>
 <p>Accessibility to the trail is a breeze, with convenient public transportation options. Personally, I opted for the metro, traveling to Bethesda and then making my way to the trailhead. On the return journey, I disembarked at Rosslyn station, situated merely a mile from the trail’s conclusion.</p>
 <p>For those who wish to customize their hiking experience, the trail is ingeniously designed with multiple entry points, offering ample parking facilities. It’s an adventure that beckons a return visit—a prospect I eagerly anticipate in the rich tapestry of city life.</p>
 <p><strong>Trail Map</strong></p>
@@ -705,6 +708,38 @@ This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0
   </div>
 </footer>
 <div class="sharethis-sticky-share-buttons"></div>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

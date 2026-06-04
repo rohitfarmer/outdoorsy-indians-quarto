@@ -47,6 +47,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap-3773493d2e06691dbc620f61825e58a8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -248,7 +251,7 @@ cookieconsent.run({
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://storage.googleapis.com/outdoorsy-indians-images/posts/dishant-khatri-sup.jpg" class="preview-image img-fluid figure-img" alt="An Indian man on his knees on a standup paddleboard at Emerald Lake, Yoho National Park, British Columbia, Canada"></p>
+<p><a href="https://storage.googleapis.com/outdoorsy-indians-images/posts/dishant-khatri-sup.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="That’s my friend Dishant Khatri on his SUP at Emerald Lake, Yoho National Park, British Columbia, Canada"><img src="https://storage.googleapis.com/outdoorsy-indians-images/posts/dishant-khatri-sup.jpg" class="preview-image img-fluid figure-img" alt="An Indian man on his knees on a standup paddleboard at Emerald Lake, Yoho National Park, British Columbia, Canada"></a></p>
 <figcaption>That’s my friend Dishant Khatri on his SUP at Emerald Lake, Yoho National Park, British Columbia, Canada</figcaption>
 </figure>
 </div>
@@ -884,6 +887,38 @@ This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0
   </div>
 </footer>
 <div class="sharethis-sticky-share-buttons"></div>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

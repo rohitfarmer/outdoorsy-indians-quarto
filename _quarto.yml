@@ -71,6 +71,10 @@ format:
     include-after-body: 
       - text: |
           <div class="sharethis-sticky-share-buttons"></div>
+    lightbox:
+      match: auto
+      effect: zoom
+      desc-position: bottom
 editor: source
 
 

@@ -47,6 +47,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap-3773493d2e06691dbc620f61825e58a8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -237,7 +240,7 @@ cookieconsent.run({
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/children-hammock.jpg" class="preview-image img-fluid figure-img" alt="Two Indian kids swinging in a blue hammock while camping."></p>
+<p><a href="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/children-hammock.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Elsa and Eva love swinging in their hammock while camping."><img src="https://f005.backblazeb2.com/file/outdoorsy-indians/posts/children-hammock.jpg" class="preview-image img-fluid figure-img" alt="Two Indian kids swinging in a blue hammock while camping."></a></p>
 <figcaption>Elsa and Eva love swinging in their hammock while camping.</figcaption>
 </figure>
 </div>
@@ -781,6 +784,38 @@ This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0
   </div>
 </footer>
 <div class="sharethis-sticky-share-buttons"></div>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
