@@ -1,0 +1,60 @@
+---
+title: "Learning How to Stop Severe Bleeding"
+description: "A short hands-on course that showed me why basic bleeding-control skills can be just as important as carrying a first aid kit."
+categories: [Survival]
+author: 
+  - name: "Rohit Farmer"
+date: "2026-07-02"
+---
+
+![Photo by <a href="https://unsplash.com/@navymedicine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Navy Medicine</a> on <a href="https://unsplash.com/photos/first-aid-kit-contents-with-bandages-and-medical-supplies-nGfxoclUgSI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](navy-medicine-nGfxoclUgSI-unsplash.webp){.preview-image fit-alt="First aid kit contents with bandages and medical supplies"}
+
+For the past couple of months, I have been looking for hands-on courses on first aid and related emergency skills. After a bit of searching, I found a free, in-person [Stop the Bleed](https://www.stopthebleed.org/) course offered by Suburban Hospital in Maryland. The next course is on September 16, 2026 [https://stbsept2026.events.suburbanhospital.org/](https://stbsept2026.events.suburbanhospital.org/).
+
+My main reason for taking this course was simple: I spend a lot of time outdoors, as you can see from this website, my [YouTube channel](https://www.youtube.com/@outdoorsyindians), and my [Instagram account](https://www.instagram.com/outdoorsyindians). I hike, camp, bike, kayak, and do other outdoor activities, often with my family. As my kids are growing up, they are joining me more often on these trips. I usually carry a first aid kit with me. Sometimes it is a small kit, and sometimes it is a more complete one, depending on the activity. But carrying a kit is not the same as knowing how to use it properly.
+
+One item I had been especially curious about was a tourniquet. I knew what it was, and I knew it could be important in a serious emergency, but I also knew that using it incorrectly could be a problem. I wanted to learn the basics from trained professionals instead of relying only on videos or written instructions.
+
+Yesterday, I attended a 1.5-hour Stop the Bleed course at Suburban Hospital. The session included about 30 minutes of PowerPoint instruction followed by roughly one hour of hands-on practice using a mannequin. The presentation was led by a nurse from the emergency room trauma response team. Four additional nurses were also there to help with the hands-on portion, and an ER doctor briefly joined the session as well.
+
+The presentation was excellent. It was well prepared, easy to follow, and focused on practical steps that ordinary people can take during a bleeding emergency. We were not given the PowerPoint slides to take home, but I took notes on my phone during the class. *These notes are not complete, and they are not a substitute for proper hands-on training with professionals.* Still, they give a good idea of what the course covered and why I think this kind of training is worth taking.
+
+The main message was clear: **severe bleeding can become life-threatening very quickly**. In some cases, a person can be in serious danger within 3 to 5 minutes. In Montgomery County, the ambulance response time may be around 10 to 12 minutes, and it can be longer in rural areas. That means the people already at the scene may be the ones who can make the biggest difference before emergency medical services arrive.
+
+*One useful side note from the class was that in Montgomery County, you can text 911 instead of calling. This could be helpful if you are unable to speak, if it is unsafe to make noise, or if calling is not possible.*
+
+The course covered three main ways to control bleeding: direct pressure, wound packing, and tourniquet use.
+
+1. **Direct Pressure:** Direct pressure is usually the first step. Pressure can be applied using the palm of your hand. If needed, you may use your elbow or knee to apply stronger pressure. The instructor emphasized that you should not be gentle if the bleeding is severe. You may need to put your body weight into it.
+
+    If you do not have proper gauze, use whatever cloth is available. This could be a bandana, T-shirt, socks, towel, or another piece of fabric. Even if the cloth is not perfectly clean, the priority is to stop the bleeding. Any possible infection from using dirty cloth can be addressed later by medical professionals. In that moment, uncontrolled bleeding is the more urgent danger.
+
+    ![Note: This image was generated using ChatGPT based on the text of this section.](direct-pressure.webp){group="stb"}
+
+2. **Wound Packing:** If direct pressure is not enough, wound packing may be needed. This means filling the wound with gauze or cloth and then continuing to apply firm pressure. The goal is to put pressure directly where the bleeding is coming from. This is one of the parts of the course where hands-on practice was especially useful. It is one thing to hear the words “pack the wound,” but it is very different to actually practice doing it on a training mannequin.
+
+    ![Note: This image was generated using ChatGPT based on the text of this section.](wound-packing.webp){group="stb"}
+
+3. **Tourniquet:** If direct pressure and wound packing do not work, or if the injury is on an arm or leg and the bleeding is severe, a tourniquet may be needed. A tourniquet should be placed between the wound and the heart, preferably about three inches or three fingers above the wound, as taught in the class.
+
+    The instructors made it very clear that a working tourniquet is painful. If it is loose and comfortable, it is probably not tight enough to stop the bleeding. The tourniquet has to be tightened until the bleeding stops. If needed, a second tourniquet can be placed above the first one.
+
+    Once the tourniquet is secured, you should write down the time it was applied. Some tourniquets have a Velcro strip or marked area where the time can be written. If the tourniquet gets soaked in blood or is covered by clothing, the instructor said the time can also be written on the person’s forehead. This alerts emergency medical personnel that a tourniquet has been applied somewhere on the body and helps them respond quickly.
+
+    ![Note: This image was generated using ChatGPT based on the text of this section.](tourniquet.webp){group="stb"}
+
+    We also discussed situations where a tourniquet may be the preferred first step instead of direct pressure or wound packing. For example, if someone has lost a limb, there may not be much bleeding in the first few seconds because of muscle spasms, but heavy bleeding can begin soon after. In that situation, applying a tourniquet right away may be necessary.
+
+    Another example was a crush injury. If a person’s leg is trapped or crushed between two vehicles or heavy objects, a tourniquet may be applied before the pressure is removed. This can help control bleeding as soon as the trapped limb is released.
+
+    A third example was a situation where you are alone and need both hands free to call for help. In some cases, applying a tourniquet may allow you to stop the bleeding enough to call 911, get help, or move to a safer position. These examples helped me understand that real emergencies are not always neat or simple. The right response can depend on the situation.
+
+We also discussed a few practical concerns. If you do not have gloves, you can use a cloth as a barrier and let EMS know what happened when they arrive. The risk of infection from touching blood is much lower if you do not have an open wound, but it is still better to protect yourself when possible.
+
+For babies, the instructor mentioned that pressure from human hands is usually enough. That was an important reminder that not every situation requires every tool. Hands-on training helps you understand what is appropriate for different situations and different people.
+
+After the practical session, all participants were given a free Stop the Bleed kit. The kit included a tourniquet, a pair of scissors, gauze, gloves, and a bandage. I do not know if every host provides a kit, but in our case, it was provided by the University of Maryland Medical System. It was a very useful addition because it means participants could leave the course with both basic training and some of the tools needed in an emergency.
+
+I came away from the course feeling that this is the kind of training more people should take. You may never need to use it, and hopefully you never do. But if something serious happens near you, whether on a trail, at a campsite, on the road, at work, or even at home, knowing these basic steps could help save someone’s life.
+
+*A first aid kit is useful, but skills matter even more. Taking a short, hands-on course like this can make you more confident, more prepared, and more useful in an emergency.*
