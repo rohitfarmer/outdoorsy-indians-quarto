@@ -7,6 +7,8 @@ format:
   html:
     include-in-header:
       - text: |
+          <meta name="description" content="An Indian Family Living the Dream and Exploring the Great Outdoors.">
+          <meta name="keywords" content="Outdoors, Adventure, Indians in the USA, Hiking, Kayaking, Camping, Biking, Overlanding, Family Adventure, Vlogging">
           <style>
           body {
             height: 100%;
