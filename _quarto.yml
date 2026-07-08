@@ -62,7 +62,7 @@ format:
     fontsize: 1.2em
     css: /css/styles.css
     backgroundcolor: "#f4f6f8"
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
     include-in-header: 
       - text: |

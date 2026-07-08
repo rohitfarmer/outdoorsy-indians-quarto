@@ -5,9 +5,10 @@ categories: [Camping]
 author: 
   - name: "Rohit Farmer"
 date: "2026-05-19"
+date-modified: "2026-07-08"
 ---
 
-![Rocky Gap State Park Sky View](rocky-gap-sky-view.webp){.preview-image fit-alt="Rocky Gap State Park Sky View"}
+![Rocky Gap State Park Sky View](rocky-gap-sky-view.webp){.preview-image fit-alt="Rocky Gap State Park Sky View" group="rockygap"}
 
 
 Our first family camping trip of the year took us back to [Rocky Gap State Park](https://dnr.maryland.gov/publiclands/pages/western/rockygap.aspx) in Western Maryland. We stayed there from May 15 to May 17, and this was our second time camping at this campground. The first trip (Site 259 in Ironwood Loop) gave us a memorable story, but not exactly the kind we wanted to repeat. We had been caught in a thunderstorm, our tent leaked, and we ended up spending the night in our car.
@@ -23,7 +24,18 @@ Rocky Gap State Park turned out to be a great place for this kind of relaxed fam
 One of the nice things about returning to the same campground is that you arrive with a little more confidence. We already knew the general layout, the lake, the beach area, and the campground atmosphere. We also knew what could go wrong because of our previous thunderstorm experience.
 
 This time, having a cabin next to the tent site gave the trip a much better balance. We still cooked outside, spent time around the campsite, relaxed in hammocks, and enjoyed the campground life. But we also had a more secure sleeping option for those who did not want to sleep in the tent.
+
 For families where not everyone loves tent camping, this can be a very practical setup. One family can use the tent, another can use the cabin, and everyone can still spend the whole day together outdoors.
+
+::: {layout-ncol=2}
+
+![Our overall setup for the tent site.](https://files.mastodon.social/media_attachments/files/116/653/637/403/469/607/original/0d40e81adba70811.jpg){group="rockygap"}
+
+![Both tents are 4-person tents from Coleman - the Sundome (green) and the Pine River II (red). For the tent footprint, we used a 10' x 8' utility tarp from Dollar Tree. ](https://files.mastodon.social/media_attachments/files/116/885/402/816/455/339/original/c95300064642f889.jpg){group="rockygap"}
+
+![Our kitchen and dining area under a generic tarp from Temu.](https://files.mastodon.social/media_attachments/files/116/653/637/183/442/325/original/73cd33720fa2fdca.jpg){group="rockygap"}
+
+:::
 
 ## Camp Cooking, Hammocks, and Slow Outdoor Time
 
@@ -32,6 +44,10 @@ Some of the best parts of camping are not big activities at all. They are the sl
 We cooked together (grilled tomahawk shank, portabello mushrooms, chili mac, bacon, sausages, scrambled eggs, and ramen noodles), sat around the campsite, watched the kids play, and enjoyed not having to rush from one thing to the next. The hammocks were a big hit, especially with the kids. Sometimes we adults think children need a long list of activities, but on this trip, the hammocks alone gave them hours of fun.
 
 They climbed in and out, swung gently, rested, laughed, and treated the hammocks almost like a playground. It reminded me that camping does not always need to be packed with plans. Sometimes the simplest things become the most memorable.
+
+{{< video https://files.mastodon.social/media_attachments/files/116/886/206/134/012/141/original/1c20c084646a38dd.mp4 
+title='Colored campfire using a GoFire Northern Lights Color Flames packet that we bought from Walmart. Kids just loved it.' >}}
+*Colored campfire using a GoFire Northern Lights Color Flames packet that we bought from Walmart. Kids just loved it.*
 
 ## Lake Habeeb and the Beach
 
@@ -82,9 +98,15 @@ Some of the main activities include:
 
 ## Why Rocky Gap Works Well for Families
 
+
 For us, Rocky Gap works because it offers a good mix of comfort and nature.
 
 It is not a remote backcountry experience. It is car camping, which means you can bring more gear, food, chairs, hammocks, and things that make camping easier with kids. But it still feels outdoorsy because of the lake, mountains, trails, and campground setting.
+
+::: {.column-margin}
+[How to Tent Camp with Little Children](https://outdoorsyindians.com/posts/2023/tent-camping-with-children/)
+:::
+
 
 It also works well for groups. Booking nearby sites or combining a tent site with a cabin can make the experience more flexible. Some people can sleep in tents, some can sleep in cabins, and everyone can still gather together during the day.
 
