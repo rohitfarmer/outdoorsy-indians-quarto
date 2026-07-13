@@ -5,9 +5,10 @@ categories: [Survival]
 author: 
   - name: "Rohit Farmer"
 date: "2026-07-11"
+date-modified: "2026-07-13"
 ---
 
-![Photo by <a href="https://unsplash.com/@splitti?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Martin Splitt</a> on <a href="https://unsplash.com/photos/man-in-white-t-shirt-and-blue-pants-sitting-on-floor-8ByBvAXwFEc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](martin-splitt-8ByBvAXwFEc-unsplash.webp){.preview-image fit-alt="A man performing chest compressions on a mannequin."}
+![Photo by <a href="https://unsplash.com/@splitti?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Martin Splitt</a> on <a href="https://unsplash.com/photos/man-in-white-t-shirt-and-blue-pants-sitting-on-floor-8ByBvAXwFEc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](martin-splitt-8ByBvAXwFEc-unsplash.webp){.preview-image fit-alt="A man performing chest compressions on a mannequin." group="sal"}
 
 
 Today, July 11, 2026, I attended a [**Save a Life Seminar and hands-on training**](https://www.eventbrite.com/e/save-a-life-seminar-saturday-july-11-2026-1000-am-100-pm-tickets-1990535191341) organized by [Montgomery County CERT](https://montgomerycert.org/). For me, this training was an extension of the Stop the Bleed training I completed on July 1 and wrote about in a previous [blog post](https://outdoorsyindians.com/posts/2026/learning-how-to-stop-severe-bleeding/). The seminar covered three emergency-response skills that ordinary people may need before professional help arrives:
@@ -72,7 +73,7 @@ If an adult suddenly collapses:
 
 Rather than shouting generally for someone to help, the instructors recommended assigning tasks directly: “You in the blue shirt, call 911,” or “Please get the AED from the hallway and bring it here.”
 
-## Performing Hands-Only CPR
+### Performing Hands-Only CPR
 
 The course primarily taught **hands-only CPR for adults**.
 
@@ -90,7 +91,9 @@ The instructors also explained that conventional CPR includes cycles of **30 com
 
 The most important message was that immediate bystander action matters. Early CPR can double or triple a person’s chance of surviving cardiac arrest.
 
-## Using an AED
+![Note: This image was generated using ChatGPT based on the text of this section.](cpr.webp){group="sal"}
+
+### Using an AED
 
 An **automated external defibrillator** analyzes the electrical activity of the heart and determines whether a shock is appropriate. The user does not make that decision.
 
@@ -114,9 +117,11 @@ The pads must adhere directly to bare skin. If the chest is very wet or sweaty, 
 
 Most importantly, continue CPR and AED use until the person shows clear signs of life, the scene becomes unsafe, you are physically unable to continue, or emergency responders take over. Seeing an ambulance arrive outside the building is not the signal to stop; care continues until responders reach the patient and explicitly assume responsibility.
 
+![Note: This image was generated using ChatGPT based on the text of this section.](aed.webp){group="sal"}
+
 ## Recognizing Life-Threatening Bleeding
 
-The bleeding-control portion focused on injuries that can cause death within minutes, rather than small cuts that can be handled with an ordinary adhesive bandage. This portion was similar to the Stop the Bleed training I mentioned before, with a few extras. 
+The bleeding-control portion focused on injuries that can cause death within minutes, rather than small cuts that can be handled with an ordinary adhesive bandage. This portion was similar to the Stop the Bleed training I mentioned before, with a few extras.
 
 Possible signs of life-threatening bleeding include:
 
@@ -131,7 +136,7 @@ The first actions are to check scene safety, call 911, obtain consent when possi
 
 Severe bleeding can become fatal within minutes, so treatment must begin before emergency medical services arrive.
 
-## Direct Pressure Comes First
+### Direct Pressure Comes First
 
 The first treatment for most external bleeding is **firm, continuous direct pressure**.
 
@@ -143,21 +148,9 @@ Once direct pressure begins, it should be maintained continuously. Frequently li
 
 A trauma pressure dressing can then be wrapped tightly over the wound while maintaining pressure.
 
-## Tourniquets for Severe Arm or Leg Bleeding
+![Note: This image was generated using ChatGPT based on the text from the previous blogpost on Learning How to Stop Severe Bleeding.](../learning-how-to-stop-severe-bleeding/direct-pressure.webp){group="sal"}
 
-When life-threatening bleeding from an arm or leg cannot be controlled quickly with direct pressure—or when the injury is obviously catastrophic—a tourniquet may be necessary.
-
-We practiced with a **Combat Application Tourniquet**, commonly called a CAT. It consists of a wide band, a windlass rod used to tighten it, and a clip that prevents the rod from unwinding.
-
-A tourniquet is applied to an arm or leg, generally two to three inches above the wound and never directly over a joint. When the wound cannot be located quickly or circumstances require immediate action, the Montgomery County instructors taught the simplified instruction **“high and tight”** on the affected limb.
-
-The band is first pulled as tight as possible. The windlass is then twisted until the bleeding stops and secured in its clip. An effective tourniquet will be painful, but discomfort is secondary when the alternative is uncontrolled blood loss.
-
-The time of application should be written on the tourniquet or otherwise documented. Once applied, a bystander should **not loosen or remove it**. Removal belongs in a hospital or another appropriate medical setting. If one properly positioned tourniquet does not stop the bleeding, a second can be placed above the first.
-
-The instructors also demonstrated the principles of an improvised tourniquet. It requires a sufficiently wide and flexible band, a strong object to serve as a windlass, and a way to secure that windlass after tightening. A narrow cord or lanyard is generally unsuitable, while folded cloth may work better. A commercially manufactured tourniquet remains preferable whenever one is available.
-
-## Packing a Deep Wound
+### Packing a Deep Wound
 
 Some wounds are too deep for pressure applied only at the surface.
 
@@ -171,7 +164,25 @@ The instructors emphasized that bystanders should **not pack wounds in the chest
 
 Practicing this technique on a simulated wound was one of the most helpful parts of the seminar. The word “packing” sounds straightforward, but the exercise demonstrated that the gauze must be inserted firmly and deliberately rather than placed loosely over the opening.
 
-## Chest Wounds, Impaled Objects, and Amputations
+![Note: This image was generated using ChatGPT based on the text from the previous blogpost on Learning How to Stop Severe Bleeding.](../learning-how-to-stop-severe-bleeding/wound-packing.webp){group="sal"}
+
+### Tourniquets for Severe Arm or Leg Bleeding
+
+When life-threatening bleeding from an arm or leg cannot be controlled quickly with direct pressure—or when the injury is obviously catastrophic—a tourniquet may be necessary.
+
+We practiced with a **Combat Application Tourniquet**, commonly called a CAT. It consists of a wide band, a windlass rod used to tighten it, and a clip that prevents the rod from unwinding.
+
+A tourniquet is applied to an arm or leg, generally two to three inches above the wound and never directly over a joint. When the wound cannot be located quickly or circumstances require immediate action, the Montgomery County instructors taught the simplified instruction **“high and tight”** on the affected limb.
+
+The band is first pulled as tight as possible. The windlass is then twisted until the bleeding stops and secured in its clip. An effective tourniquet will be painful, but discomfort is secondary when the alternative is uncontrolled blood loss.
+
+The time of application should be written on the tourniquet or otherwise documented. Once applied, a bystander should **not loosen or remove it**. Removal belongs in a hospital or another appropriate medical setting. If one properly positioned tourniquet does not stop the bleeding, a second can be placed above the first.
+
+The instructors also demonstrated the principles of an improvised tourniquet. It requires a sufficiently wide and flexible band, a strong object to serve as a windlass, and a way to secure that windlass after tightening. A narrow cord or lanyard is generally unsuitable, while folded cloth may work better. A commercially manufactured tourniquet remains preferable whenever one is available.
+
+![Note: This image was generated using ChatGPT based on the text from the previous blogpost on Learning How to Stop Severe Bleeding.](../learning-how-to-stop-severe-bleeding/tourniquet.webp){group="sal"}
+
+### Chest Wounds, Impaled Objects, and Amputations
 
 The seminar briefly introduced several additional injury considerations.
 
@@ -183,7 +194,7 @@ For a complete or partial amputation, bleeding from the affected limb must be co
 
 ## Recognizing an Opioid Overdose
 
-I was unable to record the Narcan portion of the presentation, so I supplemented my notes using official Maryland, Montgomery County, CDC, and FDA information.
+I was unable to take detailed notes on the Narcan portion of the presentation, so I am supplementing my notes using official Maryland, Montgomery County, CDC, and FDA information.
 
 **Narcan** is a brand name for **naloxone**, a medication that can rapidly reverse the effects of an opioid overdose. It can help restore breathing after an overdose involving opioids such as heroin, fentanyl, or prescription opioid medications. Its effect is temporary, so emergency medical care is still necessary even when the person wakes up.
 
@@ -212,19 +223,6 @@ Naloxone is considered safe to administer when an opioid overdose is suspected. 
 
 Someone who receives naloxone may awaken confused, frightened, agitated, nauseated, or experiencing sudden withdrawal symptoms. Remaining calm, explaining what happened, and encouraging the person to wait for medical help are important.
 
-## Obtaining Narcan in Montgomery County
-
-Montgomery County’s Harm Reduction Services provides overdose education, naloxone, fentanyl test strips, and other services to county residents. The program is based at:
-
-**Montgomery County Harm Reduction Services**
-1500 East Gude Drive
-Rockville, Maryland 20850
-Phone: **240-777-1836**
-
-The Maryland service guide also lists a satellite location at the Dennis Avenue Health Center in Silver Spring. Residents should call the program to confirm current pickup hours or arrange access to supplies.
-
-Keeping naloxone available is similar to knowing where an AED or bleeding-control kit is located: you may never expect to need it, but having it nearby can make immediate action possible.
-
 ## What I Took Away from the Training
 
 My biggest takeaway was that lifesaving care does not begin with advanced equipment or perfect medical knowledge. It begins with an ordinary person recognizing that something is wrong and deciding to act.
@@ -235,8 +233,8 @@ That action may mean:
 * Beginning chest compressions
 * Bringing and operating an AED
 * Pressing firmly on a bleeding wound
-* Applying a tourniquet
 * Packing a deep wound
+* Applying a tourniquet
 * Administering naloxone
 
 The hands-on practice helped replace some of the uncertainty with muscle memory. I now have a better understanding of how deep CPR compressions must be, how physically demanding they are, how tightly an effective tourniquet must be applied, and how firmly a wound must be packed.
@@ -245,6 +243,4 @@ The seminar also changed what I notice when entering a public place. I plan to p
 
 No brief seminar can make someone a medical professional, and this article is not a substitute for certified CPR, first-aid, bleeding-control, or naloxone training. However, the class reinforced an important point: **we do not need to know everything before we can do something useful**.
 
-Check that the scene is safe. Call 911. Follow the dispatcher and emergency equipment instructions. Use the skills you have practiced. Continue until professional help takes over.
-
-Sometimes saving a life begins with simply being willing to step forward.
+***Check that the scene is safe. Call 911. Follow the dispatcher and emergency equipment instructions. Use the skills you have practiced. Continue until professional help takes over.***

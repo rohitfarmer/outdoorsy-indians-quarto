@@ -27,4 +27,7 @@ It requires latest version of [ImageMagick](https://imagemagick.org/)
 
 ```bash
 magick mogrify -resize 1200x -quality 80 -format webp *.jpg
+
+magick mogrify -quality 80 -format webp *.jpg
+
 ```

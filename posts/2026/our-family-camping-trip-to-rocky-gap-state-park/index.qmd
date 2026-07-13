@@ -1,6 +1,6 @@
 ---
 title: "Our Family Camping Trip to Rocky Gap State Park"
-description: "A relaxed family camping weekend at Rocky Gap State Park filled with friends, hammocks, lake time, paddle boarding, and a little unexpected rain.."
+description: "A relaxed family camping weekend at Rocky Gap State Park filled with friends, hammocks, lake time, paddle boarding, and a little unexpected rain."
 categories: [Camping]
 author: 
   - name: "Rohit Farmer"
